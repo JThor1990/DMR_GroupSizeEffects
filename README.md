@@ -1,4 +1,4 @@
-# "No obvious benefit of group size in wild Damaraland mole-rats _Fukomys_ _damarensis"
+# "No obvious benefit of group size in wild Damaraland mole-rats _Fukomys_ _damarensis_"
 
 The files in this repository provide the R code necessary to replicate all of the analyses in the paper. 
 
