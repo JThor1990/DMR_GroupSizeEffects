@@ -5,11 +5,11 @@ The files in this repository provide the R code necessary to replicate all of th
 
 The R scripts are separated according to analysis:
 
-# i) Status-related survivorship in females
+## i) Status-related survivorship in females
 
 
-# ii) Early life growth, adult body mass, and body condition
+## ii) Early life growth, adult body mass, and body condition
 
 
-# iii) Within-group recruitment rates
+## iii) Within-group recruitment rates
 
