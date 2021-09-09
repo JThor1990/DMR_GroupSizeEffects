@@ -1,6 +1,6 @@
 # "No obvious benefit of group size in wild Damaraland mole-rats _Fukomys_ _damarensis_"
 
-The files in this repository provide the R code necessary to replicate all of the analyses in the paper. 
+The files in this repository provide the R code necessary to replicate all of the analyses in the paper. All the data were collected from a population of mole-rats living around the Kuruman River Reserve, Northern Cape, South Africa. 
 
 
 The R scripts are separated according to analysis:
