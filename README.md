@@ -7,9 +7,16 @@ The R scripts are separated according to analysis:
 
 ## i) Status-related survivorship in females
 
+Using multi-state models to estimate 'survivorship' of females in one of three states: in-group non-breeder, dispersed single female, breeder. 
 
-## ii) Early life growth, adult body mass, and body condition
+## ii) Early life growth, adult body mass
 
+Modelling the effect of group size on skeletal (via teeth width) and body mass growth, as well as additional confirmatory analyses of adult mass.
 
-## iii) Within-group recruitment rates
+## iv) The body condition of single females
 
+Comparing the body condition of single females vs size-matched in-group non-breeders, through allometric scaling relationships of body mass on skeletal size. 
+
+## iv) Within-group recruitment rates
+
+Analysing the effect of group size on the recruitment rate of offspring across the duration of our study (longitudinal analysis). We also create new pairs experimental by introducing unrelated adult males to a portion of dispersed single females, and compare their rates of recruitment against established groups (experimental analysis); to test whether the absence of additional group members reduces the reproductive output of breeding females. 
