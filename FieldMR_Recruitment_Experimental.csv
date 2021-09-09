@@ -1,0 +1,19 @@
+GroupID,Treatment,CaptureStart,TimeToNextCap,WithinGroupRecruits,RecruitmentRate
+Kuruman 20,ExperimentalPairing,20/04/2016,272,5,3.308823529
+Kuruman 19,ExperimentalPairing,03/05/2016,286,6,3.776223776
+Kuruman 24,ExperimentalPairing,04/05/2016,313,0,0
+Kuruman 11,ExperimentalPairing,06/05/2016,291,5,3.092783505
+Kuruman 31,ExperimentalPairing,06/05/2016,374,2,0.962566845
+Lonely 65,ExperimentalPairing,10/05/2016,429,2,0.839160839
+Kuruman 16,ExperimentalPairing,30/05/2016,245,3,2.204081633
+Kuruman 26,ExperimentalPairing,30/05/2016,245,3,2.204081633
+Botswana 22,EstablishedGroup,06/05/2016,104,0,0
+Kuruman 27,EstablishedGroup,25/07/2016,195,7,6.461538462
+Lonely 18,EstablishedGroup,29/02/2016,200,0,0
+Lonely 11,EstablishedGroup,02/05/2016,393,4,1.832061069
+Lonely 15,EstablishedGroup,24/02/2016,198,2,1.818181818
+Kuruman 1,EstablishedGroup,26/04/2016,372,1,0.483870968
+Kuruman 10,EstablishedGroup,25/04/2016,301,7,4.186046512
+Lonely 46,EstablishedGroup,29/02/2016,200,4,3.6
+Kuruman 13,EstablishedGroup,12/04/2016,286,7,4.405594406
+NA,All groups,NA,NA,NA,NA
