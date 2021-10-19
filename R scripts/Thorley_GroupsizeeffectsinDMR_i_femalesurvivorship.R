@@ -112,7 +112,7 @@ rownames(females.q) <- colnames(females.q) <- c("femalenonbreeder", "single", "b
 
 # simple model (assuming either single or paired states can be censored)
 # and don't specify death equals as the timing of the final state is also not known with certainty
-females.msm <- msm(state ~ Time.years, subject = AnimalID, censor = 99, censor.states = c(1,2,3,4),  
+females.msm <- msm(state ~ Time.years, subject = AnimalID, censor = 99, censor.states = c(1,2,3),  
                                 data = females, qmatrix = females.q, 
                                 na.action = na.fail)
 pmatrix.msm(females.msm, t = 1, ci = "normal") # Transition intensities over a period of 1 
@@ -158,5 +158,20 @@ for(i in 1:3){
 points(estimate ~ num, data = df, las = 1, type  = "p", col = c("gold", "darkorange", "forestgreen"), cex = 2, pch = 16)
 points(estimate ~ num, data = df, las = 1, type  = "p", cex = 2, pch = 1)
 axis(1, at = 1:3, labels = NA)
+
+
+#------------------------------------------------
+
+# Including group size in the multistate model: 
+
+# via a transition-specific group size covariate for 1 --> 4 and 3 --> 4
+
+females.msm2 <- msm(state ~ Time.years, subject = AnimalID, censor = 99, censor.states = c(1,2,3),  
+                    data = females, qmatrix = females.q, 
+                    covariates = list("1-4" = ~ GroupSize, "3-4" = ~ GroupSize),
+                    na.action = na.fail, 
+                    control = list(fnscale = 4000, maxit = 10000))
+pmatrix.msm(females.msm2, t = 1, ci = "normal") # Transition intensities over a period of 1 
+summary(females.msm2)
 
 #####-----------------  END   ------------------####
