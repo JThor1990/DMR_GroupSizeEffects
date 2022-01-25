@@ -15,7 +15,7 @@ library(tidyverse) ;  library(msm) ; library(msmtools)
 # Technically, because we cannot know that individuals who disappear are dead, we are really estimating disappearance. 
 
 # read in the appropriate data set (will need to set your own working directory here)
-females <- read.csv("Fates_AllFemales.csv", header = TRUE) # Females(first captured < 80g)
+females <- read.csv("FieldMR_Fates_AllFemales.csv", header = TRUE) # Females(first captured < 80g)
 
 # first need to incorporate the plotting windows 
 trappingwindows.krr <- data.frame(TrappingWindow = 1:13, PeriodStart = as.Date(c("2013-11-17", "2014-07-27", "2015-02-10", "2015-09-16", "2016-02-04", "2016-07-25", "2017-01-16", "2017-07-31", "2018-03-17", "2018-09-14", "2019-03-09", "2019-09-09", "2020-03-05")), PeriodEnd = as.Date(c( "2014-05-21","2014-11-24", "2015-04-14", "2015-10-22", "2016-06-06", "2016-09-12", "2017-05-30", "2017-10-26", "2018-05-30", "2018-12-04", "2019-04-24", "2019-11-30", "2020-05-27")))
@@ -36,7 +36,7 @@ r1 <- females %>%
 
 r2 <- rle(as.character(r1$AnimalID))
 r1$id <- rep(seq_along(r2$lengths), r2$lengths)
-r1 <- select(r1, -firstcapturedate)
+r1 <- dplyr::select(r1, -firstcapturedate)
   
 females <- females %>% 
   left_join(r1) %>% 
@@ -44,6 +44,9 @@ females <- females %>%
   mutate(id = as.factor(id), statecode = as.factor(statecode))
 
 females$statecode <- factor(females$statecode, levels = c("femalenonbreeder", "single", "inheritedbreeder", "breeder",  "Dead"))
+
+# pick a colour palette 
+colpal <- viridis::viridis(10)[seq(2, 10, 2)]
 
 female.fates <- ggplot(females, aes(x = CaptureStart, y = id, group = id, fill = statecode, shape = statecode))  +
   geom_vline(xintercept = seq(365/2, 2200, 365/2), colour="grey", linetype = "longdash") +
@@ -60,9 +63,9 @@ female.fates <- ggplot(females, aes(x = CaptureStart, y = id, group = id, fill =
             aes(xmin=PeriodStart,xmax=PeriodEnd,ymin=0,ymax=364), alpha = 0.2, fill = "lightgreen")  + 
   geom_point(size  = 4, alpha = 0.6) + 
   scale_shape_manual(values = c(21, 21, 21, 21, 21), labels = c("Female nonbreeder", "Single female (dispersed)", "Inherited breeding position", "Breeder", "Dead/Disappeared")) +
-  scale_fill_manual(values  = c("gold", "darkorange", "dodgerblue", "forestgreen", "red"), guide = FALSE) + 
+  scale_fill_manual(values  = c(colpal[3], "darkorange", "dodgerblue", colpal[1], "red"), guide = FALSE) + 
   scale_colour_manual(values = c("black", "black", "black", "black")) + 
-  guides(shape = guide_legend(override.aes = list(fill = c("gold", "darkorange", "dodgerblue", "forestgreen", "red")))) +
+  guides(shape = guide_legend(override.aes = list(fill = c(colpal[3], "darkorange", "dodgerblue", colpal[1], "red")))) +
   ggtitle("Female mole-rat captures")
 
 annotation <- females %>% 
@@ -132,17 +135,52 @@ qratio.msm(females.msm, ind1 = c(1,4), ind2 = c(3,4)) # non-breeder versus breed
 par(mfrow = c(1,1))
 plot.msm(females.msm, las = 1, xlab = "Time, years", ylab = "Survival Probability", cex.lab = 1.2, cex.axis = 1.3)  # note here that survival means not entering absorbing state, so this nicely demonstrates already
 
+par(mfrow = c(2,2))
+plot.survfit.msm(females.msm, from = 1, las = 1, interp = "midpoint", lwd = 3, 
+                 col =  colpal[5], col.surv = adjustcolor("black", alpha.f = 0.5), 
+                 cex.lab = 1.1, cex.axis = 1.1, ci = "normal", col.ci = colpal[5], 
+                 legend.pos = c(10, 1))
+
+plot.survfit.msm(females.msm, from = 2, las = 1,  interp = "midpoint", lwd = 3, 
+                 col =  colpal[3], col.surv = adjustcolor("black", alpha.f = 0.5),
+                 cex.lab = 1.1, cex.axis = 1.1,  ci = "normal", col.ci = colpal[3], 
+                 legend.pos = c(10, 1))  
+
+
+plot.survfit.msm(females.msm, from = 3, las = 1,  interp = "midpoint", lwd = 3, 
+                 col = colpal[1], col.surv = adjustcolor("black", alpha.f = 0.5), 
+                 cex.lab = 1.1, cex.axis = 1.1,  ci = "normal", col.ci = colpal[1], 
+                 legend.pos = c(10, 1)) 
+
+# now repeat but where we shade in the confidence intervals (make them a polygon)
+# For this we need to tweak the underlying plotting function in msm "plot.survfit.msm", 
+# which is now wrapped into a function called plot.survfit.msm2 in the github folder
+source("plotsurvfitmsm2.R")  # call in the source code for the function from the library
 
 par(mfrow = c(2,2))
-plot.survfit.msm(females.msm, from = 1, las = 1, main = "In-group non-breeders", interp = "midpoint", lwd = 3, col = "gold", col.surv = adjustcolor("blue", alpha.f = 0.5), cex.lab = 1.1, cex.axis = 1.1)
-plot.survfit.msm(females.msm, from = 2, las = 1, main = "Single females", interp = "midpoint", lwd = 3, col = "darkorange", col.surv = adjustcolor("blue", alpha.f = 0.5), cex.lab = 1.1, cex.axis = 1.1)  
-plot.survfit.msm(females.msm, from = 3, las = 1, main = "Breeding females", interp = "midpoint", lwd = 3, col = "forestgreen", col.surv = adjustcolor("blue", alpha.f = 0.5), cex.lab = 1.1, cex.axis = 1.1) 
+plot.survfit.msm2(females.msm, from = 1, las = 1, interp = "midpoint", lwd = 3, 
+                 col =  colpal[3], col.surv = adjustcolor("black", alpha.f = 0.5), 
+                 cex.lab = 1.1, cex.axis = 1.1, ci = "normal", col.ci = colpal[3], 
+                 legend.pos = c(10, 1), xlab = "Time, years",
+                 col.poly = colpal[3], alpha.poly = 0.1) # the added arguments at on this line
+legend(3.7, 0.95, legend = c("Fitted", "Empirical"), lty = c(1,2), lwd = c(2,2), col = c(colpal[3], "black"), bty = "n")
+text(2, 0.1, labels = "In-group non-breeding\n females")
 
-# incorporate confidence intervals in the fitted survivorship
-  par(mfrow = c(2,2))
-  plot.survfit.msm(females.msm, from = 1, las = 1, main = "In-group non-breeders", interp = "midpoint", lwd = 3, col = "gold", col.surv = adjustcolor("blue", alpha.f = 0.5), cex.lab = 1.1, cex.axis = 1.1, mark.time= FALSE, ci = "normal", col.ci = "gold")
-  plot.survfit.msm(females.msm, from = 2, las = 1, main = "Single females", interp = "midpoint", lwd = 3, col = "darkorange", col.surv = adjustcolor("blue", alpha.f = 0.5), cex.lab = 1.1, cex.axis = 1.1, mark.time= FALSE, ci = "normal", col.ci = "darkorange") 
-  plot.survfit.msm(females.msm, from = 3, las = 1, main = "Breeding females", interp = "midpoint", lwd = 3, col = "forestgreen", col.surv = adjustcolor("blue", alpha.f = 0.5), cex.lab = 1.1, cex.axis = 1.1, mark.time= FALSE, ci = "normal", col.ci = "forestgreen")
+plot.survfit.msm2(females.msm, from = 2, las = 1,  interp = "midpoint", lwd = 3, 
+                 col =  "darkorange", col.surv = adjustcolor("black", alpha.f = 0.5),
+                 cex.lab = 1.1, cex.axis = 1.1,  ci = "normal", col.ci = "darkorange", 
+                 legend.pos = c(10, 1), xlab = "Time, years",
+                 col.poly = "darkorange", alpha.poly = 0.1)  
+legend(3.7, 0.95, legend = c("Fitted", "Empirical"), lty = c(1,2), lwd = c(2,2), col = c("darkorange", "black"), bty = "n")
+text(2, 0.1, labels = "Single females")
+
+plot.survfit.msm2(females.msm, from = 3, las = 1,  interp = "midpoint", lwd = 3, 
+                 col = colpal[1], col.surv = adjustcolor("black", alpha.f = 0.5), 
+                 cex.lab = 1.1, cex.axis = 1.1,  ci = "normal", col.ci = colpal[1], 
+                 legend.pos = c(10, 1), xlab = "Time, years",
+                 col.poly = colpal[1], alpha.poly = 0.1) 
+legend(3.7, 0.95, legend = c("Fitted", "Empirical"), lty = c(1,2), lwd = c(2,2), col = c(colpal[1], "black"), bty = "n")
+text(2, 0.1, labels = "Breeding females")
 
 
 # Lastly plot the annual survival estimate
@@ -150,15 +188,13 @@ survivalprobabilities <- data.frame(pmatrix.msm(females.msm, t = 1, ci = "normal
 df <- data.frame(estimate = survivalprobabilities[1], lower = survivalprobabilities[2], upper = survivalprobabilities[3], 
                  class = c("nonbreeder", "single", "breeder"), num = 1:3)
 
-par(mfrow=c(1,1))
-plot(estimate ~ num, data = df, las = 1, type  = "n", xlim = c(0, 4), ylim= c(0, 0.5), xaxt = "n", xlab = NA, ylab = "Annual Probability of Disappearing", bty = "l")
+plot(estimate ~ num, data = df, las = 1, type  = "n", xlim = c(0, 4), ylim= c(0, 0.5), xaxt = "n", xlab = NA, ylab = "Annual probability of disappearing", bty = "l",  cex.lab = 1.1, cex.axis = 1.1)
 for(i in 1:3){
-  lines(c(i, i), c(df$lower[i], df$upper[i]), lwd = 2, col = c("gold", "darkorange", "forestgreen")[i])
+  lines(c(i, i), c(df$lower[i], df$upper[i]), lwd = 2, col = c(colpal[3], "darkorange", colpal[1])[i])
 }
-points(estimate ~ num, data = df, las = 1, type  = "p", col = c("gold", "darkorange", "forestgreen"), cex = 2, pch = 16)
+points(estimate ~ num, data = df, las = 1, type  = "p", col = c(colpal[3], "darkorange", colpal[1]), cex = 2, pch = 16)
 points(estimate ~ num, data = df, las = 1, type  = "p", cex = 2, pch = 1)
 axis(1, at = 1:3, labels = NA)
-
 
 #------------------------------------------------
 

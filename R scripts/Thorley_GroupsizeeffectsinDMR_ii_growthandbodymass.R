@@ -154,6 +154,10 @@ vonbertratefunc <- function(x, A, k, AGs, kGs, GS) {
   return(time2)
   }
 
+# pick a colour blind friendly palette
+colpal <- palette.colors(palette = "Okabe-Ito")[c(3,4,6)]
+
+par(mfrow=c(1,2))
   plot(rateofbodymassgrowth ~ weight, data = malebodymass, pch = 1, col = adjustcolor("grey20", alpha.f = 0.6), xlab = "Body Mass (g)", ylab = "Rate of change in body mass (g/day)", bty = "l", las = 1, xlim = c(10, 200), ylim = c(-0.1, 0.4))
   axis(1, at = seq(0, 200, 25), labels = NA) ; axis(2, at = seq(-0.05, 0.35, 0.05), labels = NA)
   abline(h = 0, lty =2, col = adjustcolor("grey", alpha.f = 0.6))
@@ -169,7 +173,7 @@ vonbertratefunc <- function(x, A, k, AGs, kGs, GS) {
                                                    kGs = 0.00084, 
                                                    GS = small)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= malesmall, type = "l", lwd = 3, lty = 1, col = "red")
+  points(rate ~ time1, data= malesmall, type = "l", lwd = 4, lty = 3, col = colpal[1])
   
   medium <- (12 - mean(malebodymass$GroupSize))/sd(malebodymass$GroupSize)
   malemedium <- data.frame(time1 = seq(10, 149, 0.5),
@@ -180,7 +184,7 @@ vonbertratefunc <- function(x, A, k, AGs, kGs, GS) {
                                                    kGs = 0.00084, 
                                                    GS = medium)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= malemedium, type = "l", lwd = 3, lty = 1, col = "orange")
+  points(rate ~ time1, data= malemedium, type = "l", lwd = 4, lty = 2, col = colpal[2])
   
   
   large <- (20 - mean(malebodymass$GroupSize))/sd(malebodymass$GroupSize)
@@ -192,7 +196,7 @@ vonbertratefunc <- function(x, A, k, AGs, kGs, GS) {
                                                   kGs = 0.00084, 
                                                   GS = large)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= malelarge, type = "l", lwd = 3, lty = 1, col = "forestgreen")
+  points(rate ~ time1, data= malelarge, type = "l", lwd = 3, lty = 1, col = colpal[3])
   text(30, -0.05, "Males", cex = 1.2)
 
 
@@ -213,7 +217,7 @@ vonbertratefunc <- function(x, A, k, AGs, kGs, GS) {
                                                      kGs = 0.00155, 
                                                      GS = small)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= femalesmall, type = "l", lwd = 3, lty = 1, col = "red")
+  points(rate ~ time1, data= femalesmall, type = "l", lwd = 3, lty = 3, col = colpal[1])
   
   medium <- (12 - mean(femalebodymass$GroupSize))/sd(femalebodymass$GroupSize)
   femalemedium <- data.frame(time1 = seq(10, 117, 0.5),
@@ -224,7 +228,7 @@ vonbertratefunc <- function(x, A, k, AGs, kGs, GS) {
                                                      kGs = 0.00155, 
                                                      GS = medium)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= femalemedium, type = "l", lwd = 3, lty = 1, col = "orange")
+  points(rate ~ time1, data= femalemedium, type = "l", lwd = 3, lty = 2, col = colpal[2])
   
   
   large <- (20 - mean(femalebodymass$GroupSize))/sd(femalebodymass$GroupSize)
@@ -236,7 +240,7 @@ vonbertratefunc <- function(x, A, k, AGs, kGs, GS) {
                                                     kGs = 0.00155, 
                                                     GS = large)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= femalelarge, type = "l", lwd = 3, lty = 1, col = "forestgreen")
+  points(rate ~ time1, data= femalelarge, type = "l", lwd = 3, lty = 1, col = colpal[3])
   text(30, -0.05, "Females", cex = 1.1)
 
 
@@ -301,18 +305,19 @@ ci.females <- get_CI(yvals2)
 pframe.femalemass <- cbind(pframe.femalemass, ci.females)  
 
  # male age-related growth
+par(mfrow = c(1,2))
 plot(weight2 ~ timediff, data = pframe.malemass, type = "n", bty = "l", las = 1, 
      xlab = "Time since first Capture (days)", 
      ylab = "Body Mass (g)", ylim = c(0, 145))
 axis(1, at = seq(0, 750, 50), labels = NA)
 axis(2, at = seq(10, 150, 10), labels = NA)
 
-with(subset(pframe.malemass, GroupSize.s < -0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor("red", alpha.f = 0.2), border=NA))
-with(subset(pframe.malemass, GroupSize.s < 0 & GroupSize.s > -0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor("orange", alpha.f = 0.2), border=NA))
-with(subset(pframe.malemass, GroupSize.s > 0), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor("forestgreen", alpha.f = 0.2), border=NA))
-points(weight2 ~ timediff, data = subset(pframe.malemass, GroupSize.s < -0.5), type = "l", lwd = 2, lty =1, col = "red")
-points(weight2 ~ timediff, data = subset(pframe.malemass, GroupSize.s< 0 & GroupSize.s > -0.5), type = "l", lwd = 2, lty =1, col = "orange")
-points(weight2 ~ timediff, data = subset(pframe.malemass, GroupSize.s > 0), type = "l", lwd = 2, lty =1, col = "forestgreen")
+with(subset(pframe.malemass, GroupSize.s < -0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor(colpal[1], alpha.f = 0.2), border=NA))
+with(subset(pframe.malemass, GroupSize.s < 0 & GroupSize.s > -0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor(colpal[2], alpha.f = 0.2), border=NA))
+with(subset(pframe.malemass, GroupSize.s > 0), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor(colpal[3], alpha.f = 0.2), border=NA))
+points(weight2 ~ timediff, data = subset(pframe.malemass, GroupSize.s < -0.5), type = "l", lwd = 2, lty =3, col = colpal[1])
+points(weight2 ~ timediff, data = subset(pframe.malemass, GroupSize.s< 0 & GroupSize.s > -0.5), type = "l", lwd = 2, lty =2, col = colpal[2])
+points(weight2 ~ timediff, data = subset(pframe.malemass, GroupSize.s > 0), type = "l", lwd = 2, lty =1, col = colpal[3])
 
 # female age-related growth
 plot(weight2 ~ timediff, data = pframe.femalemass, type = "n", bty = "l", las = 1, 
@@ -320,13 +325,13 @@ plot(weight2 ~ timediff, data = pframe.femalemass, type = "n", bty = "l", las = 
      ylab = "Body Mass (g)", ylim = c(0, 145))
 axis(1, at = seq(0, 750, 50), labels = NA)
 axis(2, at = seq(10, 150, 10), labels = NA)
-with(subset(pframe.femalemass, GroupSize.s  < -0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor("red", alpha.f = 0.2), border=NA))
-with(subset(pframe.femalemass, GroupSize.s > 0 & GroupSize.s < 0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor("orange", alpha.f = 0.2), border=NA))
-with(subset(pframe.femalemass, GroupSize.s > 0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor("forestgreen", alpha.f = 0.2), border=NA))
-points(weight2 ~ timediff, data = subset(pframe.femalemass,  GroupSize.s  < -0.5), type = "l", lwd = 2, lty =1, col = "red")
-points(weight2 ~ timediff, data = subset(pframe.femalemass,  GroupSize.s > 0 & GroupSize.s < 0.5), type = "l", lwd = 2, lty =1, col = "orange")
-points(weight2 ~ timediff, data = subset(pframe.femalemass,  GroupSize.s > 0.5), type = "l", lwd = 2, lty =1, col = "forestgreen")
-legend(450, 50, legend = c("small", "medium", "large"), lty = 1, lwd = 2, col = c("red", "orange", "forestgreen"), bty = "n")
+with(subset(pframe.femalemass, GroupSize.s  < -0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor(colpal[1], alpha.f = 0.2), border=NA))
+with(subset(pframe.femalemass, GroupSize.s > 0 & GroupSize.s < 0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor(colpal[2], alpha.f = 0.2), border=NA))
+with(subset(pframe.femalemass, GroupSize.s > 0.5), polygon(c(timediff, rev(timediff)), c(lwr, rev(upr)), col = adjustcolor(colpal[3], alpha.f = 0.2), border=NA))
+points(weight2 ~ timediff, data = subset(pframe.femalemass,  GroupSize.s  < -0.5), type = "l", lwd = 2, lty =3, col = colpal[1])
+points(weight2 ~ timediff, data = subset(pframe.femalemass,  GroupSize.s > 0 & GroupSize.s < 0.5), type = "l", lwd = 2, lty =2, col = colpal[2])
+points(weight2 ~ timediff, data = subset(pframe.femalemass,  GroupSize.s > 0.5), type = "l", lwd = 2, lty =1, col = colpal[3])
+legend(0, 145, legend = c("small", "medium", "large"), lty = c(3,2,1), lwd = 2, col = c(colpal[1], colpal[2], colpal[3]), bty = "n")
 
 
 # TEETH WIDTH 
@@ -411,7 +416,7 @@ summary(vonbert.male2.teeth)
                                                    kGs = 0.000065, 
                                                    GS = small)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= malesmall, type = "l", lwd = 3, lty = 1, col = "red")
+  points(rate ~ time1, data= malesmall, type = "l", lwd = 3, lty = 3, col = colpal[1])
   
   medium <- (12 - mean(maleteeth$GroupSize))/sd(maleteeth$GroupSize)
   malemedium <-  data.frame(time1 = seq(2, 6.47, 0.01),
@@ -422,7 +427,7 @@ summary(vonbert.male2.teeth)
                                                      kGs = 0.000065, 
                                                      GS = medium)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= malemedium, type = "l", lwd = 3, lty = 1, col = "orange")
+  points(rate ~ time1, data= malemedium, type = "l", lwd = 3, lty = 2, col = colpal[2])
   
   
   large <- (20 - mean(maleteeth$GroupSize))/sd(maleteeth$GroupSize)
@@ -434,7 +439,7 @@ summary(vonbert.male2.teeth)
                                                     kGs = 0.000065, 
                                                     GS = large)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= malelarge, type = "l", lwd = 3, lty = 1, col = "forestgreen")
+  points(rate ~ time1, data= malelarge, type = "l", lwd = 3, lty = 1, col = colpal[3])
   text(2.5, -0.0015, "Males", cex = 1.2)
 
 
@@ -458,7 +463,7 @@ summary(vonbert.female2.teeth)
                                                      kGs = 0.000307, 
                                                      GS = small)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= femalesmall, type = "l", lwd = 3, lty = 1, col = "red")
+  points(rate ~ time1, data= femalesmall, type = "l", lwd = 3, lty = 3, col = colpal[1])
   
   medium <- (12 - mean(femaleteeth$GroupSize))/sd(femaleteeth$GroupSize)
   femalemedium <-  data.frame(time1 = seq(2, 5.75, 0.01),
@@ -469,7 +474,7 @@ summary(vonbert.female2.teeth)
                                                        kGs = 0.000305, 
                                                        GS = medium)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= femalemedium, type = "l", lwd = 3, lty = 1, col = "orange")
+  points(rate ~ time1, data= femalemedium, type = "l", lwd = 3, lty = 2, col = colpal[2])
   
   
   large <- (20 - mean(femaleteeth$GroupSize))/sd(femaleteeth$GroupSize)
@@ -481,7 +486,7 @@ summary(vonbert.female2.teeth)
                                                       kGs = 0.000305, 
                                                       GS = large)) %>% 
     mutate(rate = (time2 - time1)/180)
-  points(rate ~ time1, data= femalelarge, type = "l", lwd = 3, lty = 1, col = "forestgreen")
+  points(rate ~ time1, data= femalelarge, type = "l", lwd = 3, lty = 1, col = colpal[3])
   text(2.5, -0.0015, "Females", cex = 1.2)
 
 
@@ -530,7 +535,7 @@ massover1yr$GroupSizeCat <- factor(massover1yr$GroupSizeCat, levels = c("Small",
 
 par(mfrow = c(1,2))
 plot(weight ~ as.factor(GroupSizeCat), data = massover1yr, xlab = "Group Size Category", ylab = "Weight (g)", las = 1, 
-     col = c("forestgreen","orange", "red"), bty = "n", varwidth = TRUE, boxwex =0.6, ylim = c(60, 202))
+     col = c(colpal[1],colpal[2], colpal[3]), bty = "n", varwidth = TRUE, boxwex =0.6, ylim = c(60, 202))
 table(massover1yr$GroupSizeCat)
 text(c(1, 2, 3), c(202, 202, 202), c(47, 56, 49), cex = 0.9)
 
@@ -576,7 +581,7 @@ massover1yrfem$GroupSizeCat <- factor(massover1yrfem$GroupSizeCat, levels = c("S
 
 
 plot(weight ~ as.factor(GroupSizeCat), data = massover1yrfem, xlab = "Group Size Category", ylab = "Weight (g)", las = 1, 
-     col = c("forestgreen","orange", "red"), bty = "n", varwidth = TRUE, boxwex =0.6, ylim = c(60, 170))
+     col = c(colpal[1],colpal[2], colpal[3]), bty = "n", varwidth = TRUE, boxwex =0.6, ylim = c(60, 170))
 table(massover1yrfem$GroupSizeCat)
 text(c(1, 2, 3), c(172, 172, 172), c(37, 38, 36), cex = 0.9)
 
@@ -655,7 +660,7 @@ p1 <- ggeffects::ggpredict(mod1, terms = "GroupSizeCat") %>%
 plot1 <- ggplot(p1, aes(GroupSizeCat, weight)) + 
   geom_errorbar(aes(ymin=weight-1.96*std.error, ymax=weight+1.96*std.error), width=.2, size = 1.2) + 
   geom_jitter(data = massover1yr, aes(col = GroupSizeCat),  width = 0.1, size = 2, alpha = 0.4) + 
-  scale_colour_manual(values = c("forestgreen", "darkorange", "red")) + 
+  scale_colour_manual(values = c("#56B4E9","#009E73", "#0072B2")) + 
   theme_bw() + 
   theme(axis.text.x = element_text(size = 12), 
         axis.text.y = element_text(size = 12), 
@@ -709,7 +714,7 @@ p3 <- ggeffects::ggpredict(mod2, terms = "GroupSizeCat") %>%
 plot3 <- ggplot(p3, aes(GroupSizeCat, weight)) + 
   geom_errorbar(aes(ymin=weight-1.96*std.error, ymax=weight+1.96*std.error), width=.2, size = 1.2) + 
   geom_jitter(data = massover1yrfem, aes(col = GroupSizeCat),  width = 0.1, size = 2, alpha = 0.4) + 
-  scale_colour_manual(values = c("forestgreen", "darkorange", "red")) + 
+  scale_colour_manual(values = c("#56B4E9","#009E73", "#0072B2")) + 
   theme_bw() + 
   theme(axis.text.x = element_text(size = 12), 
         axis.text.y = element_text(size = 12), 
