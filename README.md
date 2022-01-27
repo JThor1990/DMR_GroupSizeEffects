@@ -2,6 +2,9 @@
 
 The files in this repository provide the R code necessary to replicate all of the analyses in the paper. All the data were collected from a population of mole-rats living around the Kuruman River Reserve, Northern Cape, South Africa. 
 
+![KRR](https://user-images.githubusercontent.com/78469962/151356952-b85c589e-710c-42d0-98bf-5590e58aae21.png)
+The distribution of the Damaraland mole-rat in sub-Saharan Africa. The predicted current distribution is highlighted by the white dashed line [taken from IUCN, 30th June 2021], with the Kalahari Desert indicated by the shaded polygon. The location of the Kuruman River Reserve (KRR) is also highlighted, as are two other sites where medium to long-term capture-mark-recapture studies of Damaraland mole-rats have been carried out. 
+
 
 The R scripts are separated according to analysis:
 
