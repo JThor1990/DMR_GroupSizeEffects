@@ -1,0 +1,1572 @@
+"AnimalID","GroupID","Location","TrappingPeriod","DateofCapture","GroupSize","Sex","weight","Rainfall","firstcapturedate","censor","Time.days","Time.years","statecode","state"
+"KR10F005","Kuruman 10","KRR",2,"28/07/2014",5,"Female",28,15.72555258,2014-07-27,NA,0,0,"ingroupnonbreeder",1
+"KR10F005","Kuruman 10","KRR",3,"16/02/2015",5,"Female",70,60.89109671,2014-07-27,NA,204,0.558521561,"ingroupnonbreeder",1
+"KR10F005","Kuruman 10","KRR",4,"08/10/2015",5,"Female",111,7.452079085,2014-07-27,NA,438,1.199178645,"ingroupnonbreeder",1
+"KR10F005","Kuruman 10","KRR",5,"26/04/2016",10,"Female",113,116.8075972,2014-07-27,NA,639,1.749486653,"ingroupnonbreeder",1
+"KR10F005",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2014-07-27,NA,729,1.995893224,"Disappeared",2
+"KR10F008","Kuruman 10","KRR",5,"26/04/2016",10,"Female",26,116.8075972,2016-04-25,NA,0,0,"ingroupnonbreeder",1
+"KR10F008",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2016-04-25,NA,91,0.249144422,"Disappeared",2
+"KR10F010","Kuruman 10","KRR",5,"26/04/2016",10,"Female",60,116.8075972,2016-04-25,NA,0,0,"ingroupnonbreeder",1
+"KR10F010",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2016-04-25,NA,91,0.249144422,"Disappeared",2
+"KR10F022","Kuruman 10","KRR",8,"20/08/2017",12,"Female",61,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR10F022","Kuruman 10","KRR",10,"04/10/2018",16,"Female",124,11.76823613,2017-08-19,NA,411,1.125256674,"ingroupnonbreeder",1
+"KR10F022","Kuruman 10","KRR",11,"16/03/2019",20,"Female",127,69.35182863,2017-08-19,NA,574,1.571526352,"ingroupnonbreeder",1
+"KR10F022","Kuruman 10","KRR",12,"09/09/2019",19,"Female",112,0.397720048,2017-08-19,NA,751,2.056125941,"ingroupnonbreeder",1
+"KR10F022","Kuruman 10","KRR",13,"09/03/2020",16,"Female",130,165.6746387,2017-08-19,NA,933,2.554414784,"ingroupnonbreeder",1
+"KR10F022","Kuruman 10","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR10F024","Kuruman 10","KRR",8,"21/08/2017",12,"Female",60,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR10F024","Kuruman 10","KRR",9,"18/03/2018",17,"Female",97,121.7158381,2017-08-19,NA,211,0.577686516,"ingroupnonbreeder",1
+"KR10F024","Kuruman 10","KRR",10,"04/10/2018",16,"Female",106,11.76823613,2017-08-19,NA,411,1.125256674,"ingroupnonbreeder",1
+"KR10F024","Kuruman 10","KRR",11,"13/03/2019",20,"Female",111,69.35182863,2017-08-19,NA,571,1.563312799,"ingroupnonbreeder",1
+"KR10F024","Kuruman 10","KRR",12,"10/09/2019",19,"Female",101,0.397720048,2017-08-19,NA,752,2.058863792,"ingroupnonbreeder",1
+"KR10F024","Kuruman 10","KRR",13,"09/03/2020",16,"Female",120,165.6746387,2017-08-19,NA,933,2.554414784,"ingroupnonbreeder",1
+"KR10F024","Kuruman 10","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR10F036","Kuruman 10","KRR",11,"15/03/2019",20,"Female",27,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR10F036",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2019-03-12,NA,181,0.495550992,"Disappeared",2
+"KR11F002","Kuruman 11","KRR",7,"20/02/2017",7,"Female",43,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR11F002","Kuruman 11","KRR",8,"19/08/2017",11,"Female",94,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR11F002","Kuruman 11","KRR",9,"18/03/2018",15,"Female",119,121.7158381,2017-02-20,NA,391,1.070499658,"ingroupnonbreeder",1
+"KR11F002","Kuruman 11","KRR",10,"03/10/2018",16,"Female",119,11.76823613,2017-02-20,NA,590,1.615331964,"ingroupnonbreeder",1
+"KR11F002","Kuruman 11","KRR",11,"14/03/2019",22,"Female",133,69.35182863,2017-02-20,NA,752,2.058863792,"ingroupnonbreeder",1
+"KR11F002",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2017-02-20,NA,931,2.548939083,"Disappeared",2
+"KR11F003","Kuruman 11","KRR",7,"21/02/2017",7,"Female",76,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR11F003","Kuruman 11","KRR",8,"19/08/2017",11,"Female",116,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR11F003","Kuruman 11","KRR",9,"19/03/2018",15,"Female",133,121.7158381,2017-02-20,NA,392,1.073237509,"ingroupnonbreeder",1
+"KR11F003",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-02-20,NA,571,1.563312799,"Disappeared",2
+"KR11F006","Kuruman 11","KRR",7,"22/02/2017",7,"Female",43,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR11F006","Kuruman 11","KRR",8,"19/08/2017",11,"Female",92,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR11F006","Kuruman 11","KRR",9,"17/03/2018",15,"Female",112,121.7158381,2017-02-20,NA,390,1.067761807,"ingroupnonbreeder",1
+"KR11F006","Kuruman 11","KRR",10,"02/10/2018",16,"Female",137,11.76823613,2017-02-20,NA,589,1.612594114,"ingroupnonbreeder",1
+"KR11F006","Kuruman 11","KRR",11,"13/03/2019",22,"Female",142,69.35182863,2017-02-20,NA,751,2.056125941,"ingroupnonbreeder",1
+"KR11F006","Kuruman 11","KRR",12,"23/09/2019",20,"Female",121,0.397720048,2017-02-20,NA,945,2.587268994,"ingroupnonbreeder",1
+"KR11F006",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2017-02-20,NA,1109,3.036276523,"Disappeared",2
+"KR11F007","Kuruman 11","KRR",8,"19/08/2017",11,"Female",53,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR11F007","Kuruman 11","KRR",9,"18/03/2018",15,"Female",98,121.7158381,2017-08-19,NA,211,0.577686516,"ingroupnonbreeder",1
+"KR11F007","Kuruman 11","KRR",10,"05/10/2018",16,"Female",123,11.76823613,2017-08-19,NA,412,1.127994524,"ingroupnonbreeder",1
+"KR11F007","Kuruman 11","KRR",11,"13/03/2019",22,"Female",128,69.35182863,2017-08-19,NA,571,1.563312799,"ingroupnonbreeder",1
+"KR11F007",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2017-08-19,NA,751,2.056125941,"Disappeared",2
+"KR11F008","Kuruman 11","KRR",8,"20/08/2017",11,"Female",57,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR11F008","Kuruman 11","KRR",9,"18/03/2018",15,"Female",107,121.7158381,2017-08-19,NA,211,0.577686516,"ingroupnonbreeder",1
+"KR11F008","Kuruman 11","KRR",10,"04/10/2018",16,"Female",121,11.76823613,2017-08-19,NA,411,1.125256674,"ingroupnonbreeder",1
+"KR11F008","Kuruman 11","KRR",11,"13/03/2019",22,"Female",122,69.35182863,2017-08-19,NA,571,1.563312799,"ingroupnonbreeder",1
+"KR11F008","Kuruman 11","KRR",12,"25/09/2019",20,"Female",111,0.397720048,2017-08-19,NA,767,2.099931554,"ingroupnonbreeder",1
+"KR11F008","Kuruman 11","KRR",13,"01/04/2020",17,"Female",104,165.6746387,2017-08-19,NA,956,2.617385352,"ingroupnonbreeder",1
+"KR11F008","Kuruman 11","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR11F015","Kuruman 11","KRR",9,"20/03/2018",15,"Female",49,121.7158381,2018-03-17,NA,0,0,"ingroupnonbreeder",1
+"KR11F015","Kuruman 11","KRR",10,"02/10/2018",16,"Female",91,11.76823613,2018-03-17,NA,199,0.544832307,"ingroupnonbreeder",1
+"KR11F015","Kuruman 11","KRR",11,"14/03/2019",22,"Female",115,69.35182863,2018-03-17,NA,362,0.991101985,"ingroupnonbreeder",1
+"KR11F015","Kuruman 11","KRR",12,"24/09/2019",20,"Female",99,0.397720048,2018-03-17,NA,556,1.522245038,"ingroupnonbreeder",1
+"KR11F015","Kuruman 11","KRR",13,"31/03/2020",17,"Female",104,165.6746387,2018-03-17,NA,745,2.039698836,"ingroupnonbreeder",1
+"KR11F015","Kuruman 11","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-03-17,99,802,2.195756331,"ingroupnonbreeder",99
+"KR11F016","Kuruman 11","KRR",10,"03/10/2018",16,"Female",47,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR11F016","Kuruman 11","KRR",11,"13/03/2019",22,"Female",79,69.35182863,2018-10-02,NA,162,0.443531828,"ingroupnonbreeder",1
+"KR11F016","Kuruman 11","KRR",12,"24/09/2019",20,"Female",74,0.397720048,2018-10-02,NA,357,0.977412731,"ingroupnonbreeder",1
+"KR11F016","Kuruman 11","KRR",13,"01/04/2020",17,"Female",85,165.6746387,2018-10-02,NA,547,1.497604381,"ingroupnonbreeder",1
+"KR11F016","Kuruman 11","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-10-02,99,603,1.650924025,"ingroupnonbreeder",99
+"KR11F018","Kuruman 11","KRR",10,"05/10/2018",16,"Female",31,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR11F018",NA,"KRR",NA,"09/03/2019",NA,"Female",NA,NA,2018-10-02,NA,158,0.432580424,"Disappeared",2
+"KR11F019","Kuruman 11","KRR",10,"03/10/2018",16,"Female",49,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR11F019","Kuruman 11","KRR",11,"14/03/2019",22,"Female",80,69.35182863,2018-10-02,NA,163,0.446269678,"ingroupnonbreeder",1
+"KR11F019","Kuruman 11","KRR",12,"23/09/2019",20,"Female",74,0.397720048,2018-10-02,NA,356,0.97467488,"ingroupnonbreeder",1
+"KR11F019","Kuruman 11","KRR",13,"31/03/2020",17,"Female",78,165.6746387,2018-10-02,NA,546,1.49486653,"ingroupnonbreeder",1
+"KR11F019","Kuruman 11","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-10-02,99,603,1.650924025,"ingroupnonbreeder",99
+"KR11F021","Kuruman 11","KRR",11,"13/03/2019",22,"Female",70,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR11F021","Kuruman 11","KRR",12,"24/09/2019",20,"Female",70,0.397720048,2019-03-12,NA,196,0.536618754,"ingroupnonbreeder",1
+"KR11F021","Kuruman 11","KRR",13,"31/03/2020",17,"Female",75,165.6746387,2019-03-12,NA,385,1.054072553,"ingroupnonbreeder",1
+"KR11F021","Kuruman 11","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR11F022","Kuruman 11","KRR",11,"14/03/2019",22,"Female",55,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR11F022","Kuruman 11","KRR",12,"25/09/2019",20,"Female",71,0.397720048,2019-03-12,NA,197,0.539356605,"ingroupnonbreeder",1
+"KR11F022","Kuruman 11","KRR",13,"01/04/2020",17,"Female",76,165.6746387,2019-03-12,NA,386,1.056810404,"ingroupnonbreeder",1
+"KR11F022","Kuruman 11","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR11M012","Kuruman 11","KRR",9,"18/03/2018",15,"Female",45,121.7158381,2018-03-17,NA,0,0,"ingroupnonbreeder",1
+"KR11M012","Kuruman 11","KRR",10,"03/10/2018",16,"Female",89,11.76823613,2018-03-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR11M012","Kuruman 11","KRR",11,"13/03/2019",22,"Female",100,69.35182863,2018-03-17,NA,361,0.988364134,"ingroupnonbreeder",1
+"KR11M012","Kuruman 11","KRR",12,"25/09/2019",20,"Female",90,0.397720048,2018-03-17,NA,557,1.524982888,"ingroupnonbreeder",1
+"KR11M012","Kuruman 11","KRR",13,"30/03/2020",17,"Female",90,165.6746387,2018-03-17,NA,744,2.036960986,"ingroupnonbreeder",1
+"KR11M012","Kuruman 11","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-03-17,99,802,2.195756331,"ingroupnonbreeder",99
+"KR13F019","Kuruman 13","KRR",1,"25/01/2014",26,"Female",78,118.8639779,2014-01-22,NA,0,0,"ingroupnonbreeder",1
+"KR13F019","Kuruman 13","KRR",2,"06/08/2014",21,"Female",117,4.644637189,2014-01-22,NA,196,0.536618754,"ingroupnonbreeder",1
+"KR13F019","Kuruman 13","KRR",3,"10/02/2015",23,"Female",129,60.89109671,2014-01-22,NA,384,1.051334702,"ingroupnonbreeder",1
+"KR13F019","Kuruman 13","KRR",4,"22/09/2015",22,"Female",147,8.396498455,2014-01-22,NA,608,1.664613279,"ingroupnonbreeder",1
+"KR13F019","Kuruman 39","KRR",9,"05/04/2018",3,"Female",152,171.3225646,2014-01-22,NA,1534,4.199863107,"Disappeared",2
+"KR13F020","Kuruman 13","KRR",1,"25/01/2014",26,"Female",31,118.8639779,2014-01-22,NA,0,0,"ingroupnonbreeder",1
+"KR13F020","Kuruman 13","KRR",2,"06/08/2014",21,"Female",102,4.644637189,2014-01-22,NA,196,0.536618754,"ingroupnonbreeder",1
+"KR13F020","Kuruman 13","KRR",3,"10/02/2015",23,"Female",108,60.89109671,2014-01-22,NA,384,1.051334702,"ingroupnonbreeder",1
+"KR13F020",NA,"KRR",NA,"16/09/2015",NA,"Female",NA,NA,2014-01-22,NA,602,1.648186174,"Disappeared",2
+"KR13F025","Kuruman 13","KRR",1,"27/01/2014",26,"Female",30,118.8639779,2014-01-22,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR13F025","Kuruman 13","KRR",2,"05/08/2014",21,"Female",76,4.644637189,2014-01-22,NA,195,0.533880903,"ingroupnonbreeder",1
+"KR13F025","Kuruman 13","KRR",3,"11/02/2015",23,"Female",88,60.89109671,2014-01-22,NA,385,1.054072553,"ingroupnonbreeder",1
+"KR13F025","Kuruman 13","KRR",4,"20/09/2015",22,"Female",112,8.396498455,2014-01-22,NA,606,1.659137577,"ingroupnonbreeder",1
+"KR13F025","Kuruman 13","KRR",5,"12/04/2016",24,"Female",111,116.8075972,2014-01-22,NA,811,2.220396988,"ingroupnonbreeder",1
+"KR13F025","Kuruman 26","KRR",5,"30/05/2016",1,"Female",110,107.0173495,2014-01-22,NA,859,2.351813826,"Disappeared",2
+"KR13F027","Kuruman 13","KRR",2,"08/08/2014",21,"Female",35,4.644637189,2014-08-05,NA,0,0,"ingroupnonbreeder",1
+"KR13F027","Kuruman 13","KRR",3,"10/02/2015",23,"Female",82,60.89109671,2014-08-05,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR13F027","Kuruman 38","KRR",7,"23/05/2017",1,"Female",124,75.0055436,2014-08-05,NA,1022,2.798083504,"Disappeared",2
+"KR13F028","Kuruman 13","KRR",2,"08/08/2014",21,"Female",33,4.644637189,2014-08-05,NA,0,0,"ingroupnonbreeder",1
+"KR13F028","Kuruman 13","KRR",3,"10/02/2015",23,"Female",81,60.89109671,2014-08-05,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR13F028","Kuruman 13","KRR",4,"23/09/2015",22,"Female",100,8.396498455,2014-08-05,NA,414,1.133470226,"ingroupnonbreeder",1
+"KR13F028",NA,"KRR",NA,"04/02/2016",NA,"Female",NA,NA,2014-08-05,NA,548,1.500342231,"Disappeared",2
+"KR13F034","Kuruman 13","KRR",3,"12/02/2015",23,"Female",28,60.89109671,2015-02-10,NA,0,0,"ingroupnonbreeder",1
+"KR13F034","Kuruman 13","KRR",4,"22/09/2015",22,"Female",82,8.396498455,2015-02-10,NA,224,0.613278576,"ingroupnonbreeder",1
+"KR13F034","Kuruman 13","KRR",5,"13/04/2016",24,"Female",108,116.8075972,2015-02-10,NA,428,1.171800137,"ingroupnonbreeder",1
+"KR13F034",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2015-02-10,NA,531,1.453798768,"Disappeared",2
+"KR13F035","Kuruman 13","KRR",3,"12/02/2015",23,"Female",22,60.89109671,2015-02-10,NA,0,0,"ingroupnonbreeder",1
+"KR13F035","Kuruman 13","KRR",4,"24/09/2015",22,"Female",77,8.396498455,2015-02-10,NA,226,0.618754278,"ingroupnonbreeder",1
+"KR13F035","Kuruman 13","KRR",5,"14/04/2016",24,"Female",91,116.8075972,2015-02-10,NA,429,1.174537988,"ingroupnonbreeder",1
+"KR13F035",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2015-02-10,NA,531,1.453798768,"Disappeared",2
+"KR13F037","Kuruman 13","KRR",3,"13/02/2015",23,"Female",19,60.89109671,2015-02-10,NA,0,0,"ingroupnonbreeder",1
+"KR13F037","Kuruman 13","KRR",4,"22/09/2015",22,"Female",65,8.396498455,2015-02-10,NA,224,0.613278576,"ingroupnonbreeder",1
+"KR13F037","Kuruman 13","KRR",5,"13/04/2016",24,"Female",84,116.8075972,2015-02-10,NA,428,1.171800137,"ingroupnonbreeder",1
+"KR13F037","Kuruman 15","KRR",6,"06/09/2016",1,"Female",93,4.678070845,2015-02-10,NA,574,1.571526352,"Disappeared",2
+"KR13F038","Kuruman 13","KRR",4,"21/09/2015",22,"Female",32,8.396498455,2015-09-20,NA,0,0,"ingroupnonbreeder",1
+"KR13F038","Kuruman 13","KRR",5,"14/04/2016",24,"Female",79,116.8075972,2015-09-20,NA,207,0.566735113,"ingroupnonbreeder",1
+"KR13F038","Kuruman 13","KRR",8,"15/08/2017",2,"Female",156,1.34743409,2015-09-20,NA,695,1.902806297,"ingroupnonbreeder",1
+"KR13F038","Kuruman 43","KRR",10,"25/11/2018",5,"Female",160,17.16380656,2015-09-20,NA,1162,3.181382615,"Disappeared",2
+"KR13F039","Kuruman 13","KRR",4,"21/09/2015",22,"Female",76,8.396498455,2015-09-20,NA,0,0,"ingroupnonbreeder",1
+"KR13F039","Kuruman 13","KRR",5,"13/04/2016",24,"Female",92,116.8075972,2015-09-20,NA,206,0.563997262,"ingroupnonbreeder",1
+"KR13F039",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2015-09-20,NA,309,0.845995893,"Disappeared",2
+"KR13F040","Kuruman 13","KRR",4,"21/09/2015",22,"Female",74,8.396498455,2015-09-20,NA,0,0,"ingroupnonbreeder",1
+"KR13F040","Kuruman 13","KRR",5,"12/04/2016",24,"Female",98,116.8075972,2015-09-20,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR13F040","Kuruman 35","KRR",7,"02/05/2017",1,"Female",111,165.7772941,2015-09-20,NA,590,1.615331964,"Disappeared",2
+"KR13F042","Kuruman 13","KRR",4,"22/09/2015",22,"Female",67,8.396498455,2015-09-20,NA,0,0,"ingroupnonbreeder",1
+"KR13F042","Kuruman 13","KRR",5,"13/04/2016",24,"Female",83,116.8075972,2015-09-20,NA,206,0.563997262,"ingroupnonbreeder",1
+"KR13F042",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2015-09-20,NA,309,0.845995893,"Disappeared",2
+"KR13F043","Kuruman 13","KRR",4,"22/09/2015",22,"Female",59,8.396498455,2015-09-20,NA,0,0,"ingroupnonbreeder",1
+"KR13F043","Kuruman 13","KRR",5,"12/04/2016",24,"Female",79,116.8075972,2015-09-20,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR13F043","Kuruman 34","KRR",7,"02/05/2017",2,"Female",NA,165.7772941,2015-09-20,NA,590,1.615331964,"Disappeared",2
+"KR13F044","Kuruman 13","KRR",4,"23/09/2015",22,"Female",34,8.396498455,2015-09-20,NA,0,0,"ingroupnonbreeder",1
+"KR13F044",NA,"KRR",NA,"04/02/2016",NA,"Female",NA,NA,2015-09-20,NA,137,0.375085558,"Disappeared",2
+"KR13F047","Kuruman 13","KRR",5,"13/04/2016",24,"Female",51,116.8075972,2016-04-12,NA,0,0,"ingroupnonbreeder",1
+"KR13F047",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2016-04-12,NA,104,0.284736482,"Disappeared",2
+"KR13F050","Kuruman 13","KRR",5,"14/04/2016",24,"Female",19,116.8075972,2016-04-12,NA,0,0,"ingroupnonbreeder",1
+"KR13F050","Kuruman 13","KRR",7,"24/01/2017",13,"Female",100,133.174221,2016-04-12,NA,287,0.785763176,"ingroupnonbreeder",1
+"KR13F050","Kuruman 40","KRR",9,"30/04/2018",1,"Female",129,171.3225646,2016-04-12,NA,748,2.047912389,"Disappeared",2
+"KR13F053","Kuruman 13","KRR",7,"24/01/2017",13,"Female",71,133.174221,2017-01-23,NA,0,0,"ingroupnonbreeder",1
+"KR13F053","Kuruman 29","KRR",9,"30/04/2018",1,"Female",129,171.3225646,2017-01-23,NA,462,1.264887064,"Disappeared",2
+"KR13F055","Kuruman 13","KRR",7,"24/01/2017",13,"Female",74,133.174221,2017-01-23,NA,0,0,"ingroupnonbreeder",1
+"KR13F055","Kuruman 13","KRR",8,"16/08/2017",2,"Female",103,1.34743409,2017-01-23,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR13F055",NA,"KRR",NA,"17/03/2018",NA,"Female",NA,NA,2017-01-23,NA,418,1.144421629,"Disappeared",2
+"KR19F001","Kuruman 19","KRR",7,"14/02/2017",8,"Female",64,209.6293089,2017-02-13,NA,0,0,"ingroupnonbreeder",1
+"KR19F001","Kuruman 19","KRR",8,"03/08/2017",7,"Female",83,1.34743409,2017-02-13,NA,171,0.468172485,"ingroupnonbreeder",1
+"KR19F001",NA,"KRR",NA,"17/03/2018",NA,"Female",NA,NA,2017-02-13,NA,397,1.086926762,"Disappeared",2
+"KR19F003","Kuruman 19","KRR",7,"14/02/2017",8,"Female",22,209.6293089,2017-02-13,NA,0,0,"ingroupnonbreeder",1
+"KR19F003","Kuruman 19","KRR",8,"03/08/2017",7,"Female",55,1.34743409,2017-02-13,NA,171,0.468172485,"ingroupnonbreeder",1
+"KR19F003","Kuruman 19","KRR",9,"24/05/2018",8,"Female",77,124.3583704,2017-02-13,NA,465,1.273100616,"ingroupnonbreeder",1
+"KR19F003","Kuruman 19","KRR",11,"28/03/2019",9,"Female",93,69.35182863,2017-02-13,NA,773,2.116358658,"ingroupnonbreeder",1
+"KR19F003",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2017-02-13,NA,938,2.568104038,"Disappeared",2
+"KR19F007","Kuruman 19","KRR",9,"23/05/2018",8,"Female",69,124.3583704,2018-05-23,NA,0,0,"ingroupnonbreeder",1
+"KR19F007","Kuruman 19","KRR",10,"18/11/2018",6,"Female",82,17.16380656,2018-05-23,NA,179,0.490075291,"ingroupnonbreeder",1
+"KR19F007","Kuruman 19","KRR",11,"25/03/2019",9,"Female",88,69.35182863,2018-05-23,NA,306,0.837782341,"ingroupnonbreeder",1
+"KR19F007","Kuruman 19","KRR",12,"15/11/2019",12,"Female",89,9.848668221,2018-05-23,NA,541,1.481177276,"ingroupnonbreeder",1
+"KR19F007","Kuruman 19","KRR",13,"28/04/2020",10,"Female",86,135.605622,2018-05-23,NA,706,1.932922656,"ingroupnonbreeder",1
+"KR19F007","Kuruman 19","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-05-23,99,735,2.012320329,"ingroupnonbreeder",99
+"KR19F013","Kuruman 19","KRR",12,"16/11/2019",12,"Female",56,9.848668221,2019-11-15,NA,0,0,"ingroupnonbreeder",1
+"KR19F013",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2019-11-15,NA,111,0.303901437,"Disappeared",2
+"KR19F015","Kuruman 19","KRR",12,"17/11/2019",12,"Female",75,9.848668221,2019-11-15,NA,0,0,"ingroupnonbreeder",1
+"KR19F015","Kuruman 19","KRR",13,"28/04/2020",10,"Female",72,135.605622,2019-11-15,NA,165,0.45174538,"ingroupnonbreeder",1
+"KR19F015","Kuruman 19","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-11-15,99,194,0.531143053,"ingroupnonbreeder",99
+"KR1F003","Kuruman 1","KRR",1,"18/11/2013",18,"Female",62,16.18844808,2013-11-17,NA,0,0,"ingroupnonbreeder",1
+"KR1F003","Kuruman 1","KRR",2,"28/07/2014",10,"Female",88,15.72555258,2013-11-17,NA,253,0.692676249,"ingroupnonbreeder",1
+"KR1F003","Kuruman 1","KRR",3,"16/02/2015",10,"Female",107,60.89109671,2013-11-17,NA,456,1.248459959,"ingroupnonbreeder",1
+"KR1F003","Kuruman 1","KRR",4,"15/10/2015",7,"Female",146,7.452079085,2013-11-17,NA,697,1.908281999,"ingroupnonbreeder",1
+"KR1F003","Kuruman 1","KRR",5,"26/04/2016",9,"Female",144,116.8075972,2013-11-17,NA,891,2.439425051,"ingroupnonbreeder",1
+"KR1F003",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2013-11-17,NA,981,2.685831622,"Disappeared",2
+"KR1F015","Kuruman 1","KRR",1,"22/11/2013",18,"Female",78,16.18844808,2013-11-17,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR1F015","Kuruman 1","KRR",2,"27/07/2014",10,"Female",86,15.72555258,2013-11-17,NA,252,0.689938398,"ingroupnonbreeder",1
+"KR1F015","Kuruman 1","KRR",3,"17/02/2015",10,"Female",106,60.89109671,2013-11-17,NA,457,1.25119781,"ingroupnonbreeder",1
+"KR1F015","Kuruman 24","KRR",7,"13/03/2017",1,"Female",120,198.1155283,2013-11-17,NA,1212,3.318275154,"Disappeared",2
+"KR1F018","Kuruman 1","KRR",2,"27/07/2014",10,"Female",37,15.72555258,2014-07-27,NA,0,0,"ingroupnonbreeder",1
+"KR1F018","Kuruman 1","KRR",3,"16/02/2015",10,"Female",86,60.89109671,2014-07-27,NA,204,0.558521561,"ingroupnonbreeder",1
+"KR1F018","Kuruman 1","KRR",4,"15/10/2015",7,"Female",144,7.452079085,2014-07-27,NA,445,1.2183436,"ingroupnonbreeder",1
+"KR1F018","Kuruman 1","KRR",5,"27/04/2016",9,"Female",148,116.8075972,2014-07-27,NA,640,1.752224504,"ingroupnonbreeder",1
+"KR1F018",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2014-07-27,NA,729,1.995893224,"Disappeared",2
+"KR1F019","Kuruman 1","KRR",2,"28/07/2014",10,"Female",37,15.72555258,2014-07-27,NA,0,0,"ingroupnonbreeder",1
+"KR1F019","Kuruman 1","KRR",3,"17/02/2015",10,"Female",87,60.89109671,2014-07-27,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR1F019","Kuruman 1","KRR",4,"15/10/2015",7,"Female",127,7.452079085,2014-07-27,NA,445,1.2183436,"ingroupnonbreeder",1
+"KR1F019","Kuruman 1","KRR",5,"27/04/2016",9,"Female",119,116.8075972,2014-07-27,NA,640,1.752224504,"ingroupnonbreeder",1
+"KR1F019","Kuruman 33","KRR",7,"07/03/2017",2,"Female",169,198.1155283,2014-07-27,NA,954,2.611909651,"Disappeared",2
+"KR1F020","Kuruman 1","KRR",5,"27/04/2016",9,"Female",42,116.8075972,2016-04-26,NA,0,0,"ingroupnonbreeder",1
+"KR1F020",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2016-04-26,NA,90,0.246406571,"Disappeared",2
+"KR1F021","Kuruman 1","KRR",5,"27/04/2016",9,"Female",66,116.8075972,2016-04-26,NA,0,0,"ingroupnonbreeder",1
+"KR1F021",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2016-04-26,NA,90,0.246406571,"Disappeared",2
+"KR1F022","Kuruman 1","KRR",7,"03/05/2017",4,"Female",78,75.0055436,2017-05-03,NA,0,0,"ingroupnonbreeder",1
+"KR1F022","Kuruman 1","KRR",8,"09/10/2017",4,"Female",112,16.33745678,2017-05-03,NA,159,0.435318275,"ingroupnonbreeder",1
+"KR1F022","Kuruman 1","KRR",9,"23/03/2018",4,"Female",134,121.7158381,2017-05-03,NA,324,0.887063655,"ingroupnonbreeder",1
+"KR1F022","Kuruman 42","KRR",10,"15/10/2018",3,"Female",142,11.76823613,2017-05-03,NA,530,1.451060917,"Disappeared",2
+"KR20F007","Kuruman 20","KRR",8,"02/08/2017",10,"Female",46,1.34743409,2017-08-01,NA,0,0,"ingroupnonbreeder",1
+"KR20F007","Kuruman 20","KRR",9,"11/05/2018",13,"Female",91,124.3583704,2017-08-01,NA,283,0.774811773,"ingroupnonbreeder",1
+"KR20F007","Kuruman 20","KRR",10,"23/09/2018",14,"Female",104,3.838321871,2017-08-01,NA,418,1.144421629,"ingroupnonbreeder",1
+"KR20F007",NA,"KRR",NA,"09/03/2019",NA,"Female",NA,NA,2017-08-01,NA,585,1.60164271,"Disappeared",2
+"KR20F009","Kuruman 20","KRR",9,"13/05/2018",13,"Female",60,124.3583704,2018-05-09,NA,0,0,"ingroupnonbreeder",1
+"KR20F009","Kuruman 20","KRR",10,"22/09/2018",14,"Female",80,3.838321871,2018-05-09,NA,136,0.372347707,"ingroupnonbreeder",1
+"KR20F009","Kuruman 20","KRR",11,"27/03/2019",17,"Female",87,69.35182863,2018-05-09,NA,322,0.881587953,"ingroupnonbreeder",1
+"KR20F009","Kuruman 51","KRR",13,"24/03/2020",1,"Female",112,165.6746387,2018-05-09,NA,685,1.875427789,"Disappeared",2
+"KR20F012","Kuruman 20","KRR",9,"12/05/2018",13,"Female",58,124.3583704,2018-05-09,NA,0,0,"ingroupnonbreeder",1
+"KR20F012","Kuruman 20","KRR",10,"23/09/2018",14,"Female",84,3.838321871,2018-05-09,NA,137,0.375085558,"ingroupnonbreeder",1
+"KR20F012","Kuruman 20","KRR",11,"25/03/2019",17,"Female",93,69.35182863,2018-05-09,NA,320,0.876112252,"ingroupnonbreeder",1
+"KR20F012","Kuruman 20","KRR",13,"06/04/2020",19,"Female",124,135.605622,2018-05-09,NA,698,1.911019849,"ingroupnonbreeder",1
+"KR20F012","Kuruman 20","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-05-09,99,749,2.05065024,"ingroupnonbreeder",99
+"KR20F013","Kuruman 20","KRR",9,"09/05/2018",13,"Female",71,124.3583704,2018-05-09,NA,0,0,"ingroupnonbreeder",1
+"KR20F013","Kuruman 20","KRR",10,"21/09/2018",14,"Female",78,3.838321871,2018-05-09,NA,135,0.369609856,"ingroupnonbreeder",1
+"KR20F013","Kuruman 20","KRR",11,"26/03/2019",17,"Female",100,69.35182863,2018-05-09,NA,321,0.878850103,"ingroupnonbreeder",1
+"KR20F013",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2018-05-09,NA,488,1.336071184,"Disappeared",2
+"KR20F015","Kuruman 20","KRR",11,"26/03/2019",17,"Female",54,69.35182863,2019-03-25,NA,0,0,"ingroupnonbreeder",1
+"KR20F015","Kuruman 20","KRR",13,"07/04/2020",19,"Female",105,135.605622,2019-03-25,NA,379,1.037645448,"ingroupnonbreeder",1
+"KR20F015","Kuruman 20","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-25,99,429,1.174537988,"ingroupnonbreeder",99
+"KR20F018","Kuruman 20","KRR",11,"28/03/2019",17,"Female",25,69.35182863,2019-03-25,NA,0,0,"ingroupnonbreeder",1
+"KR20F018","Kuruman 20","KRR",13,"06/04/2020",19,"Female",105,135.605622,2019-03-25,NA,378,1.034907598,"ingroupnonbreeder",1
+"KR20F018","Kuruman 20","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-25,99,429,1.174537988,"ingroupnonbreeder",99
+"KR20F023","Kuruman 20","KRR",13,"07/04/2020",19,"Female",72,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20F023","Kuruman 20","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR20F025","Kuruman 20","KRR",13,"08/04/2020",19,"Female",59,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20F025","Kuruman 20","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR20F026","Kuruman 20","KRR",13,"08/04/2020",19,"Female",62,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20F026","Kuruman 20","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR20F029","Kuruman 20","KRR",13,"09/04/2020",19,"Female",25,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20F029","Kuruman 20","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR26F002","Kuruman 26","KRR",7,"30/01/2017",5,"Female",52,133.174221,2017-01-30,NA,0,0,"ingroupnonbreeder",1
+"KR26F002","Kuruman 26","KRR",8,"08/08/2017",9,"Female",80,1.34743409,2017-01-30,NA,190,0.52019165,"ingroupnonbreeder",1
+"KR26F002","Kuruman 26","KRR",9,"29/03/2018",15,"Female",98,121.7158381,2017-01-30,NA,423,1.158110883,"ingroupnonbreeder",1
+"KR26F002",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-01-30,NA,592,1.620807666,"Disappeared",2
+"KR26F004","Kuruman 26","KRR",8,"07/08/2017",9,"Female",66,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR26F004","Kuruman 26","KRR",9,"30/03/2018",15,"Female",103,121.7158381,2017-08-07,NA,235,0.643394935,"ingroupnonbreeder",1
+"KR26F004",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-08-07,NA,403,1.103353867,"Disappeared",2
+"KR26F005","Kuruman 26","KRR",8,"07/08/2017",9,"Female",58,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR26F005","Kuruman 26","KRR",9,"29/03/2018",15,"Female",111,121.7158381,2017-08-07,NA,234,0.640657084,"ingroupnonbreeder",1
+"KR26F005","Kuruman 56","KRR",13,"18/05/2020",2,"Female",146,64.81177172,2017-08-07,NA,1015,2.778918549,"Disappeared",2
+"KR26F007","Kuruman 26","KRR",8,"09/08/2017",9,"Female",59,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR26F007","Kuruman 26","KRR",9,"30/03/2018",15,"Female",96,121.7158381,2017-08-07,NA,235,0.643394935,"ingroupnonbreeder",1
+"KR26F007",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-08-07,NA,403,1.103353867,"Disappeared",2
+"KR26F011","Kuruman 26","KRR",9,"30/03/2018",15,"Female",48,121.7158381,2018-03-29,NA,0,0,"ingroupnonbreeder",1
+"KR26F011","Kuruman 26","KRR",10,"07/11/2018",9,"Female",85,17.16380656,2018-03-29,NA,223,0.610540726,"ingroupnonbreeder",1
+"KR26F011","Kuruman 26","KRR",12,"17/10/2019",13,"Female",108,5.217065306,2018-03-29,NA,567,1.552361396,"ingroupnonbreeder",1
+"KR26F011","Kuruman 26","KRR",13,"04/05/2020",11,"Female",116,64.81177172,2018-03-29,NA,767,2.099931554,"ingroupnonbreeder",1
+"KR26F011","Kuruman 26","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-03-29,99,790,2.162902122,"ingroupnonbreeder",99
+"KR26F012","Kuruman 26","KRR",9,"31/03/2018",15,"Female",69,121.7158381,2018-03-29,NA,0,0,"ingroupnonbreeder",1
+"KR26F012","Kuruman 26","KRR",10,"07/11/2018",9,"Female",88,17.16380656,2018-03-29,NA,223,0.610540726,"ingroupnonbreeder",1
+"KR26F012",NA,"KRR",NA,"09/03/2019",NA,"Female",NA,NA,2018-03-29,NA,345,0.944558522,"Disappeared",2
+"KR26F013","Kuruman 26","KRR",9,"31/03/2018",15,"Female",49,121.7158381,2018-03-29,NA,0,0,"ingroupnonbreeder",1
+"KR26F013","Kuruman 26","KRR",10,"06/11/2018",9,"Female",87,17.16380656,2018-03-29,NA,222,0.607802875,"ingroupnonbreeder",1
+"KR26F013","Kuruman 26","KRR",12,"17/10/2019",13,"Female",118,5.217065306,2018-03-29,NA,567,1.552361396,"ingroupnonbreeder",1
+"KR26F013","Kuruman 26","KRR",13,"04/05/2020",11,"Female",135,64.81177172,2018-03-29,NA,767,2.099931554,"ingroupnonbreeder",1
+"KR26F013","Kuruman 26","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-03-29,99,790,2.162902122,"ingroupnonbreeder",99
+"KR26F021","Kuruman 26","KRR",12,"19/10/2019",13,"Female",36,5.217065306,2019-10-17,NA,0,0,"ingroupnonbreeder",1
+"KR26F021","Kuruman 26","KRR",13,"04/05/2020",11,"Female",67,64.81177172,2019-10-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR26F021","Kuruman 26","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-17,99,223,0.610540726,"ingroupnonbreeder",99
+"KR26F022","Kuruman 26","KRR",12,"20/10/2019",13,"Female",79,5.217065306,2019-10-17,NA,0,0,"ingroupnonbreeder",1
+"KR26F022","Kuruman 26","KRR",13,"04/05/2020",11,"Female",91,64.81177172,2019-10-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR26F022","Kuruman 26","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-17,99,223,0.610540726,"ingroupnonbreeder",99
+"KR26F023","Kuruman 26","KRR",12,"20/10/2019",13,"Female",36,5.217065306,2019-10-17,NA,0,0,"ingroupnonbreeder",1
+"KR26F023","Kuruman 26","KRR",13,"04/05/2020",11,"Female",71,64.81177172,2019-10-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR26F023","Kuruman 26","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-17,99,223,0.610540726,"ingroupnonbreeder",99
+"KR27F002","Kuruman 27","KRR",7,"05/02/2017",11,"Female",64,209.6293089,2017-02-05,NA,0,0,"ingroupnonbreeder",1
+"KR27F002","Kuruman 27","KRR",8,"08/08/2017",12,"Female",107,1.34743409,2017-02-05,NA,184,0.503764545,"ingroupnonbreeder",1
+"KR27F002","Kuruman 27","KRR",9,"05/04/2018",16,"Female",NA,171.3225646,2017-02-05,NA,424,1.160848734,"ingroupnonbreeder",1
+"KR27F002","Kuruman 27","KRR",10,"29/11/2018",8,"Female",143,17.16380656,2017-02-05,NA,662,1.812457221,"ingroupnonbreeder",1
+"KR27F002","Kuruman 27","KRR",13,"06/05/2020",8,"Female",150,64.81177172,2017-02-05,NA,1186,3.247091034,"ingroupnonbreeder",1
+"KR27F002","Kuruman 27","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2017-02-05,99,1207,3.3045859,"ingroupnonbreeder",99
+"KR27F003","Kuruman 27","KRR",7,"06/02/2017",11,"Female",54,209.6293089,2017-02-05,NA,0,0,"ingroupnonbreeder",1
+"KR27F003","Kuruman 27","KRR",8,"10/08/2017",12,"Female",97,1.34743409,2017-02-05,NA,186,0.509240246,"ingroupnonbreeder",1
+"KR27F003",NA,"KRR",NA,"17/03/2018",NA,"Female",NA,NA,2017-02-05,NA,405,1.108829569,"Disappeared",2
+"KR27F008","Kuruman 27","KRR",7,"06/02/2017",11,"Female",63,209.6293089,2017-02-05,NA,0,0,"ingroupnonbreeder",1
+"KR27F008","Kuruman 27","KRR",8,"08/08/2017",12,"Female",92,1.34743409,2017-02-05,NA,184,0.503764545,"ingroupnonbreeder",1
+"KR27F008","Kuruman 27","KRR",9,"06/04/2018",16,"Female",NA,171.3225646,2017-02-05,NA,425,1.163586585,"ingroupnonbreeder",1
+"KR27F008",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-02-05,NA,586,1.604380561,"Disappeared",2
+"KR27F010","Kuruman 27","KRR",8,"11/08/2017",12,"Female",53,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR27F010","Kuruman 27","KRR",9,"11/04/2018",16,"Female",92,171.3225646,2017-08-07,NA,247,0.676249144,"ingroupnonbreeder",1
+"KR27F010","Kuruman 54","KRR",13,"04/05/2020",2,"Female",138,64.81177172,2017-08-07,NA,1001,2.740588638,"Disappeared",2
+"KR27F011","Kuruman 27","KRR",8,"11/08/2017",12,"Female",23,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR27F011","Kuruman 27","KRR",9,"06/04/2018",16,"Female",NA,171.3225646,2017-08-07,NA,242,0.66255989,"ingroupnonbreeder",1
+"KR27F011",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-08-07,NA,403,1.103353867,"Disappeared",2
+"KR27F012","Kuruman 27","KRR",9,"07/04/2018",16,"Female",27,171.3225646,2018-04-05,NA,0,0,"ingroupnonbreeder",1
+"KR27F012","Kuruman 27","KRR",10,"29/11/2018",8,"Female",90,17.16380656,2018-04-05,NA,238,0.651608487,"ingroupnonbreeder",1
+"KR27F012","Kuruman 27","KRR",12,"16/09/2019",6,"Female",111,0.397720048,2018-04-05,NA,529,1.448323066,"ingroupnonbreeder",1
+"KR27F012",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2018-04-05,NA,700,1.916495551,"Disappeared",2
+"KR27F013","Kuruman 27","KRR",9,"06/04/2018",16,"Female",34,171.3225646,2018-04-05,NA,0,0,"ingroupnonbreeder",1
+"KR27F013","Kuruman 27","KRR",10,"27/11/2018",8,"Female",97,17.16380656,2018-04-05,NA,236,0.646132786,"ingroupnonbreeder",1
+"KR27F013","Kuruman 27","KRR",12,"17/09/2019",6,"Female",107,0.397720048,2018-04-05,NA,530,1.451060917,"ingroupnonbreeder",1
+"KR27F013","Kuruman 27","KRR",13,"06/05/2020",8,"Female",92,64.81177172,2018-04-05,NA,762,2.0862423,"ingroupnonbreeder",1
+"KR27F013","Kuruman 27","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-04-05,99,783,2.143737166,"ingroupnonbreeder",99
+"KR27F018","Kuruman 27","KRR",12,"19/09/2019",6,"Female",40,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR27F018",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2019-09-16,NA,171,0.468172485,"Disappeared",2
+"KR28F003","Kuruman 28","KRR",8,"21/10/2017",6,"Female",57,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR28F003","Kuruman 28","KRR",9,"22/04/2018",8,"Female",99,171.3225646,2017-10-19,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR28F003","Kuruman 28","KRR",10,"18/09/2018",9,"Female",111,3.838321871,2017-10-19,NA,334,0.914442163,"ingroupnonbreeder",1
+"KR28F003","Kuruman 28","KRR",11,"20/03/2019",11,"Female",119,69.35182863,2017-10-19,NA,517,1.415468857,"ingroupnonbreeder",1
+"KR28F003",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2017-10-19,NA,690,1.889117043,"Disappeared",2
+"KR28F006","Kuruman 28","KRR",9,"22/04/2018",8,"Female",33,171.3225646,2018-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR28F006","Kuruman 28","KRR",10,"16/09/2018",9,"Female",74,3.838321871,2018-04-20,NA,149,0.407939767,"ingroupnonbreeder",1
+"KR28F006","Kuruman 28","KRR",11,"19/03/2019",11,"Female",97,69.35182863,2018-04-20,NA,333,0.911704312,"ingroupnonbreeder",1
+"KR28F006","Kuruman 28","KRR",12,"16/09/2019",8,"Female",112,0.397720048,2018-04-20,NA,514,1.407255305,"ingroupnonbreeder",1
+"KR28F006","Kuruman 28","KRR",13,"17/03/2020",13,"Female",128,165.6746387,2018-04-20,NA,697,1.908281999,"ingroupnonbreeder",1
+"KR28F006","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-04-20,99,768,2.102669405,"ingroupnonbreeder",99
+"KR28F009","Kuruman 28","KRR",10,"16/09/2018",9,"Female",54,3.838321871,2018-09-15,NA,0,0,"ingroupnonbreeder",1
+"KR28F009","Kuruman 28","KRR",11,"20/03/2019",11,"Female",98,69.35182863,2018-09-15,NA,186,0.509240246,"ingroupnonbreeder",1
+"KR28F009","Kuruman 28","KRR",12,"16/09/2019",8,"Female",122,0.397720048,2018-09-15,NA,366,1.002053388,"ingroupnonbreeder",1
+"KR28F009","Kuruman 28","KRR",13,"17/03/2020",13,"Female",134,165.6746387,2018-09-15,NA,549,1.503080082,"ingroupnonbreeder",1
+"KR28F009","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-09-15,99,620,1.697467488,"ingroupnonbreeder",99
+"KR28F013","Kuruman 28","KRR",12,"19/09/2019",8,"Female",22,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR28F013","Kuruman 28","KRR",13,"19/03/2020",13,"Female",58,165.6746387,2019-09-16,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR28F013","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-09-16,99,254,0.6954141,"ingroupnonbreeder",99
+"KR28F014","Kuruman 28","KRR",12,"19/09/2019",8,"Female",26,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR28F014","Kuruman 28","KRR",13,"17/03/2020",13,"Female",74,165.6746387,2019-09-16,NA,183,0.501026694,"ingroupnonbreeder",1
+"KR28F014","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-09-16,99,254,0.6954141,"ingroupnonbreeder",99
+"KR28F015","Kuruman 28","KRR",13,"17/03/2020",13,"Female",64,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR28F015","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR28F017","Kuruman 28","KRR",13,"19/03/2020",13,"Female",27,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR28F017","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR28F018","Kuruman 28","KRR",13,"19/03/2020",13,"Female",29,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR28F018","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR28F019","Kuruman 28","KRR",13,"20/03/2020",13,"Female",32,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR28F019","Kuruman 28","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR30F002","Kuruman 30","KRR",13,"27/04/2020",10,"Female",74,135.605622,2020-04-27,NA,0,0,"ingroupnonbreeder",1
+"KR30F002","Kuruman 30","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-27,99,30,0.082135524,"ingroupnonbreeder",99
+"KR30F003","Kuruman 30","KRR",13,"27/04/2020",10,"Female",39,135.605622,2020-04-27,NA,0,0,"ingroupnonbreeder",1
+"KR30F003","Kuruman 30","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-27,99,30,0.082135524,"ingroupnonbreeder",99
+"KR30F005","Kuruman 30","KRR",13,"27/04/2020",10,"Female",73,135.605622,2020-04-27,NA,0,0,"ingroupnonbreeder",1
+"KR30F005","Kuruman 30","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-27,99,30,0.082135524,"ingroupnonbreeder",99
+"KR30F006","Kuruman 30","KRR",13,"27/04/2020",10,"Female",73,135.605622,2020-04-27,NA,0,0,"ingroupnonbreeder",1
+"KR30F006","Kuruman 30","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-27,99,30,0.082135524,"ingroupnonbreeder",99
+"KR31F004","Kuruman 31","KRR",8,"19/10/2017",6,"Female",63,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR31F004","Kuruman 31","KRR",9,"30/03/2018",7,"Female",91,121.7158381,2017-10-19,NA,162,0.443531828,"ingroupnonbreeder",1
+"KR31F004","Kuruman 48","KRR",12,"23/10/2019",1,"Female",144,5.217065306,2017-10-19,NA,734,2.009582478,"Disappeared",2
+"KR31F008","Kuruman 31","KRR",12,"24/11/2019",13,"Female",55,9.848668221,2019-11-23,NA,0,0,"ingroupnonbreeder",1
+"KR31F008","Kuruman 31","KRR",13,"20/04/2020",17,"Female",88,135.605622,2019-11-23,NA,149,0.407939767,"ingroupnonbreeder",1
+"KR31F008","Kuruman 31","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-11-23,99,186,0.509240246,"ingroupnonbreeder",99
+"KR31F017","Kuruman 31","KRR",12,"26/11/2019",13,"Female",53,9.848668221,2019-11-23,NA,0,0,"ingroupnonbreeder",1
+"KR31F017","Kuruman 31","KRR",13,"20/04/2020",17,"Female",89,135.605622,2019-11-23,NA,149,0.407939767,"ingroupnonbreeder",1
+"KR31F017","Kuruman 31","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-11-23,99,186,0.509240246,"ingroupnonbreeder",99
+"KR31F020","Kuruman 31","KRR",13,"23/04/2020",17,"Female",26,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR31F020","Kuruman 31","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"KR33F004","Kuruman 33","KRR",10,"16/10/2018",5,"Female",78,11.76823613,2018-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR33F004","Kuruman 33","KRR",11,"16/04/2019",7,"Female",93,89.01727301,2018-10-15,NA,183,0.501026694,"ingroupnonbreeder",1
+"KR33F004","Kuruman 33","KRR",12,"08/10/2019",7,"Female",90,5.217065306,2018-10-15,NA,358,0.980150582,"ingroupnonbreeder",1
+"KR33F004",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2018-10-15,NA,507,1.388090349,"Disappeared",2
+"KR33F005","Kuruman 33","KRR",11,"15/04/2019",7,"Female",49,89.01727301,2019-04-15,NA,0,0,"ingroupnonbreeder",1
+"KR33F005","Kuruman 33","KRR",12,"08/10/2019",7,"Female",66,5.217065306,2019-04-15,NA,176,0.481861739,"ingroupnonbreeder",1
+"KR33F005","Kuruman 33","KRR",13,"15/04/2020",6,"Female",71,135.605622,2019-04-15,NA,366,1.002053388,"ingroupnonbreeder",1
+"KR33F005","Kuruman 33","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-04-15,99,408,1.117043121,"ingroupnonbreeder",99
+"KR34F004","Kuruman 34","KRR",11,"06/04/2019",7,"Female",59,89.01727301,2019-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR34F004",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2019-04-06,NA,156,0.427104723,"Disappeared",2
+"KR34F005","Kuruman 34","KRR",11,"08/04/2019",7,"Female",64,89.01727301,2019-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR34F005","Kuruman 34","KRR",12,"09/09/2019",8,"Female",68,0.397720048,2019-04-06,NA,156,0.427104723,"ingroupnonbreeder",1
+"KR34F005","Kuruman 34","KRR",13,"01/04/2020",8,"Female",79,165.6746387,2019-04-06,NA,361,0.988364134,"ingroupnonbreeder",1
+"KR34F005","Kuruman 34","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-04-06,99,417,1.141683778,"ingroupnonbreeder",99
+"KR34F006","Kuruman 34","KRR",12,"11/09/2019",8,"Female",70,0.397720048,2019-09-09,NA,0,0,"ingroupnonbreeder",1
+"KR34F006","Kuruman 34","KRR",13,"02/04/2020",8,"Female",78,165.6746387,2019-09-09,NA,206,0.563997262,"ingroupnonbreeder",1
+"KR34F006","Kuruman 34","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-09-09,99,261,0.714579055,"ingroupnonbreeder",99
+"KR34F007","Kuruman 34","KRR",12,"12/09/2019",8,"Female",63,0.397720048,2019-09-09,NA,0,0,"ingroupnonbreeder",1
+"KR34F007","Kuruman 34","KRR",13,"01/04/2020",8,"Female",77,165.6746387,2019-09-09,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR34F007","Kuruman 34","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-09-09,99,261,0.714579055,"ingroupnonbreeder",99
+"KR35F001","Kuruman 35","KRR",11,"04/04/2019",5,"Female",55,89.01727301,2019-04-04,NA,0,0,"ingroupnonbreeder",1
+"KR35F001","Kuruman 35","KRR",12,"06/10/2019",7,"Female",79,5.217065306,2019-04-04,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR35F001",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2019-04-04,NA,336,0.919917864,"Disappeared",2
+"KR35F003","Kuruman 35","KRR",11,"05/04/2019",5,"Female",42,89.01727301,2019-04-04,NA,0,0,"ingroupnonbreeder",1
+"KR35F003","Kuruman 35","KRR",12,"06/10/2019",7,"Female",71,5.217065306,2019-04-04,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR35F003","Kuruman 35","KRR",13,"13/04/2020",9,"Female",80,135.605622,2019-04-04,NA,375,1.026694045,"ingroupnonbreeder",1
+"KR35F003","Kuruman 35","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-04-04,99,419,1.14715948,"ingroupnonbreeder",99
+"KR35F004","Kuruman 35","KRR",12,"06/10/2019",7,"Female",24,5.217065306,2019-10-06,NA,0,0,"ingroupnonbreeder",1
+"KR35F004","Kuruman 35","KRR",13,"13/04/2020",9,"Female",72,135.605622,2019-10-06,NA,190,0.52019165,"ingroupnonbreeder",1
+"KR35F004","Kuruman 35","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-06,99,234,0.640657084,"ingroupnonbreeder",99
+"KR35F006","Kuruman 35","KRR",13,"13/04/2020",9,"Female",50,135.605622,2020-04-13,NA,0,0,"ingroupnonbreeder",1
+"KR35F006","Kuruman 35","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-13,99,44,0.120465435,"ingroupnonbreeder",99
+"KR36F003","Kuruman 36","KRR",7,"08/05/2017",14,"Female",77,75.0055436,2017-05-08,NA,0,0,"ingroupnonbreeder",1
+"KR36F003","Kuruman 36","KRR",8,"10/10/2017",14,"Female",93,16.33745678,2017-05-08,NA,155,0.424366872,"ingroupnonbreeder",1
+"KR36F003","Kuruman 36","KRR",9,"18/04/2018",9,"Female",130,171.3225646,2017-05-08,NA,345,0.944558522,"ingroupnonbreeder",1
+"KR36F003","Kuruman 36","KRR",10,"14/10/2018",12,"Female",122,11.76823613,2017-05-08,NA,524,1.434633812,"ingroupnonbreeder",1
+"KR36F003","Kuruman 36","KRR",11,"16/04/2019",15,"Female",139,89.01727301,2017-05-08,NA,708,1.938398357,"ingroupnonbreeder",1
+"KR36F003",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2017-05-08,NA,854,2.338124572,"Disappeared",2
+"KR36F004","Kuruman 36","KRR",7,"08/05/2017",14,"Female",77,75.0055436,2017-05-08,NA,0,0,"ingroupnonbreeder",1
+"KR36F004","Kuruman 36","KRR",8,"09/10/2017",14,"Female",97,16.33745678,2017-05-08,NA,154,0.421629021,"ingroupnonbreeder",1
+"KR36F004","Kuruman 36","KRR",9,"19/04/2018",9,"Female",116,171.3225646,2017-05-08,NA,346,0.947296372,"ingroupnonbreeder",1
+"KR36F004",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-05-08,NA,494,1.352498289,"Disappeared",2
+"KR36F010","Kuruman 36","KRR",7,"09/05/2017",14,"Female",36,75.0055436,2017-05-08,NA,0,0,"ingroupnonbreeder",1
+"KR36F010","Kuruman 36","KRR",8,"09/10/2017",14,"Female",78,16.33745678,2017-05-08,NA,154,0.421629021,"ingroupnonbreeder",1
+"KR36F010","Kuruman 36","KRR",9,"20/04/2018",9,"Female",90,171.3225646,2017-05-08,NA,347,0.950034223,"ingroupnonbreeder",1
+"KR36F010","Kuruman 36","KRR",10,"14/10/2018",12,"Female",109,11.76823613,2017-05-08,NA,524,1.434633812,"ingroupnonbreeder",1
+"KR36F010","Kuruman 36","KRR",12,"31/10/2019",4,"Female",113,5.217065306,2017-05-08,NA,906,2.480492813,"ingroupnonbreeder",1
+"KR36F010","Kuruman 36","KRR",13,"11/05/2020",8,"Female",115,64.81177172,2017-05-08,NA,1099,3.008898015,"ingroupnonbreeder",1
+"KR36F010","Kuruman 36","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2017-05-08,99,1115,3.052703628,"ingroupnonbreeder",99
+"KR36F013","Kuruman 36","KRR",8,"09/10/2017",14,"Female",50,16.33745678,2017-10-09,NA,0,0,"ingroupnonbreeder",1
+"KR36F013",NA,"KRR",NA,"17/03/2018",NA,"Female",NA,NA,2017-10-09,NA,159,0.435318275,"Disappeared",2
+"KR36F018","Kuruman 36","KRR",10,"13/10/2018",12,"Female",73,11.76823613,2018-10-13,NA,0,0,"ingroupnonbreeder",1
+"KR36F018","Kuruman 36","KRR",11,"15/04/2019",15,"Female",110,89.01727301,2018-10-13,NA,184,0.503764545,"ingroupnonbreeder",1
+"KR36F018","Kuruman 36","KRR",12,"31/10/2019",4,"Female",114,5.217065306,2018-10-13,NA,383,1.048596851,"ingroupnonbreeder",1
+"KR36F018","Kuruman 36","KRR",13,"11/05/2020",8,"Female",125,64.81177172,2018-10-13,NA,576,1.577002053,"ingroupnonbreeder",1
+"KR36F018","Kuruman 36","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-10-13,99,592,1.620807666,"ingroupnonbreeder",99
+"KR36F019","Kuruman 36","KRR",10,"14/10/2018",12,"Female",68,11.76823613,2018-10-13,NA,0,0,"ingroupnonbreeder",1
+"KR36F019","Kuruman 36","KRR",11,"15/04/2019",15,"Female",98,89.01727301,2018-10-13,NA,184,0.503764545,"ingroupnonbreeder",1
+"KR36F019","Kuruman 36","KRR",12,"31/10/2019",4,"Female",98,5.217065306,2018-10-13,NA,383,1.048596851,"ingroupnonbreeder",1
+"KR36F019","Kuruman 36","KRR",13,"12/05/2020",8,"Female",110,64.81177172,2018-10-13,NA,577,1.579739904,"ingroupnonbreeder",1
+"KR36F019","Kuruman 36","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-10-13,99,592,1.620807666,"ingroupnonbreeder",99
+"KR36F023","Kuruman 36","KRR",11,"16/04/2019",15,"Female",61,89.01727301,2019-04-15,NA,0,0,"ingroupnonbreeder",1
+"KR36F023","Kuruman 36","KRR",13,"11/05/2020",8,"Female",88,64.81177172,2019-04-15,NA,392,1.073237509,"ingroupnonbreeder",1
+"KR36F023","Kuruman 36","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-04-15,99,408,1.117043121,"ingroupnonbreeder",99
+"KR36F024","Kuruman 36","KRR",11,"17/04/2019",15,"Female",56,89.01727301,2019-04-15,NA,0,0,"ingroupnonbreeder",1
+"KR36F024","Kuruman 36","KRR",13,"12/05/2020",8,"Female",72,64.81177172,2019-04-15,NA,393,1.075975359,"ingroupnonbreeder",1
+"KR36F024","Kuruman 36","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-04-15,99,408,1.117043121,"ingroupnonbreeder",99
+"KR36F025","Kuruman 36","KRR",11,"17/04/2019",15,"Female",26,89.01727301,2019-04-15,NA,0,0,"ingroupnonbreeder",1
+"KR36F025","Kuruman 36","KRR",13,"11/05/2020",8,"Female",86,64.81177172,2019-04-15,NA,392,1.073237509,"ingroupnonbreeder",1
+"KR36F025","Kuruman 36","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-04-15,99,408,1.117043121,"ingroupnonbreeder",99
+"KR36F026","Kuruman 36","KRR",12,"31/10/2019",4,"Female",64,5.217065306,2019-10-28,NA,0,0,"ingroupnonbreeder",1
+"KR36F026",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2019-10-28,NA,129,0.353182752,"Disappeared",2
+"KR38F005","Kuruman 38","KRR",11,"17/04/2019",3,"Female",45,89.01727301,2019-04-17,NA,0,0,"ingroupnonbreeder",1
+"KR38F005",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2019-04-17,NA,145,0.396988364,"Disappeared",2
+"KR42F001","Kuruman 42","KRR",10,"17/10/2018",3,"Female",46,11.76823613,2018-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR42F001","Kuruman 42","KRR",11,"13/03/2019",6,"Female",70,69.35182863,2018-10-15,NA,149,0.407939767,"ingroupnonbreeder",1
+"KR42F001","Kuruman 42","KRR",12,"06/10/2019",7,"Female",91,5.217065306,2018-10-15,NA,356,0.97467488,"ingroupnonbreeder",1
+"KR42F001","Kuruman 42","KRR",13,"14/03/2020",7,"Female",103,165.6746387,2018-10-15,NA,516,1.412731006,"ingroupnonbreeder",1
+"KR42F001","Kuruman 42","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-10-15,99,590,1.615331964,"ingroupnonbreeder",99
+"KR42F002","Kuruman 42","KRR",11,"12/03/2019",6,"Female",53,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR42F002","Kuruman 42","KRR",12,"06/10/2019",7,"Female",88,5.217065306,2019-03-12,NA,208,0.569472964,"ingroupnonbreeder",1
+"KR42F002","Kuruman 42","KRR",13,"09/03/2020",7,"Female",92,165.6746387,2019-03-12,NA,363,0.993839836,"ingroupnonbreeder",1
+"KR42F002","Kuruman 42","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR42F005","Kuruman 42","KRR",12,"09/10/2019",7,"Female",77,5.217065306,2019-10-06,NA,0,0,"ingroupnonbreeder",1
+"KR42F005","Kuruman 42","KRR",13,"10/03/2020",7,"Female",88,165.6746387,2019-10-06,NA,156,0.427104723,"ingroupnonbreeder",1
+"KR42F005","Kuruman 42","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-06,99,234,0.640657084,"ingroupnonbreeder",99
+"KR43F003","Kuruman 43","KRR",10,"26/11/2018",5,"Female",43,17.16380656,2018-11-22,NA,0,0,"ingroupnonbreeder",1
+"KR43F003","Kuruman 43","KRR",11,"19/03/2019",5,"Female",54,69.35182863,2018-11-22,NA,117,0.320328542,"ingroupnonbreeder",1
+"KR43F003","Kuruman 43","KRR",12,"16/09/2019",7,"Female",77,0.397720048,2018-11-22,NA,298,0.815879535,"ingroupnonbreeder",1
+"KR43F003","Kuruman 43","KRR",13,"16/03/2020",10,"Female",92,165.6746387,2018-11-22,NA,480,1.314168378,"ingroupnonbreeder",1
+"KR43F003","Kuruman 43","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-11-22,99,552,1.511293634,"ingroupnonbreeder",99
+"KR43F004","Kuruman 43","KRR",12,"16/09/2019",7,"Female",28,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR43F004","Kuruman 43","KRR",13,"16/03/2020",10,"Female",67,165.6746387,2019-09-16,NA,182,0.498288843,"ingroupnonbreeder",1
+"KR43F004","Kuruman 43","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-09-16,99,254,0.6954141,"ingroupnonbreeder",99
+"KR43F006","Kuruman 43","KRR",12,"18/09/2019",7,"Female",27,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR43F006","Kuruman 43","KRR",13,"17/03/2020",10,"Female",69,165.6746387,2019-09-16,NA,183,0.501026694,"ingroupnonbreeder",1
+"KR43F006","Kuruman 43","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-09-16,99,254,0.6954141,"ingroupnonbreeder",99
+"KR43F007","Kuruman 43","KRR",13,"16/03/2020",10,"Female",39,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR43F007","Kuruman 43","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR43F008","Kuruman 43","KRR",13,"17/03/2020",10,"Female",75,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR43F008","Kuruman 43","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR43F009","Kuruman 43","KRR",13,"17/03/2020",10,"Female",38,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR43F009","Kuruman 43","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR49F009","Kuruman 49","KRR",12,"28/10/2019",17,"Female",57,5.217065306,2019-10-28,NA,0,0,"ingroupnonbreeder",1
+"KR49F009","Kuruman 49","KRR",13,"19/05/2020",13,"Female",80,64.81177172,2019-10-28,NA,204,0.558521561,"ingroupnonbreeder",1
+"KR49F009","Kuruman 49","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-28,99,212,0.580424367,"ingroupnonbreeder",99
+"KR49F017","Kuruman 49","KRR",13,"19/05/2020",13,"Female",56,64.81177172,2020-05-19,NA,0,0,"ingroupnonbreeder",1
+"KR49F017","Kuruman 49","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-05-19,99,8,0.021902806,"ingroupnonbreeder",99
+"KR49M014","Kuruman 49","KRR",12,"29/10/2019",17,"Female",72,5.217065306,2019-10-28,NA,0,0,"ingroupnonbreeder",1
+"KR49M014","Kuruman 49","KRR",13,"20/05/2020",13,"Female",99,64.81177172,2019-10-28,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR49M014","Kuruman 49","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-28,99,212,0.580424367,"ingroupnonbreeder",99
+"KR53F005","Kuruman 53","KRR",13,"23/04/2020",5,"Female",17,135.605622,2020-04-22,NA,0,0,"ingroupnonbreeder",1
+"KR53F005","Kuruman 53","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-22,99,35,0.095824778,"ingroupnonbreeder",99
+"KR7F005","Kuruman 7","KRR",1,"04/12/2013",17,"Female",75,87.00237235,2013-12-03,NA,0,0,"ingroupnonbreeder",1
+"KR7F005",NA,"KRR",NA,"27/07/2014",NA,"Female",NA,NA,2013-12-03,NA,236,0.646132786,"Disappeared",2
+"KR7F006","Kuruman 7","KRR",1,"05/12/2013",17,"Female",52,87.00237235,2013-12-03,NA,0,0,"ingroupnonbreeder",1
+"KR7F006","Kuruman 7","KRR",2,"08/08/2014",6,"Female",82,4.644637189,2013-12-03,NA,248,0.678986995,"ingroupnonbreeder",1
+"KR7F006","Kuruman 7","KRR",3,"04/03/2015",5,"Female",94,108.703723,2013-12-03,NA,456,1.248459959,"ingroupnonbreeder",1
+"KR7F006",NA,"KRR",NA,"16/09/2015",NA,"Female",NA,NA,2013-12-03,NA,652,1.785078713,"Disappeared",2
+"KR7F012","Kuruman 7","KRR",1,"06/12/2013",17,"Female",49,87.00237235,2013-12-03,NA,0,0,"ingroupnonbreeder",1
+"KR7F012","Kuruman 7","KRR",2,"06/08/2014",6,"Female",76,4.644637189,2013-12-03,NA,246,0.673511294,"ingroupnonbreeder",1
+"KR7F012","Kuruman 7","KRR",3,"04/03/2015",5,"Female",91,108.703723,2013-12-03,NA,456,1.248459959,"ingroupnonbreeder",1
+"KR7F012","Kuruman 7","KRR",5,"17/02/2016",2,"Female",122,111.7311443,2013-12-03,NA,806,2.206707734,"ingroupnonbreeder",1
+"KR7F012",NA,"KRR",NA,"25/07/2016",NA,"Female",NA,NA,2013-12-03,NA,965,2.64202601,"Disappeared",2
+"KR7F019","Kuruman 7","KRR",10,"14/11/2018",4,"Female",31,17.16380656,2018-11-13,NA,0,0,"ingroupnonbreeder",1
+"KR7F019","Kuruman 7","KRR",11,"10/03/2019",6,"Female",54,69.35182863,2018-11-13,NA,117,0.320328542,"ingroupnonbreeder",1
+"KR7F019","Kuruman 7","KRR",12,"01/10/2019",11,"Female",88,0.274765418,2018-11-13,NA,322,0.881587953,"ingroupnonbreeder",1
+"KR7F019",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2018-11-13,NA,478,1.308692676,"Disappeared",2
+"KR7F020","Kuruman 7","KRR",11,"10/03/2019",6,"Female",59,69.35182863,2019-03-09,NA,0,0,"ingroupnonbreeder",1
+"KR7F020","Kuruman 7","KRR",12,"30/09/2019",11,"Female",95,0.274765418,2019-03-09,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR7F020","Kuruman 7","KRR",13,"20/05/2020",6,"Female",106,64.81177172,2019-03-09,NA,438,1.199178645,"ingroupnonbreeder",1
+"KR7F020","Kuruman 7","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-09,99,445,1.2183436,"ingroupnonbreeder",99
+"KR7F023","Kuruman 7","KRR",12,"01/10/2019",11,"Female",38,0.274765418,2019-09-30,NA,0,0,"ingroupnonbreeder",1
+"KR7F023","Kuruman 7","KRR",13,"20/05/2020",6,"Female",75,64.81177172,2019-09-30,NA,233,0.637919233,"ingroupnonbreeder",1
+"KR7F023","Kuruman 7","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-09-30,99,240,0.657084189,"ingroupnonbreeder",99
+"KR7F024","Kuruman 7","KRR",12,"01/10/2019",11,"Female",51,0.274765418,2019-09-30,NA,0,0,"ingroupnonbreeder",1
+"KR7F024",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2019-09-30,NA,157,0.429842574,"Disappeared",2
+"KR7F026","Kuruman 7","KRR",12,"03/10/2019",11,"Female",26,0.274765418,2019-09-30,NA,0,0,"ingroupnonbreeder",1
+"KR7F026",NA,"KRR",NA,"05/03/2020",NA,"Female",NA,NA,2019-09-30,NA,157,0.429842574,"Disappeared",2
+"KR8F009","Kuruman 8","KRR",7,"06/02/2017",12,"Female",57,209.6293089,2017-02-06,NA,0,0,"ingroupnonbreeder",1
+"KR8F009","Kuruman 8","KRR",8,"16/08/2017",11,"Female",105,1.34743409,2017-02-06,NA,191,0.5229295,"ingroupnonbreeder",1
+"KR8F009",NA,"KRR",NA,"17/03/2018",NA,"Female",NA,NA,2017-02-06,NA,404,1.106091718,"Disappeared",2
+"KR8F014","Kuruman 8","KRR",7,"08/02/2017",12,"Female",14,209.6293089,2017-02-06,NA,0,0,"ingroupnonbreeder",1
+"KR8F014",NA,"KRR",NA,"31/07/2017",NA,"Female",NA,NA,2017-02-06,NA,175,0.479123888,"Disappeared",2
+"KR8F016","Kuruman 8","KRR",8,"14/08/2017",11,"Female",69,1.34743409,2017-08-14,NA,0,0,"ingroupnonbreeder",1
+"KR8F016","Kuruman 8","KRR",9,"02/05/2018",16,"Female",93,171.3225646,2017-08-14,NA,261,0.714579055,"ingroupnonbreeder",1
+"KR8F016",NA,"KRR",NA,"14/09/2018",NA,"Female",NA,NA,2017-08-14,NA,396,1.084188912,"Disappeared",2
+"KR8F017","Kuruman 8","KRR",8,"15/08/2017",11,"Female",43,1.34743409,2017-08-14,NA,0,0,"ingroupnonbreeder",1
+"KR8F017","Kuruman 8","KRR",9,"03/05/2018",16,"Female",NA,171.3225646,2017-08-14,NA,262,0.717316906,"ingroupnonbreeder",1
+"KR8F017","Kuruman 8","KRR",10,"05/11/2018",16,"Female",118,17.16380656,2017-08-14,NA,448,1.226557153,"ingroupnonbreeder",1
+"KR8F017",NA,"KRR",NA,"09/03/2019",NA,"Female",NA,NA,2017-08-14,NA,572,1.56605065,"Disappeared",2
+"KR8F021","Kuruman 8","KRR",9,"01/05/2018",16,"Female",47,171.3225646,2018-04-30,NA,0,0,"ingroupnonbreeder",1
+"KR8F021","Kuruman 8","KRR",10,"06/11/2018",16,"Female",102,17.16380656,2018-04-30,NA,190,0.52019165,"ingroupnonbreeder",1
+"KR8F021",NA,"KRR",NA,"09/03/2019",NA,"Female",NA,NA,2018-04-30,NA,313,0.856947296,"Disappeared",2
+"KR8F027","Kuruman 8","KRR",10,"06/11/2018",16,"Female",62,17.16380656,2018-11-05,NA,0,0,"ingroupnonbreeder",1
+"KR8F027","Kuruman 8","KRR",11,"10/03/2019",15,"Female",87,69.35182863,2018-11-05,NA,125,0.342231348,"ingroupnonbreeder",1
+"KR8F027","Kuruman 8","KRR",12,"16/10/2019",15,"Female",115,5.217065306,2018-11-05,NA,345,0.944558522,"ingroupnonbreeder",1
+"KR8F027","Kuruman 8","KRR",13,"20/04/2020",22,"Female",118,135.605622,2018-11-05,NA,532,1.456536619,"ingroupnonbreeder",1
+"KR8F027","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2018-11-05,99,569,1.557837098,"ingroupnonbreeder",99
+"KR8F028","Kuruman 8","KRR",10,"09/11/2018",16,"Female",71,17.16380656,2018-11-05,NA,0,0,"ingroupnonbreeder",1
+"KR8F028",NA,"KRR",NA,"09/03/2019",NA,"Female",NA,NA,2018-11-05,NA,124,0.339493498,"Disappeared",2
+"KR8F029","Kuruman 8","KRR",10,"09/11/2018",16,"Female",69,17.16380656,2018-11-05,NA,0,0,"ingroupnonbreeder",1
+"KR8F029","Kuruman 8","KRR",11,"10/03/2019",15,"Female",95,69.35182863,2018-11-05,NA,125,0.342231348,"ingroupnonbreeder",1
+"KR8F029",NA,"KRR",NA,"09/09/2019",NA,"Female",NA,NA,2018-11-05,NA,308,0.843258042,"Disappeared",2
+"KR8F030","Kuruman 8","KRR",11,"10/03/2019",15,"Female",41,69.35182863,2019-03-09,NA,0,0,"ingroupnonbreeder",1
+"KR8F030","Kuruman 8","KRR",12,"15/10/2019",15,"Female",117,5.217065306,2019-03-09,NA,220,0.602327173,"ingroupnonbreeder",1
+"KR8F030","Kuruman 8","KRR",13,"20/04/2020",22,"Female",128,135.605622,2019-03-09,NA,408,1.117043121,"ingroupnonbreeder",1
+"KR8F030","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-09,99,445,1.2183436,"ingroupnonbreeder",99
+"KR8F031","Kuruman 8","KRR",11,"10/03/2019",15,"Female",46,69.35182863,2019-03-09,NA,0,0,"ingroupnonbreeder",1
+"KR8F031","Kuruman 8","KRR",12,"15/10/2019",15,"Female",106,5.217065306,2019-03-09,NA,220,0.602327173,"ingroupnonbreeder",1
+"KR8F031","Kuruman 8","KRR",13,"21/04/2020",22,"Female",110,135.605622,2019-03-09,NA,409,1.119780972,"ingroupnonbreeder",1
+"KR8F031","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-03-09,99,445,1.2183436,"ingroupnonbreeder",99
+"KR8F033","Kuruman 8","KRR",12,"16/10/2019",15,"Female",77,5.217065306,2019-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR8F033","Kuruman 8","KRR",13,"21/04/2020",22,"Female",104,135.605622,2019-10-15,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR8F033","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-15,99,225,0.616016427,"ingroupnonbreeder",99
+"KR8F036","Kuruman 8","KRR",12,"16/10/2019",15,"Female",48,5.217065306,2019-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR8F036","Kuruman 8","KRR",13,"20/04/2020",22,"Female",84,135.605622,2019-10-15,NA,188,0.514715948,"ingroupnonbreeder",1
+"KR8F036","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-15,99,225,0.616016427,"ingroupnonbreeder",99
+"KR8F038","Kuruman 8","KRR",12,"17/10/2019",15,"Female",48,5.217065306,2019-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR8F038","Kuruman 8","KRR",13,"20/04/2020",22,"Female",83,135.605622,2019-10-15,NA,188,0.514715948,"ingroupnonbreeder",1
+"KR8F038","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2019-10-15,99,225,0.616016427,"ingroupnonbreeder",99
+"KR8F039","Kuruman 8","KRR",13,"20/04/2020",22,"Female",60,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR8F039","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"KR8F040","Kuruman 8","KRR",13,"20/04/2020",22,"Female",60,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR8F040","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"KR8F041","Kuruman 8","KRR",13,"20/04/2020",22,"Female",52,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR8F041","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"KR8F042","Kuruman 8","KRR",13,"20/04/2020",22,"Female",24,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR8F042","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"KR8F043","Kuruman 8","KRR",13,"21/04/2020",22,"Female",25,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR8F043","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"KR8F045","Kuruman 8","KRR",13,"21/04/2020",22,"Female",23,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR8F045","Kuruman 8","KRR",NA,"27/05/2020",NA,"Female",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"L10F002","Lonely 10","Lonely",6,"22/09/2016",3,"Female",26,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L10F002","Lonely 10","Lonely",7,"21/06/2017",8,"Female",71,52.75207139,2016-09-22,NA,272,0.744695414,"ingroupnonbreeder",1
+"L10F002","Lonely 10","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L10F004","Lonely 10","Lonely",7,"21/06/2017",8,"Female",27,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L10F004","Lonely 10","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L10F005","Lonely 10","Lonely",7,"21/06/2017",8,"Female",66,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L10F005","Lonely 10","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L10F006","Lonely 10","Lonely",7,"22/06/2017",8,"Female",66,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L10F006","Lonely 10","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L10F008","Lonely 10","Lonely",7,"23/06/2017",8,"Female",37,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L10F008","Lonely 10","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L11F030","Lonely 11","Lonely",7,"31/05/2017",6,"Female",40,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L11F030","Lonely 11","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L13F014","Lonely 13","Lonely",2,"02/03/2014",10,"Female",37,263.0608928,2014-03-01,NA,0,0,"ingroupnonbreeder",1
+"L13F014","Lonely 13","Lonely",3,"16/09/2014",8,"Female",124,6.702013991,2014-03-01,NA,199,0.544832307,"ingroupnonbreeder",1
+"L13F014","Lonely 13","Lonely",4,"26/03/2015",8,"Female",104,108.703723,2014-03-01,NA,390,1.067761807,"ingroupnonbreeder",1
+"L13F014",NA,"Lonely",NA,"08/02/2016",8,NA,NA,NA,2014-03-01,NA,709,1.941136208,"Disappeared",2
+"L13F017","Lonely 13","Lonely",3,"19/09/2014",8,"Female",15,6.702013991,2014-09-16,NA,0,0,"ingroupnonbreeder",1
+"L13F017",NA,"Lonely",NA,"29/01/2015",8,NA,NA,NA,2014-09-16,NA,135,0.369609856,"Disappeared",2
+"L13F020","Lonely 13","Lonely",4,"27/03/2015",8,"Female",28,108.703723,2015-03-26,NA,0,0,"ingroupnonbreeder",1
+"L13F020","Lonely 13","Lonely",5,"23/02/2016",12,"Female",87,111.7311443,2015-03-26,NA,334,0.914442163,"ingroupnonbreeder",1
+"L13F020","Lonely 19","Lonely",6,"06/10/2016",1,"Female",102,7.862713041,2015-03-26,NA,560,1.533196441,"Disappeared",2
+"L13F021","Lonely 13","Lonely",4,"27/03/2015",8,"Female",33,108.703723,2015-03-26,NA,0,0,"ingroupnonbreeder",1
+"L13F021","Lonely 13","Lonely",5,"23/02/2016",12,"Female",100,111.7311443,2015-03-26,NA,334,0.914442163,"ingroupnonbreeder",1
+"L13F021",NA,"Lonely",NA,"09/09/2016",12,NA,NA,NA,2015-03-26,NA,533,1.45927447,"Disappeared",2
+"L13F025","Lonely 13","Lonely",5,"22/02/2016",12,"Female",74,111.7311443,2016-02-22,NA,0,0,"ingroupnonbreeder",1
+"L13F025",NA,"Lonely",NA,"09/09/2016",12,NA,NA,NA,2016-02-22,NA,200,0.547570157,"Disappeared",2
+"L13F029","Lonely 13","Lonely",5,"24/02/2016",12,"Female",38,111.7311443,2016-02-22,NA,0,0,"ingroupnonbreeder",1
+"L13F029","Lonely 13","Lonely",6,"10/09/2016",8,"Female",114,4.678070845,2016-02-22,NA,201,0.550308008,"ingroupnonbreeder",1
+"L13F029","Lonely 13","Lonely",7,"05/06/2017",10,"Female",124,52.75207139,2016-02-22,NA,469,1.284052019,"ingroupnonbreeder",1
+"L13F029","Lonely 13","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-02-22,99,527,1.442847365,"ingroupnonbreeder",99
+"L13F030","Lonely 13","Lonely",6,"10/09/2016",8,"Female",55,4.678070845,2016-09-10,NA,0,0,"ingroupnonbreeder",1
+"L13F030","Lonely 13","Lonely",7,"06/06/2017",10,"Female",89,52.75207139,2016-09-10,NA,269,0.736481862,"ingroupnonbreeder",1
+"L13F030","Lonely 13","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-10,99,326,0.892539357,"ingroupnonbreeder",99
+"L13F032","Lonely 13","Lonely",6,"10/09/2016",8,"Female",59,4.678070845,2016-09-10,NA,0,0,"ingroupnonbreeder",1
+"L13F032","Lonely 13","Lonely",7,"06/06/2017",10,"Female",109,52.75207139,2016-09-10,NA,269,0.736481862,"ingroupnonbreeder",1
+"L13F032","Lonely 13","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-10,99,326,0.892539357,"ingroupnonbreeder",99
+"L13F033","Lonely 13","Lonely",6,"10/09/2016",8,"Female",65,4.678070845,2016-09-10,NA,0,0,"ingroupnonbreeder",1
+"L13F033","Lonely 13","Lonely",7,"05/06/2017",10,"Female",88,52.75207139,2016-09-10,NA,268,0.733744011,"ingroupnonbreeder",1
+"L13F033","Lonely 13","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-10,99,326,0.892539357,"ingroupnonbreeder",99
+"L13F035","Lonely 13","Lonely",7,"06/06/2017",10,"Female",72,52.75207139,2017-06-05,NA,0,0,"ingroupnonbreeder",1
+"L13F035","Lonely 13","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-05,99,58,0.158795346,"ingroupnonbreeder",99
+"L14F009","Lonely 14","Lonely",2,"03/03/2014",13,"Female",46,263.0608928,2014-03-01,NA,0,0,"ingroupnonbreeder",1
+"L14F009","Lonely 14","Lonely",3,"16/09/2014",8,"Female",94,6.702013991,2014-03-01,NA,199,0.544832307,"ingroupnonbreeder",1
+"L14F009","Lonely 14","Lonely",4,"29/01/2015",8,"Female",105,72.65603459,2014-03-01,NA,334,0.914442163,"ingroupnonbreeder",1
+"L14F009",NA,"Lonely",NA,"08/02/2016",8,NA,NA,NA,2014-03-01,NA,709,1.941136208,"Disappeared",2
+"L14F016","Lonely 14","Lonely",4,"30/01/2015",8,"Female",27,72.65603459,2015-01-29,NA,0,0,"ingroupnonbreeder",1
+"L14F016","Lonely 14","Lonely",5,"10/02/2016",12,"Female",90,111.7311443,2015-01-29,NA,377,1.032169747,"ingroupnonbreeder",1
+"L14F016",NA,"Lonely",NA,"09/09/2016",12,NA,NA,NA,2015-01-29,NA,589,1.612594114,"Disappeared",2
+"L14F017","Lonely 14","Lonely",4,"30/01/2015",8,"Female",29,72.65603459,2015-01-29,NA,0,0,"ingroupnonbreeder",1
+"L14F017","Lonely 14","Lonely",5,"11/02/2016",12,"Female",NA,111.7311443,2015-01-29,NA,378,1.034907598,"ingroupnonbreeder",1
+"L14F017",NA,"Lonely",NA,"09/09/2016",12,NA,NA,NA,2015-01-29,NA,589,1.612594114,"Disappeared",2
+"L14F018","Lonely 14","Lonely",4,"30/01/2015",8,"Female",60,72.65603459,2015-01-29,NA,0,0,"ingroupnonbreeder",1
+"L14F018","Lonely 14","Lonely",5,"09/02/2016",12,"Female",107,111.7311443,2015-01-29,NA,376,1.029431896,"ingroupnonbreeder",1
+"L14F018",NA,"Lonely",NA,"09/09/2016",12,NA,NA,NA,2015-01-29,NA,589,1.612594114,"Disappeared",2
+"L14F019","Lonely 14","Lonely",4,"31/01/2015",8,"Female",26,72.65603459,2015-01-29,NA,0,0,"ingroupnonbreeder",1
+"L14F019",NA,"Lonely",NA,"08/02/2016",8,NA,NA,NA,2015-01-29,NA,375,1.026694045,"Disappeared",2
+"L14F021","Lonely 14","Lonely",5,"08/02/2016",12,"Female",53,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L14F021",NA,"Lonely",NA,"09/09/2016",12,NA,NA,NA,2016-02-08,NA,214,0.585900068,"Disappeared",2
+"L14F023","Lonely 14","Lonely",5,"09/02/2016",12,"Female",60,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L14F023","Lonely 14","Lonely",6,"09/09/2016",9,"Female",92,4.678070845,2016-02-08,NA,214,0.585900068,"ingroupnonbreeder",1
+"L14F023","Lonely 14","Lonely",7,"30/05/2017",13,"Female",90,75.0055436,2016-02-08,NA,477,1.305954825,"ingroupnonbreeder",1
+"L14F023","Lonely 14","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-02-08,99,541,1.481177276,"ingroupnonbreeder",99
+"L14F025","Lonely 14","Lonely",5,"11/02/2016",12,"Female",68,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L14F025","Lonely 14","Lonely",6,"09/09/2016",9,"Female",101,4.678070845,2016-02-08,NA,214,0.585900068,"ingroupnonbreeder",1
+"L14F025","Lonely 14","Lonely",7,"30/05/2017",13,"Female",105,75.0055436,2016-02-08,NA,477,1.305954825,"ingroupnonbreeder",1
+"L14F025","Lonely 14","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-02-08,99,541,1.481177276,"ingroupnonbreeder",99
+"L14F030","Lonely 14","Lonely",7,"31/05/2017",13,"Female",65,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L14F030","Lonely 14","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L14F031","Lonely 14","Lonely",7,"01/06/2017",13,"Female",49,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L14F031","Lonely 14","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L15F003","Lonely 15","Lonely",3,"10/10/2014",3,"Female",18,12.20183183,2014-10-09,NA,0,0,"ingroupnonbreeder",1
+"L15F003","Lonely 15","Lonely",4,"23/03/2015",3,"Female",58,108.703723,2014-10-09,NA,165,0.45174538,"ingroupnonbreeder",1
+"L15F003","Lonely 15","Lonely",5,"26/02/2016",7,"Female",102,111.7311443,2014-10-09,NA,505,1.382614648,"ingroupnonbreeder",1
+"L15F003",NA,"Lonely",NA,"09/09/2016",7,NA,NA,NA,2014-10-09,NA,701,1.919233402,"Disappeared",2
+"L15F005","Lonely 15","Lonely",5,"25/02/2016",7,"Female",39,111.7311443,2016-02-24,NA,0,0,"ingroupnonbreeder",1
+"L15F005","Lonely 15","Lonely",6,"09/09/2016",8,"Female",88,4.678070845,2016-02-24,NA,198,0.542094456,"ingroupnonbreeder",1
+"L15F005","Lonely 15","Lonely",7,"05/06/2017",10,"Female",101,52.75207139,2016-02-24,NA,467,1.278576318,"ingroupnonbreeder",1
+"L15F005","Lonely 15","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-02-24,99,525,1.437371663,"ingroupnonbreeder",99
+"L15F006","Lonely 15","Lonely",5,"27/02/2016",7,"Female",41,111.7311443,2016-02-24,NA,0,0,"ingroupnonbreeder",1
+"L15F006","Lonely 15","Lonely",6,"09/09/2016",8,"Female",87,4.678070845,2016-02-24,NA,198,0.542094456,"ingroupnonbreeder",1
+"L15F006","Lonely 15","Lonely",7,"05/06/2017",10,"Female",89,52.75207139,2016-02-24,NA,467,1.278576318,"ingroupnonbreeder",1
+"L15F006","Lonely 15","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-02-24,99,525,1.437371663,"ingroupnonbreeder",99
+"L15F008","Lonely 15","Lonely",6,"09/09/2016",8,"Female",50,4.678070845,2016-09-09,NA,0,0,"ingroupnonbreeder",1
+"L15F008","Lonely 15","Lonely",7,"05/06/2017",10,"Female",82,52.75207139,2016-09-09,NA,269,0.736481862,"ingroupnonbreeder",1
+"L15F008","Lonely 15","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-09,99,327,0.895277207,"ingroupnonbreeder",99
+"L15F009","Lonely 15","Lonely",6,"09/09/2016",8,"Female",53,4.678070845,2016-09-09,NA,0,0,"ingroupnonbreeder",1
+"L15F009","Lonely 15","Lonely",7,"05/06/2017",10,"Female",82,52.75207139,2016-09-09,NA,269,0.736481862,"ingroupnonbreeder",1
+"L15F009","Lonely 15","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-09,99,327,0.895277207,"ingroupnonbreeder",99
+"L16F004","Lonely 16","Lonely",3,"11/10/2014",8,"Female",16,12.20183183,2014-10-09,NA,0,0,"ingroupnonbreeder",1
+"L16F004",NA,"Lonely",NA,"29/01/2015",8,NA,NA,NA,2014-10-09,NA,112,0.306639288,"Disappeared",2
+"L16F006","Lonely 16","Lonely",3,"11/10/2014",8,"Female",17,12.20183183,2014-10-09,NA,0,0,"ingroupnonbreeder",1
+"L16F006",NA,"Lonely",NA,"29/01/2015",8,NA,NA,NA,2014-10-09,NA,112,0.306639288,"Disappeared",2
+"L16F007","Lonely 16","Lonely",3,"11/10/2014",8,"Female",21,12.20183183,2014-10-09,NA,0,0,"ingroupnonbreeder",1
+"L16F007","Lonely 25","Lonely",6,"22/09/2016",3,"Female",131,4.678070845,2014-10-09,NA,714,1.954825462,"Disappeared",2
+"L16F008","Lonely 16","Lonely",6,"16/09/2016",9,"Female",72,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L16F008","Lonely 16","Lonely",7,"27/06/2017",12,"Female",97,52.75207139,2016-09-16,NA,284,0.777549624,"ingroupnonbreeder",1
+"L16F008","Lonely 16","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L16F009","Lonely 16","Lonely",6,"16/09/2016",9,"Female",66,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L16F009","Lonely 16","Lonely",7,"28/06/2017",12,"Female",87,52.75207139,2016-09-16,NA,285,0.780287474,"ingroupnonbreeder",1
+"L16F009","Lonely 16","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L16F013","Lonely 16","Lonely",6,"17/09/2016",9,"Female",36,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L16F013","Lonely 16","Lonely",7,"28/06/2017",12,"Female",82,52.75207139,2016-09-16,NA,285,0.780287474,"ingroupnonbreeder",1
+"L16F013","Lonely 16","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L16F016","Lonely 16","Lonely",7,"28/06/2017",12,"Female",48,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L16F016","Lonely 16","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L18F003","Lonely 18","Lonely",2,"13/03/2014",14,"Female",73,189.4909852,2014-03-11,NA,0,0,"ingroupnonbreeder",1
+"L18F003",NA,"Lonely",NA,"16/09/2014",14,NA,NA,NA,2014-03-11,NA,189,0.517453799,"Disappeared",2
+"L18F007","Lonely 18","Lonely",2,"14/03/2014",14,"Female",73,189.4909852,2014-03-11,NA,0,0,"ingroupnonbreeder",1
+"L18F007","Lonely 18","Lonely",3,"30/09/2014",9,"Female",83,5.448128916,2014-03-11,NA,203,0.55578371,"ingroupnonbreeder",1
+"L18F007","Lonely 18","Lonely",5,"01/03/2016",5,"Female",109,111.7311443,2014-03-11,NA,721,1.973990418,"ingroupnonbreeder",1
+"L18F007",NA,"Lonely",NA,"09/09/2016",5,NA,NA,NA,2014-03-11,NA,913,2.499657769,"Disappeared",2
+"L18F008","Lonely 18","Lonely",2,"14/03/2014",14,"Female",65,189.4909852,2014-03-11,NA,0,0,"ingroupnonbreeder",1
+"L18F008","Lonely 18","Lonely",3,"01/10/2014",9,"Female",83,5.448128916,2014-03-11,NA,204,0.558521561,"ingroupnonbreeder",1
+"L18F008","Lonely 18","Lonely",5,"04/03/2016",5,"Female",97,111.7311443,2014-03-11,NA,724,1.98220397,"ingroupnonbreeder",1
+"L18F008","Lonely 18","Lonely",6,"16/09/2016",3,"Female",103,4.678070845,2014-03-11,NA,920,2.518822724,"ingroupnonbreeder",1
+"L18F008","Lonely 18","Lonely",7,"27/06/2017",7,"Female",101,52.75207139,2014-03-11,NA,1204,3.296372348,"ingroupnonbreeder",1
+"L18F008","Lonely 18","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2014-03-11,99,1240,3.394934976,"ingroupnonbreeder",99
+"L18F009","Lonely 18","Lonely",2,"15/03/2014",14,"Female",78,189.4909852,2014-03-11,NA,0,0,"ingroupnonbreeder",1
+"L18F009","Lonely 18","Lonely",3,"01/10/2014",9,"Female",85,5.448128916,2014-03-11,NA,204,0.558521561,"ingroupnonbreeder",1
+"L18F009",NA,"Lonely",NA,"29/01/2015",9,NA,NA,NA,2014-03-11,NA,324,0.887063655,"Disappeared",2
+"L18F011","Lonely 18","Lonely",2,"16/03/2014",14,"Female",59,189.4909852,2014-03-11,NA,0,0,"ingroupnonbreeder",1
+"L18F011",NA,"Lonely",NA,"16/09/2014",14,NA,NA,NA,2014-03-11,NA,189,0.517453799,"Disappeared",2
+"L18F016","Lonely 18","Lonely",7,"27/06/2017",7,"Female",67,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L18F016","Lonely 18","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L19F002","Lonely 19","Lonely",7,"14/07/2017",3,"Female",37,2.493346736,2017-07-13,NA,0,0,"ingroupnonbreeder",1
+"L19F002","Lonely 19","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-07-13,99,20,0.054757016,"ingroupnonbreeder",99
+"L20F014","Lonely 20","Lonely",7,"21/07/2017",10,"Female",43,2.493346736,2017-07-20,NA,0,0,"ingroupnonbreeder",1
+"L20F014","Lonely 20","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-07-20,99,13,0.03559206,"ingroupnonbreeder",99
+"L26F010","Lonely 26","Lonely",6,"08/10/2016",10,"Female",23,7.862713041,2016-10-06,NA,0,0,"ingroupnonbreeder",1
+"L26F010","Lonely 26","Lonely",7,"16/07/2017",10,"Female",89,2.493346736,2016-10-06,NA,283,0.774811773,"ingroupnonbreeder",1
+"L26F010","Lonely 26","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-10-06,99,300,0.821355236,"ingroupnonbreeder",99
+"L40F001","Lonely 66","Lonely",2,"10/03/2014",6,"Female",71,189.4909852,2014-03-09,NA,0,0,"ingroupnonbreeder",1
+"L40F001",NA,"Lonely",NA,"16/09/2014",6,NA,NA,NA,2014-03-09,NA,191,0.5229295,"Disappeared",2
+"L40F004","Lonely 66","Lonely",2,"11/03/2014",6,"Female",29,189.4909852,2014-03-09,NA,0,0,"ingroupnonbreeder",1
+"L40F004",NA,"Lonely",NA,"16/09/2014",6,NA,NA,NA,2014-03-09,NA,191,0.5229295,"Disappeared",2
+"L40F005","Lonely 66","Lonely",2,"11/03/2014",6,"Female",79,189.4909852,2014-03-09,NA,0,0,"ingroupnonbreeder",1
+"L40F005",NA,"Lonely",NA,"16/09/2014",6,NA,NA,NA,2014-03-09,NA,191,0.5229295,"Disappeared",2
+"L40F006","Lonely 66","Lonely",2,"12/03/2014",6,"Female",27,189.4909852,2014-03-09,NA,0,0,"ingroupnonbreeder",1
+"L40F006","Lonely 40","Lonely",6,"23/09/2016",10,"Female",145,4.678070845,2014-03-09,NA,929,2.543463381,"Disappeared",2
+"L40F014","Lonely 40","Lonely",6,"23/09/2016",10,"Female",67,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L40F014","Lonely 40","Lonely",7,"21/06/2017",12,"Female",87,52.75207139,2016-09-22,NA,272,0.744695414,"ingroupnonbreeder",1
+"L40F014","Lonely 40","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L40F016","Lonely 40","Lonely",7,"22/06/2017",12,"Female",42,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L40F016","Lonely 40","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L46F005","Lonely 46","Lonely",2,"02/04/2014",7,"Female",53,189.4909852,2014-03-31,NA,0,0,"ingroupnonbreeder",1
+"L46F005",NA,"Lonely",NA,"16/09/2014",7,NA,NA,NA,2014-03-31,NA,169,0.462696783,"Disappeared",2
+"L46F010","Lonely 46","Lonely",5,"29/02/2016",10,"Female",51,111.7311443,2016-02-29,NA,0,0,"ingroupnonbreeder",1
+"L46F010","Lonely 46","Lonely",6,"17/09/2016",10,"Female",93,4.678070845,2016-02-29,NA,201,0.550308008,"ingroupnonbreeder",1
+"L46F010","Lonely 33","Lonely",7,"21/07/2017",1,"Female",104,2.493346736,2016-02-29,NA,508,1.3908282,"Disappeared",2
+"L46F011","Lonely 46","Lonely",5,"01/03/2016",10,"Female",53,111.7311443,2016-02-29,NA,0,0,"ingroupnonbreeder",1
+"L46F011","Lonely 46","Lonely",6,"16/09/2016",10,"Female",92,4.678070845,2016-02-29,NA,200,0.547570157,"ingroupnonbreeder",1
+"L46F011","Lonely 46","Lonely",7,"27/06/2017",12,"Female",103,52.75207139,2016-02-29,NA,484,1.325119781,"ingroupnonbreeder",1
+"L46F011","Lonely 46","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-02-29,99,520,1.423682409,"ingroupnonbreeder",99
+"L46F012","Lonely 46","Lonely",5,"01/03/2016",10,"Female",54,111.7311443,2016-02-29,NA,0,0,"ingroupnonbreeder",1
+"L46F012","Lonely 46","Lonely",6,"16/09/2016",10,"Female",99,4.678070845,2016-02-29,NA,200,0.547570157,"ingroupnonbreeder",1
+"L46F012",NA,"Lonely",NA,"30/05/2017",10,NA,NA,NA,2016-02-29,NA,456,1.248459959,"Disappeared",2
+"L46F017","Lonely 46","Lonely",6,"16/09/2016",10,"Female",68,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L46F017","Lonely 46","Lonely",7,"27/06/2017",12,"Female",85,52.75207139,2016-09-16,NA,284,0.777549624,"ingroupnonbreeder",1
+"L46F017","Lonely 46","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L46F020","Lonely 46","Lonely",7,"27/06/2017",12,"Female",43,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L46F020","Lonely 46","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L46F022","Lonely 46","Lonely",7,"29/06/2017",12,"Female",77,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L46F022","Lonely 46","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L46F023","Lonely 46","Lonely",7,"29/06/2017",12,"Female",75,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L46F023","Lonely 46","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L46F024","Lonely 46","Lonely",7,"01/07/2017",12,"Female",46,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L46F024","Lonely 46","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L48F006","Lonely 48","Lonely",7,"22/06/2017",11,"Female",55,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L48F006","Lonely 48","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L48F008","Lonely 48","Lonely",7,"22/06/2017",11,"Female",77,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L48F008","Lonely 48","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L48F010","Lonely 48","Lonely",7,"23/06/2017",11,"Female",60,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L48F010","Lonely 48","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L49F005","Lonely 49","Lonely",6,"16/09/2016",10,"Female",43,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L49F005",NA,"Lonely",NA,"30/05/2017",10,NA,NA,NA,2016-09-16,NA,256,0.700889802,"Disappeared",2
+"L49F010","Lonely 49","Lonely",6,"17/09/2016",10,"Female",38,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L49F010",NA,"Lonely",NA,"30/05/2017",10,NA,NA,NA,2016-09-16,NA,256,0.700889802,"Disappeared",2
+"L62F001","Lonely 62","Lonely",5,"09/02/2016",6,"Female",58,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L62F001","Lonely 62","Lonely",6,"09/09/2016",6,"Female",102,4.678070845,2016-02-08,NA,214,0.585900068,"ingroupnonbreeder",1
+"L62F001",NA,"Lonely",NA,"30/05/2017",6,NA,NA,NA,2016-02-08,NA,477,1.305954825,"Disappeared",2
+"L62F002","Lonely 62","Lonely",5,"09/02/2016",6,"Female",33,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L62F002","Lonely 62","Lonely",6,"09/09/2016",6,"Female",95,4.678070845,2016-02-08,NA,214,0.585900068,"ingroupnonbreeder",1
+"L62F002","Lonely 62","Lonely",7,"05/06/2017",6,"Female",111,52.75207139,2016-02-08,NA,483,1.32238193,"ingroupnonbreeder",1
+"L62F002","Lonely 62","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2016-02-08,99,541,1.481177276,"ingroupnonbreeder",99
+"L62F005","Lonely 62","Lonely",7,"05/06/2017",6,"Female",46,52.75207139,2017-06-05,NA,0,0,"ingroupnonbreeder",1
+"L62F005","Lonely 62","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-06-05,99,58,0.158795346,"ingroupnonbreeder",99
+"L62M004","Lonely 62","Lonely",5,"10/02/2016",6,"Female",31,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L62M004","Lonely 62","Lonely",6,"10/09/2016",6,"Female",69,4.678070845,2016-02-08,NA,215,0.588637919,"ingroupnonbreeder",1
+"L62M004",NA,"Lonely",NA,"30/05/2017",6,NA,NA,NA,2016-02-08,NA,477,1.305954825,"Disappeared",2
+"L65F002","Lonely 65","Lonely",7,"13/07/2017",3,"Female",69,2.493346736,2017-07-13,NA,0,0,"ingroupnonbreeder",1
+"L65F002","Lonely 65","Lonely",NA,"02/08/2017",NA,NA,NA,1.34743409,2017-07-13,99,20,0.054757016,"ingroupnonbreeder",99
+"KR10M002","Kuruman 10","KRR",1,"01/12/2013",4,"Male",45,16.18844808,2013-11-30,NA,0,0,"ingroupnonbreeder",1
+"KR10M002","Kuruman 10","KRR",2,"27/07/2014",5,"Male",92,15.72555258,2013-11-30,NA,239,0.654346338,"ingroupnonbreeder",1
+"KR10M002","Kuruman 10","KRR",3,"17/02/2015",5,"Male",103,60.89109671,2013-11-30,NA,444,1.215605749,"ingroupnonbreeder",1
+"KR10M002","Kuruman 10","KRR",9,"17/03/2018",17,"Male",105,121.7158381,2013-11-30,NA,1568,4.292950034,"ingroupnonbreeder",1
+"KR10M002",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2013-11-30,NA,1749,4.788501027,"Disappeared",2
+"KR10M006","Kuruman 10","KRR",2,"28/07/2014",5,"Male",29,15.72555258,2014-07-27,NA,0,0,"ingroupnonbreeder",1
+"KR10M006","Kuruman 10","KRR",3,"16/02/2015",5,"Male",82,60.89109671,2014-07-27,NA,204,0.558521561,"ingroupnonbreeder",1
+"KR10M006","Kuruman 10","KRR",4,"07/10/2015",5,"Male",121,7.452079085,2014-07-27,NA,437,1.196440794,"ingroupnonbreeder",1
+"KR10M006","Kuruman 10","KRR",5,"26/04/2016",10,"Male",146,116.8075972,2014-07-27,NA,639,1.749486653,"ingroupnonbreeder",1
+"KR10M006","Kuruman 33","KRR",7,"06/03/2017",2,"Male",191,198.1155283,2014-07-27,NA,953,2.6091718,"Disappeared",2
+"KR10M007","Kuruman 10","KRR",4,"07/10/2015",5,"Male",57,7.452079085,2015-10-07,NA,0,0,"ingroupnonbreeder",1
+"KR10M007","Kuruman 10","KRR",5,"26/04/2016",10,"Male",101,116.8075972,2015-10-07,NA,202,0.553045859,"ingroupnonbreeder",1
+"KR10M007","Kuruman 8","KRR",7,"07/02/2017",12,"Male",182,209.6293089,2015-10-07,NA,489,1.338809035,"Disappeared",2
+"KR10M009","Kuruman 10","KRR",5,"26/04/2016",10,"Male",76,116.8075972,2016-04-25,NA,0,0,"ingroupnonbreeder",1
+"KR10M009",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2016-04-25,NA,91,0.249144422,"Disappeared",2
+"KR10M011","Kuruman 10","KRR",5,"27/04/2016",10,"Male",74,116.8075972,2016-04-25,NA,0,0,"ingroupnonbreeder",1
+"KR10M011",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2016-04-25,NA,91,0.249144422,"Disappeared",2
+"KR10M012","Kuruman 10","KRR",5,"26/04/2016",10,"Male",23,116.8075972,2016-04-25,NA,0,0,"ingroupnonbreeder",1
+"KR10M012",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2016-04-25,NA,91,0.249144422,"Disappeared",2
+"KR10M013","Kuruman 10","KRR",7,"20/02/2017",11,"Male",97,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR10M013","Kuruman 34","KRR",7,"04/05/2017",2,"Male",127,165.7772941,2017-02-20,NA,73,0.199863107,"Disappeared",2
+"KR10M016","Kuruman 10","KRR",7,"21/02/2017",11,"Male",93,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR10M016","Kuruman 10","KRR",8,"19/08/2017",12,"Male",118,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR10M016","Kuruman 10","KRR",9,"18/03/2018",17,"Male",147,121.7158381,2017-02-20,NA,391,1.070499658,"ingroupnonbreeder",1
+"KR10M016","Kuruman 10","KRR",10,"03/10/2018",16,"Male",131,11.76823613,2017-02-20,NA,590,1.615331964,"ingroupnonbreeder",1
+"KR10M016","Kuruman 10","KRR",11,"13/03/2019",20,"Male",146,69.35182863,2017-02-20,NA,751,2.056125941,"ingroupnonbreeder",1
+"KR10M016","Kuruman 10","KRR",12,"09/09/2019",19,"Male",119,0.397720048,2017-02-20,NA,931,2.548939083,"ingroupnonbreeder",1
+"KR10M016",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2017-02-20,NA,1109,3.036276523,"Disappeared",2
+"KR10M018","Kuruman 10","KRR",7,"21/02/2017",11,"Male",48,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR10M018","Kuruman 10","KRR",8,"19/08/2017",12,"Male",92,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR10M018","Kuruman 10","KRR",9,"18/03/2018",17,"Male",143,121.7158381,2017-02-20,NA,391,1.070499658,"ingroupnonbreeder",1
+"KR10M018",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-02-20,NA,571,1.563312799,"Disappeared",2
+"KR10M019","Kuruman 10","KRR",7,"22/02/2017",11,"Male",92,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR10M019","Kuruman 10","KRR",8,"19/08/2017",12,"Male",134,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR10M019","Kuruman 10","KRR",9,"17/03/2018",17,"Male",174,121.7158381,2017-02-20,NA,390,1.067761807,"ingroupnonbreeder",1
+"KR10M019","Kuruman 42","KRR",10,"16/10/2018",3,"Male",181,11.76823613,2017-02-20,NA,603,1.650924025,"Disappeared",2
+"KR10M020","Kuruman 10","KRR",7,"23/02/2017",11,"Male",83,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR10M020","Kuruman 10","KRR",8,"22/08/2017",12,"Male",123,1.34743409,2017-02-20,NA,183,0.501026694,"ingroupnonbreeder",1
+"KR10M020","Kuruman 10","KRR",9,"18/03/2018",17,"Male",170,121.7158381,2017-02-20,NA,391,1.070499658,"ingroupnonbreeder",1
+"KR10M020",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-02-20,NA,571,1.563312799,"Disappeared",2
+"KR10M021","Kuruman 10","KRR",7,"23/02/2017",11,"Male",75,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR10M021","Kuruman 10","KRR",8,"19/08/2017",12,"Male",130,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR10M021","Kuruman 10","KRR",9,"17/03/2018",17,"Male",177,121.7158381,2017-02-20,NA,390,1.067761807,"ingroupnonbreeder",1
+"KR10M021",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-02-20,NA,571,1.563312799,"Disappeared",2
+"KR10M023","Kuruman 10","KRR",8,"21/08/2017",12,"Male",52,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR10M023","Kuruman 10","KRR",9,"18/03/2018",17,"Male",113,121.7158381,2017-08-19,NA,211,0.577686516,"ingroupnonbreeder",1
+"KR10M023","Kuruman 10","KRR",10,"05/10/2018",16,"Male",140,11.76823613,2017-08-19,NA,412,1.127994524,"ingroupnonbreeder",1
+"KR10M023","Kuruman 10","KRR",11,"13/03/2019",20,"Male",143,69.35182863,2017-08-19,NA,571,1.563312799,"ingroupnonbreeder",1
+"KR10M023","Kuruman 10","KRR",12,"09/09/2019",19,"Male",124,0.397720048,2017-08-19,NA,751,2.056125941,"ingroupnonbreeder",1
+"KR10M023","Kuruman 10","KRR",13,"12/03/2020",16,"Male",144,165.6746387,2017-08-19,NA,936,2.562628337,"ingroupnonbreeder",1
+"KR10M023","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR10M025","Kuruman 10","KRR",8,"21/08/2017",12,"Male",24,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR10M025","Kuruman 10","KRR",9,"19/03/2018",17,"Male",84,121.7158381,2017-08-19,NA,212,0.580424367,"ingroupnonbreeder",1
+"KR10M025","Kuruman 10","KRR",10,"06/10/2018",16,"Male",96,11.76823613,2017-08-19,NA,413,1.130732375,"ingroupnonbreeder",1
+"KR10M025","Kuruman 10","KRR",11,"14/03/2019",20,"Male",112,69.35182863,2017-08-19,NA,572,1.56605065,"ingroupnonbreeder",1
+"KR10M025","Kuruman 10","KRR",12,"10/09/2019",19,"Male",108,0.397720048,2017-08-19,NA,752,2.058863792,"ingroupnonbreeder",1
+"KR10M025","Kuruman 10","KRR",13,"11/03/2020",16,"Male",121,165.6746387,2017-08-19,NA,935,2.559890486,"ingroupnonbreeder",1
+"KR10M025","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR10M026","Kuruman 10","KRR",9,"19/03/2018",17,"Male",60,121.7158381,2018-03-17,NA,0,0,"ingroupnonbreeder",1
+"KR10M026","Kuruman 10","KRR",10,"07/10/2018",16,"Male",109,11.76823613,2018-03-17,NA,204,0.558521561,"ingroupnonbreeder",1
+"KR10M026","Kuruman 10","KRR",11,"13/03/2019",20,"Male",111,69.35182863,2018-03-17,NA,361,0.988364134,"ingroupnonbreeder",1
+"KR10M026","Kuruman 10","KRR",12,"09/09/2019",19,"Male",101,0.397720048,2018-03-17,NA,541,1.481177276,"ingroupnonbreeder",1
+"KR10M026","Kuruman 10","KRR",13,"12/03/2020",16,"Male",113,165.6746387,2018-03-17,NA,726,1.987679671,"ingroupnonbreeder",1
+"KR10M026","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-03-17,99,802,2.195756331,"ingroupnonbreeder",99
+"KR10M027","Kuruman 10","KRR",9,"19/03/2018",17,"Male",59,121.7158381,2018-03-17,NA,0,0,"ingroupnonbreeder",1
+"KR10M027","Kuruman 10","KRR",10,"04/10/2018",16,"Male",105,11.76823613,2018-03-17,NA,201,0.550308008,"ingroupnonbreeder",1
+"KR10M027","Kuruman 10","KRR",11,"13/03/2019",20,"Male",116,69.35182863,2018-03-17,NA,361,0.988364134,"ingroupnonbreeder",1
+"KR10M027","Kuruman 10","KRR",12,"10/09/2019",19,"Male",113,0.397720048,2018-03-17,NA,542,1.483915127,"ingroupnonbreeder",1
+"KR10M027","Kuruman 10","KRR",13,"09/03/2020",16,"Male",126,165.6746387,2018-03-17,NA,723,1.979466119,"ingroupnonbreeder",1
+"KR10M027","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-03-17,99,802,2.195756331,"ingroupnonbreeder",99
+"KR10M029","Kuruman 10","KRR",9,"20/03/2018",17,"Male",50,121.7158381,2018-03-17,NA,0,0,"ingroupnonbreeder",1
+"KR10M029","Kuruman 10","KRR",10,"06/10/2018",16,"Male",91,11.76823613,2018-03-17,NA,203,0.55578371,"ingroupnonbreeder",1
+"KR10M029","Kuruman 10","KRR",11,"12/03/2019",20,"Male",102,69.35182863,2018-03-17,NA,360,0.985626283,"ingroupnonbreeder",1
+"KR10M029","Kuruman 10","KRR",12,"10/09/2019",19,"Male",97,0.397720048,2018-03-17,NA,542,1.483915127,"ingroupnonbreeder",1
+"KR10M029","Kuruman 10","KRR",13,"10/03/2020",16,"Male",107,165.6746387,2018-03-17,NA,724,1.98220397,"ingroupnonbreeder",1
+"KR10M029","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-03-17,99,802,2.195756331,"ingroupnonbreeder",99
+"KR10M030","Kuruman 10","KRR",10,"04/10/2018",16,"Male",58,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR10M030","Kuruman 10","KRR",11,"13/03/2019",20,"Male",87,69.35182863,2018-10-02,NA,162,0.443531828,"ingroupnonbreeder",1
+"KR10M030","Kuruman 10","KRR",12,"10/09/2019",19,"Male",77,0.397720048,2018-10-02,NA,343,0.93908282,"ingroupnonbreeder",1
+"KR10M030",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2018-10-02,NA,520,1.423682409,"Disappeared",2
+"KR10M031","Kuruman 10","KRR",10,"05/10/2018",16,"Male",35,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR10M031","Kuruman 10","KRR",11,"12/03/2019",20,"Male",67,69.35182863,2018-10-02,NA,161,0.440793977,"ingroupnonbreeder",1
+"KR10M031","Kuruman 10","KRR",12,"10/09/2019",19,"Male",86,0.397720048,2018-10-02,NA,343,0.93908282,"ingroupnonbreeder",1
+"KR10M031","Kuruman 10","KRR",13,"09/03/2020",16,"Male",109,165.6746387,2018-10-02,NA,524,1.434633812,"ingroupnonbreeder",1
+"KR10M031","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-10-02,99,603,1.650924025,"ingroupnonbreeder",99
+"KR10M032","Kuruman 10","KRR",10,"06/10/2018",16,"Male",41,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR10M032","Kuruman 10","KRR",11,"13/03/2019",20,"Male",65,69.35182863,2018-10-02,NA,162,0.443531828,"ingroupnonbreeder",1
+"KR10M032","Kuruman 10","KRR",12,"10/09/2019",19,"Male",70,0.397720048,2018-10-02,NA,343,0.93908282,"ingroupnonbreeder",1
+"KR10M032","Kuruman 10","KRR",13,"11/03/2020",16,"Male",87,165.6746387,2018-10-02,NA,526,1.440109514,"ingroupnonbreeder",1
+"KR10M032","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-10-02,99,603,1.650924025,"ingroupnonbreeder",99
+"KR10M033","Kuruman 10","KRR",10,"06/10/2018",16,"Male",33,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR10M033","Kuruman 10","KRR",11,"13/03/2019",20,"Male",77,69.35182863,2018-10-02,NA,162,0.443531828,"ingroupnonbreeder",1
+"KR10M033","Kuruman 10","KRR",12,"10/09/2019",19,"Male",75,0.397720048,2018-10-02,NA,343,0.93908282,"ingroupnonbreeder",1
+"KR10M033","Kuruman 10","KRR",13,"11/03/2020",16,"Male",101,165.6746387,2018-10-02,NA,526,1.440109514,"ingroupnonbreeder",1
+"KR10M033","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-10-02,99,603,1.650924025,"ingroupnonbreeder",99
+"KR10M034","Kuruman 10","KRR",11,"16/03/2019",20,"Male",30,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR10M034","Kuruman 10","KRR",12,"09/09/2019",19,"Male",53,0.397720048,2019-03-12,NA,181,0.495550992,"ingroupnonbreeder",1
+"KR10M034","Kuruman 10","KRR",13,"11/03/2020",16,"Male",83,165.6746387,2019-03-12,NA,365,0.999315537,"ingroupnonbreeder",1
+"KR10M034","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR10M035","Kuruman 10","KRR",11,"17/03/2019",20,"Male",30,69.35182863,2019-03-12,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR10M035","Kuruman 10","KRR",12,"10/09/2019",19,"Male",63,0.397720048,2019-03-12,NA,182,0.498288843,"ingroupnonbreeder",1
+"KR10M035","Kuruman 10","KRR",13,"09/03/2020",16,"Male",92,165.6746387,2019-03-12,NA,363,0.993839836,"ingroupnonbreeder",1
+"KR10M035","Kuruman 10","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR10M037","Kuruman 10","KRR",11,"14/03/2019",20,"Male",66,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR10M037","Kuruman 10","KRR",12,"10/09/2019",19,"Male",83,0.397720048,2019-03-12,NA,182,0.498288843,"ingroupnonbreeder",1
+"KR10M037",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2019-03-12,NA,359,0.982888433,"Disappeared",2
+"KR11M004","Kuruman 11","KRR",7,"21/02/2017",7,"Male",85,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR11M004","Kuruman 11","KRR",8,"19/08/2017",11,"Male",115,1.34743409,2017-02-20,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR11M004","Kuruman 11","KRR",9,"17/03/2018",15,"Male",164,121.7158381,2017-02-20,NA,390,1.067761807,"ingroupnonbreeder",1
+"KR11M004","Kuruman 11","KRR",10,"06/10/2018",16,"Male",170,11.76823613,2017-02-20,NA,593,1.623545517,"ingroupnonbreeder",1
+"KR11M004","Kuruman 11","KRR",11,"14/03/2019",22,"Male",178,69.35182863,2017-02-20,NA,752,2.058863792,"ingroupnonbreeder",1
+"KR11M004","Kuruman 11","KRR",12,"25/09/2019",20,"Male",147,0.397720048,2017-02-20,NA,947,2.592744695,"ingroupnonbreeder",1
+"KR11M004","Kuruman 11","KRR",13,"01/04/2020",17,"Male",135,165.6746387,2017-02-20,NA,1136,3.110198494,"ingroupnonbreeder",1
+"KR11M004","Kuruman 11","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-02-20,99,1192,3.263518138,"ingroupnonbreeder",99
+"KR11M005","Kuruman 11","KRR",7,"22/02/2017",7,"Male",73,209.6293089,2017-02-20,NA,0,0,"ingroupnonbreeder",1
+"KR11M005",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-02-20,NA,161,0.440793977,"Disappeared",2
+"KR11M009","Kuruman 11","KRR",8,"20/08/2017",11,"Male",54,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR11M009","Kuruman 11","KRR",9,"18/03/2018",15,"Male",122,121.7158381,2017-08-19,NA,211,0.577686516,"ingroupnonbreeder",1
+"KR11M009","Kuruman 11","KRR",10,"03/10/2018",16,"Male",152,11.76823613,2017-08-19,NA,410,1.122518823,"ingroupnonbreeder",1
+"KR11M009","Kuruman 11","KRR",11,"13/03/2019",22,"Male",183,69.35182863,2017-08-19,NA,571,1.563312799,"ingroupnonbreeder",1
+"KR11M009","Kuruman 11","KRR",12,"24/09/2019",20,"Male",137,0.397720048,2017-08-19,NA,766,2.097193703,"ingroupnonbreeder",1
+"KR11M009","Kuruman 11","KRR",13,"30/03/2020",17,"Male",126,165.6746387,2017-08-19,NA,954,2.611909651,"ingroupnonbreeder",1
+"KR11M009","Kuruman 11","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR11M010","Kuruman 11","KRR",8,"20/08/2017",11,"Male",29,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR11M010","Kuruman 11","KRR",9,"18/03/2018",15,"Male",105,121.7158381,2017-08-19,NA,211,0.577686516,"ingroupnonbreeder",1
+"KR11M010","Kuruman 11","KRR",10,"10/10/2018",16,"Male",NA,11.76823613,2017-08-19,NA,417,1.141683778,"ingroupnonbreeder",1
+"KR11M010","Kuruman 11","KRR",11,"14/03/2019",22,"Male",159,69.35182863,2017-08-19,NA,572,1.56605065,"ingroupnonbreeder",1
+"KR11M010","Kuruman 11","KRR",12,"26/09/2019",20,"Male",133,0.397720048,2017-08-19,NA,768,2.102669405,"ingroupnonbreeder",1
+"KR11M010","Kuruman 11","KRR",13,"01/04/2020",17,"Male",132,165.6746387,2017-08-19,NA,956,2.617385352,"ingroupnonbreeder",1
+"KR11M010","Kuruman 11","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR11M011","Kuruman 11","KRR",8,"20/08/2017",11,"Male",28,1.34743409,2017-08-19,NA,0,0,"ingroupnonbreeder",1
+"KR11M011","Kuruman 11","KRR",9,"18/03/2018",15,"Male",92,121.7158381,2017-08-19,NA,211,0.577686516,"ingroupnonbreeder",1
+"KR11M011","Kuruman 11","KRR",10,"03/10/2018",16,"Male",117,11.76823613,2017-08-19,NA,410,1.122518823,"ingroupnonbreeder",1
+"KR11M011","Kuruman 11","KRR",11,"13/03/2019",22,"Male",139,69.35182863,2017-08-19,NA,571,1.563312799,"ingroupnonbreeder",1
+"KR11M011","Kuruman 11","KRR",12,"24/09/2019",20,"Male",117,0.397720048,2017-08-19,NA,766,2.097193703,"ingroupnonbreeder",1
+"KR11M011","Kuruman 11","KRR",13,"01/04/2020",17,"Male",112,165.6746387,2017-08-19,NA,956,2.617385352,"ingroupnonbreeder",1
+"KR11M011","Kuruman 11","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-08-19,99,1012,2.770704997,"ingroupnonbreeder",99
+"KR11M014","Kuruman 11","KRR",9,"20/03/2018",15,"Male",48,121.7158381,2018-03-17,NA,0,0,"ingroupnonbreeder",1
+"KR11M014","Kuruman 11","KRR",11,"14/03/2019",22,"Male",111,69.35182863,2018-03-17,NA,362,0.991101985,"ingroupnonbreeder",1
+"KR11M014","Kuruman 11","KRR",12,"25/09/2019",20,"Male",101,0.397720048,2018-03-17,NA,557,1.524982888,"ingroupnonbreeder",1
+"KR11M014","Kuruman 11","KRR",13,"30/03/2020",17,"Male",93,165.6746387,2018-03-17,NA,744,2.036960986,"ingroupnonbreeder",1
+"KR11M014","Kuruman 11","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-03-17,99,802,2.195756331,"ingroupnonbreeder",99
+"KR11M017","Kuruman 11","KRR",10,"04/10/2018",16,"Male",54,11.76823613,2018-10-02,NA,0,0,"ingroupnonbreeder",1
+"KR11M017","Kuruman 11","KRR",11,"14/03/2019",22,"Male",92,69.35182863,2018-10-02,NA,163,0.446269678,"ingroupnonbreeder",1
+"KR11M017","Kuruman 11","KRR",12,"23/09/2019",20,"Male",87,0.397720048,2018-10-02,NA,356,0.97467488,"ingroupnonbreeder",1
+"KR11M017","Kuruman 11","KRR",13,"31/03/2020",17,"Male",82,165.6746387,2018-10-02,NA,546,1.49486653,"ingroupnonbreeder",1
+"KR11M017","Kuruman 11","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-10-02,99,603,1.650924025,"ingroupnonbreeder",99
+"KR11M020","Kuruman 11","KRR",11,"13/03/2019",22,"Male",79,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR11M020","Kuruman 11","KRR",12,"25/09/2019",20,"Male",82,0.397720048,2019-03-12,NA,197,0.539356605,"ingroupnonbreeder",1
+"KR11M020",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2019-03-12,NA,359,0.982888433,"Disappeared",2
+"KR11M023","Kuruman 11","KRR",11,"14/03/2019",22,"Male",50,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR11M023","Kuruman 11","KRR",12,"23/09/2019",20,"Male",66,0.397720048,2019-03-12,NA,195,0.533880903,"ingroupnonbreeder",1
+"KR11M023","Kuruman 11","KRR",13,"31/03/2020",17,"Male",65,165.6746387,2019-03-12,NA,385,1.054072553,"ingroupnonbreeder",1
+"KR11M023","Kuruman 11","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR11M024","Kuruman 11","KRR",11,"14/03/2019",22,"Male",46,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR11M024","Kuruman 11","KRR",12,"27/09/2019",20,"Male",64,0.397720048,2019-03-12,NA,199,0.544832307,"ingroupnonbreeder",1
+"KR11M024",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2019-03-12,NA,359,0.982888433,"Disappeared",2
+"KR13M015","Kuruman 13","KRR",1,"24/01/2014",26,"Male",89,118.8639779,2014-01-22,NA,0,0,"ingroupnonbreeder",1
+"KR13M015","Kuruman 13","KRR",2,"06/08/2014",21,"Male",106,4.644637189,2014-01-22,NA,196,0.536618754,"ingroupnonbreeder",1
+"KR13M015","Kuruman 13","KRR",3,"10/02/2015",23,"Male",126,60.89109671,2014-01-22,NA,384,1.051334702,"ingroupnonbreeder",1
+"KR13M015",NA,"KRR",NA,"16/09/2015",NA,"Male",NA,NA,2014-01-22,NA,602,1.648186174,"Disappeared",2
+"KR13M023","Kuruman 13","KRR",1,"27/01/2014",26,"Male",79,118.8639779,2014-01-22,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR13M023",NA,"KRR",NA,"27/07/2014",NA,"Male",NA,NA,2014-01-22,NA,186,0.509240246,"Disappeared",2
+"KR13M024","Kuruman 13","KRR",1,"27/01/2014",26,"Male",33,118.8639779,2014-01-22,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR13M024","Kuruman 13","KRR",2,"06/08/2014",21,"Male",99,4.644637189,2014-01-22,NA,196,0.536618754,"ingroupnonbreeder",1
+"KR13M024","Kuruman 13","KRR",3,"10/02/2015",23,"Male",128,60.89109671,2014-01-22,NA,384,1.051334702,"ingroupnonbreeder",1
+"KR13M024",NA,"KRR",NA,"16/09/2015",NA,"Male",NA,NA,2014-01-22,NA,602,1.648186174,"Disappeared",2
+"KR13M026","Kuruman 13","KRR",1,"28/01/2014",26,"Male",35,118.8639779,2014-01-22,NA,6,0.016427105,"ingroupnonbreeder",1
+"KR13M026","Kuruman 13","KRR",2,"07/08/2014",21,"Male",97,4.644637189,2014-01-22,NA,197,0.539356605,"ingroupnonbreeder",1
+"KR13M026","Kuruman 13","KRR",3,"10/02/2015",23,"Male",123,60.89109671,2014-01-22,NA,384,1.051334702,"ingroupnonbreeder",1
+"KR13M026",NA,"KRR",NA,"16/09/2015",NA,"Male",NA,NA,2014-01-22,NA,602,1.648186174,"Disappeared",2
+"KR13M029","Kuruman 13","KRR",2,"08/08/2014",21,"Male",28,4.644637189,2014-08-05,NA,0,0,"ingroupnonbreeder",1
+"KR13M029","Kuruman 13","KRR",4,"22/09/2015",22,"Male",147,8.396498455,2014-08-05,NA,413,1.130732375,"ingroupnonbreeder",1
+"KR13M029","Kuruman 13","KRR",5,"12/04/2016",24,"Male",178,116.8075972,2014-08-05,NA,616,1.686516085,"ingroupnonbreeder",1
+"KR13M029","Kuruman 27","KRR",6,"25/07/2016",3,"Male",NA,25.29445336,2014-08-05,NA,720,1.971252567,"Disappeared",2
+"KR13M030","Kuruman 13","KRR",2,"08/08/2014",21,"Male",39,4.644637189,2014-08-05,NA,0,0,"ingroupnonbreeder",1
+"KR13M030","Kuruman 13","KRR",3,"10/02/2015",23,"Male",86,60.89109671,2014-08-05,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR13M030","Kuruman 13","KRR",4,"20/09/2015",22,"Male",137,8.396498455,2014-08-05,NA,411,1.125256674,"ingroupnonbreeder",1
+"KR13M030","Kuruman 13","KRR",5,"12/04/2016",24,"Male",157,116.8075972,2014-08-05,NA,616,1.686516085,"ingroupnonbreeder",1
+"KR13M030",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2014-08-05,NA,720,1.971252567,"Disappeared",2
+"KR13M031","Kuruman 13","KRR",2,"08/08/2014",21,"Male",35,4.644637189,2014-08-05,NA,0,0,"ingroupnonbreeder",1
+"KR13M031","Kuruman 13","KRR",3,"11/02/2015",23,"Male",84,60.89109671,2014-08-05,NA,190,0.52019165,"ingroupnonbreeder",1
+"KR13M031","Kuruman 13","KRR",4,"20/09/2015",22,"Male",140,8.396498455,2014-08-05,NA,411,1.125256674,"ingroupnonbreeder",1
+"KR13M031",NA,"KRR",NA,"04/02/2016",NA,"Male",NA,NA,2014-08-05,NA,548,1.500342231,"Disappeared",2
+"KR13M032","Kuruman 13","KRR",3,"12/02/2015",23,"Male",29,60.89109671,2015-02-10,NA,0,0,"ingroupnonbreeder",1
+"KR13M032","Kuruman 13","KRR",4,"23/09/2015",22,"Male",96,8.396498455,2015-02-10,NA,225,0.616016427,"ingroupnonbreeder",1
+"KR13M032","Kuruman 13","KRR",5,"12/04/2016",24,"Male",130,116.8075972,2015-02-10,NA,427,1.169062286,"ingroupnonbreeder",1
+"KR13M032",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2015-02-10,NA,531,1.453798768,"Disappeared",2
+"KR13M033","Kuruman 13","KRR",3,"11/02/2015",23,"Male",23,60.89109671,2015-02-10,NA,0,0,"ingroupnonbreeder",1
+"KR13M033","Kuruman 13","KRR",4,"22/09/2015",22,"Male",81,8.396498455,2015-02-10,NA,224,0.613278576,"ingroupnonbreeder",1
+"KR13M033","Kuruman 13","KRR",5,"12/04/2016",24,"Male",122,116.8075972,2015-02-10,NA,427,1.169062286,"ingroupnonbreeder",1
+"KR13M033","Kuruman 8","KRR",7,"07/02/2017",12,"Male",163,209.6293089,2015-02-10,NA,728,1.993155373,"Disappeared",2
+"KR13M036","Kuruman 13","KRR",3,"13/02/2015",23,"Male",22,60.89109671,2015-02-10,NA,0,0,"ingroupnonbreeder",1
+"KR13M036","Kuruman 13","KRR",4,"23/09/2015",22,"Male",81,8.396498455,2015-02-10,NA,225,0.616016427,"ingroupnonbreeder",1
+"KR13M036","Kuruman 13","KRR",5,"13/04/2016",24,"Male",117,116.8075972,2015-02-10,NA,428,1.171800137,"ingroupnonbreeder",1
+"KR13M036",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2015-02-10,NA,531,1.453798768,"Disappeared",2
+"KR13M045","Kuruman 13","KRR",5,"12/04/2016",24,"Male",65,116.8075972,2016-04-12,NA,0,0,"ingroupnonbreeder",1
+"KR13M045","Kuruman 13","KRR",7,"23/01/2017",13,"Male",161,133.174221,2016-04-12,NA,286,0.783025325,"ingroupnonbreeder",1
+"KR13M045",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2016-04-12,NA,475,1.300479124,"Disappeared",2
+"KR13M046","Kuruman 13","KRR",5,"13/04/2016",24,"Male",68,116.8075972,2016-04-12,NA,0,0,"ingroupnonbreeder",1
+"KR13M046","Kuruman 13","KRR",7,"26/01/2017",13,"Male",145,133.174221,2016-04-12,NA,289,0.791238877,"ingroupnonbreeder",1
+"KR13M046","Kuruman 28","KRR",7,"23/05/2017",3,"Male",NA,75.0055436,2016-04-12,NA,406,1.11156742,"Disappeared",2
+"KR13M048","Kuruman 13","KRR",5,"14/04/2016",24,"Male",61,116.8075972,2016-04-12,NA,0,0,"ingroupnonbreeder",1
+"KR13M048",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2016-04-12,NA,104,0.284736482,"Disappeared",2
+"KR13M049","Kuruman 13","KRR",5,"14/04/2016",24,"Male",20,116.8075972,2016-04-12,NA,0,0,"ingroupnonbreeder",1
+"KR13M049","Kuruman 13","KRR",7,"25/01/2017",13,"Male",135,133.174221,2016-04-12,NA,288,0.788501027,"ingroupnonbreeder",1
+"KR13M049","Kuruman 30","KRR",7,"23/05/2017",2,"Male",NA,75.0055436,2016-04-12,NA,406,1.11156742,"Disappeared",2
+"KR13M051","Kuruman 13","KRR",5,"16/04/2016",24,"Male",51,116.8075972,2016-04-12,NA,0,0,"ingroupnonbreeder",1
+"KR13M051","Kuruman 13","KRR",7,"24/01/2017",13,"Male",134,133.174221,2016-04-12,NA,287,0.785763176,"ingroupnonbreeder",1
+"KR13M051",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2016-04-12,NA,475,1.300479124,"Disappeared",2
+"KR13M052","Kuruman 13","KRR",7,"24/01/2017",13,"Male",76,133.174221,2017-01-23,NA,0,0,"ingroupnonbreeder",1
+"KR13M052",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-01-23,NA,189,0.517453799,"Disappeared",2
+"KR13M054","Kuruman 13","KRR",7,"24/01/2017",13,"Male",96,133.174221,2017-01-23,NA,0,0,"ingroupnonbreeder",1
+"KR13M054","Kuruman 28","KRR",7,"23/05/2017",3,"Male",NA,75.0055436,2017-01-23,NA,120,0.328542094,"Disappeared",2
+"KR13M057","Kuruman 13","KRR",7,"24/01/2017",13,"Male",77,133.174221,2017-01-23,NA,0,0,"ingroupnonbreeder",1
+"KR13M057",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-01-23,NA,189,0.517453799,"Disappeared",2
+"KR16M001","Kuruman 16","KRR",7,"31/01/2017",4,"Male",56,133.174221,2017-01-30,NA,0,0,"ingroupnonbreeder",1
+"KR16M001",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-01-30,NA,182,0.498288843,"Disappeared",2
+"KR16M002","Kuruman 16","KRR",7,"01/02/2017",4,"Male",50,133.174221,2017-01-30,NA,0,0,"ingroupnonbreeder",1
+"KR16M002",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-01-30,NA,182,0.498288843,"Disappeared",2
+"KR16M003","Kuruman 16","KRR",7,"01/02/2017",4,"Male",50,133.174221,2017-01-30,NA,0,0,"ingroupnonbreeder",1
+"KR16M003",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-01-30,NA,182,0.498288843,"Disappeared",2
+"KR16M004","Kuruman 16","KRR",8,"07/08/2017",2,"Male",90,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR16M004",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-08-07,NA,222,0.607802875,"Disappeared",2
+"KR19M002","Kuruman 19","KRR",7,"13/02/2017",8,"Male",22,209.6293089,2017-02-13,NA,0,0,"ingroupnonbreeder",1
+"KR19M002","Kuruman 19","KRR",8,"02/08/2017",7,"Male",64,1.34743409,2017-02-13,NA,170,0.465434634,"ingroupnonbreeder",1
+"KR19M002",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-02-13,NA,397,1.086926762,"Disappeared",2
+"KR19M004","Kuruman 19","KRR",7,"14/02/2017",8,"Male",75,209.6293089,2017-02-13,NA,0,0,"ingroupnonbreeder",1
+"KR19M004","Kuruman 19","KRR",8,"03/08/2017",7,"Male",87,1.34743409,2017-02-13,NA,171,0.468172485,"ingroupnonbreeder",1
+"KR19M004",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-02-13,NA,397,1.086926762,"Disappeared",2
+"KR19M005","Kuruman 19","KRR",7,"15/02/2017",8,"Male",20,209.6293089,2017-02-13,NA,0,0,"ingroupnonbreeder",1
+"KR19M005","Kuruman 19","KRR",9,"23/05/2018",8,"Male",NA,124.3583704,2017-02-13,NA,464,1.270362765,"ingroupnonbreeder",1
+"KR19M005","Kuruman 19","KRR",11,"25/03/2019",9,"Male",107,69.35182863,2017-02-13,NA,770,2.108145106,"ingroupnonbreeder",1
+"KR19M005","Kuruman 19","KRR",12,"18/11/2019",12,"Male",120,9.848668221,2017-02-13,NA,1008,2.759753593,"ingroupnonbreeder",1
+"KR19M005","Kuruman 19","KRR",13,"30/04/2020",10,"Male",106,135.605622,2017-02-13,NA,1172,3.208761123,"ingroupnonbreeder",1
+"KR19M005","Kuruman 19","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-02-13,99,1199,3.282683094,"ingroupnonbreeder",99
+"KR19M006","Kuruman 19","KRR",7,"14/02/2017",8,"Male",25,209.6293089,2017-02-13,NA,0,0,"ingroupnonbreeder",1
+"KR19M006","Kuruman 19","KRR",8,"01/08/2017",7,"Male",67,1.34743409,2017-02-13,NA,169,0.462696783,"ingroupnonbreeder",1
+"KR19M006","Kuruman 19","KRR",9,"23/05/2018",8,"Male",96,124.3583704,2017-02-13,NA,464,1.270362765,"ingroupnonbreeder",1
+"KR19M006","Kuruman 19","KRR",10,"15/11/2018",6,"Male",115,17.16380656,2017-02-13,NA,640,1.752224504,"ingroupnonbreeder",1
+"KR19M006","Kuruman 19","KRR",11,"25/03/2019",9,"Male",119,69.35182863,2017-02-13,NA,770,2.108145106,"ingroupnonbreeder",1
+"KR19M006","Kuruman 19","KRR",12,"20/11/2019",12,"Male",117,9.848668221,2017-02-13,NA,1010,2.765229295,"ingroupnonbreeder",1
+"KR19M006","Kuruman 19","KRR",13,"28/04/2020",10,"Male",111,135.605622,2017-02-13,NA,1170,3.203285421,"ingroupnonbreeder",1
+"KR19M006","Kuruman 19","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-02-13,99,1199,3.282683094,"ingroupnonbreeder",99
+"KR19M008","Kuruman 19","KRR",9,"23/05/2018",8,"Male",60,124.3583704,2018-05-23,NA,0,0,"ingroupnonbreeder",1
+"KR19M008","Kuruman 19","KRR",11,"27/03/2019",9,"Male",100,69.35182863,2018-05-23,NA,308,0.843258042,"ingroupnonbreeder",1
+"KR19M008",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-05-23,NA,474,1.297741273,"Disappeared",2
+"KR19M010","Kuruman 19","KRR",10,"18/11/2018",6,"Male",16,17.16380656,2018-11-13,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR19M010",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2018-11-13,NA,116,0.317590691,"Disappeared",2
+"KR19M011","Kuruman 19","KRR",10,"18/11/2018",6,"Male",67,17.16380656,2018-11-13,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR19M011","Kuruman 19","KRR",12,"17/11/2019",12,"Male",101,9.848668221,2018-11-13,NA,369,1.01026694,"ingroupnonbreeder",1
+"KR19M011","Kuruman 19","KRR",13,"28/04/2020",10,"Male",90,135.605622,2018-11-13,NA,532,1.456536619,"ingroupnonbreeder",1
+"KR19M011","Kuruman 19","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-11-13,99,561,1.535934292,"ingroupnonbreeder",99
+"KR19M014","Kuruman 19","KRR",12,"16/11/2019",12,"Male",64,9.848668221,2019-11-15,NA,0,0,"ingroupnonbreeder",1
+"KR19M014","Kuruman 19","KRR",13,"28/04/2020",10,"Male",74,135.605622,2019-11-15,NA,165,0.45174538,"ingroupnonbreeder",1
+"KR19M014","Kuruman 19","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-11-15,99,194,0.531143053,"ingroupnonbreeder",99
+"KR19M016","Kuruman 19","KRR",12,"17/11/2019",12,"Male",54,9.848668221,2019-11-15,NA,0,0,"ingroupnonbreeder",1
+"KR19M016","Kuruman 19","KRR",13,"29/04/2020",10,"Male",66,135.605622,2019-11-15,NA,166,0.454483231,"ingroupnonbreeder",1
+"KR19M016","Kuruman 19","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-11-15,99,194,0.531143053,"ingroupnonbreeder",99
+"KR1M001","Kuruman 1","KRR",1,"17/11/2013",18,"Male",98,16.18844808,2013-11-17,NA,0,0,"ingroupnonbreeder",1
+"KR1M001",NA,"KRR",NA,"27/07/2014",NA,"Male",NA,NA,2013-11-17,NA,252,0.689938398,"Disappeared",2
+"KR1M008","Kuruman 1","KRR",1,"18/11/2013",18,"Male",52,16.18844808,2013-11-17,NA,0,0,"ingroupnonbreeder",1
+"KR1M008","Kuruman 1","KRR",2,"29/07/2014",10,"Male",100,15.72555258,2013-11-17,NA,254,0.6954141,"ingroupnonbreeder",1
+"KR1M008","Kuruman 1","KRR",3,"18/02/2015",10,"Male",140,60.89109671,2013-11-17,NA,458,1.253935661,"ingroupnonbreeder",1
+"KR1M008","Kuruman 1","KRR",4,"15/10/2015",7,"Male",162,7.452079085,2013-11-17,NA,697,1.908281999,"ingroupnonbreeder",1
+"KR1M008","Kuruman 1","KRR",5,"27/04/2016",9,"Male",170,116.8075972,2013-11-17,NA,892,2.442162902,"ingroupnonbreeder",1
+"KR1M008",NA,"KRR",NA,"25/07/2016",NA,"Male",NA,NA,2013-11-17,NA,981,2.685831622,"Disappeared",2
+"KR1M013","Kuruman 1","KRR",1,"21/11/2013",18,"Male",88,16.18844808,2013-11-17,NA,0,0,"ingroupnonbreeder",1
+"KR1M013",NA,"KRR",NA,"27/07/2014",NA,"Male",NA,NA,2013-11-17,NA,252,0.689938398,"Disappeared",2
+"KR1M017","Kuruman 1","KRR",1,"22/11/2013",18,"Male",51,16.18844808,2013-11-17,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR1M017","Kuruman 1","KRR",2,"27/07/2014",10,"Male",83,15.72555258,2013-11-17,NA,252,0.689938398,"ingroupnonbreeder",1
+"KR1M017","Kuruman 1","KRR",3,"16/02/2015",10,"Male",114,60.89109671,2013-11-17,NA,456,1.248459959,"ingroupnonbreeder",1
+"KR1M017",NA,"KRR",NA,"16/09/2015",NA,"Male",NA,NA,2013-11-17,NA,668,1.828884326,"Disappeared",2
+"KR20M001","Kuruman 20","KRR",7,"17/01/2017",7,"Male",79,133.174221,2017-01-17,NA,0,0,"ingroupnonbreeder",1
+"KR20M001","Kuruman 20","KRR",8,"02/08/2017",10,"Male",108,1.34743409,2017-01-17,NA,197,0.539356605,"ingroupnonbreeder",1
+"KR20M001",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-01-17,NA,424,1.160848734,"Disappeared",2
+"KR20M002","Kuruman 20","KRR",7,"19/01/2017",7,"Male",26,133.174221,2017-01-17,NA,0,0,"ingroupnonbreeder",1
+"KR20M002","Kuruman 20","KRR",8,"01/08/2017",10,"Male",77,1.34743409,2017-01-17,NA,196,0.536618754,"ingroupnonbreeder",1
+"KR20M002","Kuruman 20","KRR",9,"09/05/2018",13,"Male",117,124.3583704,2017-01-17,NA,477,1.305954825,"ingroupnonbreeder",1
+"KR20M002","Kuruman 20","KRR",10,"21/09/2018",14,"Male",109,3.838321871,2017-01-17,NA,612,1.675564682,"ingroupnonbreeder",1
+"KR20M002","Kuruman 20","KRR",11,"25/03/2019",17,"Male",135,69.35182863,2017-01-17,NA,797,2.182067077,"ingroupnonbreeder",1
+"KR20M002",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2017-01-17,NA,965,2.64202601,"Disappeared",2
+"KR20M003","Kuruman 20","KRR",7,"19/01/2017",7,"Male",26,133.174221,2017-01-17,NA,0,0,"ingroupnonbreeder",1
+"KR20M003","Kuruman 20","KRR",8,"02/08/2017",10,"Male",86,1.34743409,2017-01-17,NA,197,0.539356605,"ingroupnonbreeder",1
+"KR20M003","Kuruman 20","KRR",9,"11/05/2018",13,"Male",134,124.3583704,2017-01-17,NA,479,1.311430527,"ingroupnonbreeder",1
+"KR20M003","Kuruman 20","KRR",10,"22/09/2018",14,"Male",130,3.838321871,2017-01-17,NA,613,1.678302533,"ingroupnonbreeder",1
+"KR20M003",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2017-01-17,NA,781,2.138261465,"Disappeared",2
+"KR20M004","Kuruman 20","KRR",7,"19/01/2017",7,"Male",29,133.174221,2017-01-17,NA,0,0,"ingroupnonbreeder",1
+"KR20M004","Kuruman 20","KRR",8,"02/08/2017",10,"Male",80,1.34743409,2017-01-17,NA,197,0.539356605,"ingroupnonbreeder",1
+"KR20M004",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-01-17,NA,424,1.160848734,"Disappeared",2
+"KR20M005","Kuruman 20","KRR",7,"18/01/2017",7,"Male",29,133.174221,2017-01-17,NA,0,0,"ingroupnonbreeder",1
+"KR20M005","Kuruman 20","KRR",8,"01/08/2017",10,"Male",95,1.34743409,2017-01-17,NA,196,0.536618754,"ingroupnonbreeder",1
+"KR20M005","Kuruman 20","KRR",9,"10/05/2018",13,"Male",140,124.3583704,2017-01-17,NA,478,1.308692676,"ingroupnonbreeder",1
+"KR20M005","Kuruman 20","KRR",10,"21/09/2018",14,"Male",142,3.838321871,2017-01-17,NA,612,1.675564682,"ingroupnonbreeder",1
+"KR20M005","Kuruman 20","KRR",11,"25/03/2019",17,"Male",160,69.35182863,2017-01-17,NA,797,2.182067077,"ingroupnonbreeder",1
+"KR20M005",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2017-01-17,NA,965,2.64202601,"Disappeared",2
+"KR20M006","Kuruman 20","KRR",8,"02/08/2017",10,"Male",48,1.34743409,2017-08-01,NA,0,0,"ingroupnonbreeder",1
+"KR20M006","Kuruman 20","KRR",9,"11/05/2018",13,"Male",98,124.3583704,2017-08-01,NA,283,0.774811773,"ingroupnonbreeder",1
+"KR20M006","Kuruman 20","KRR",10,"22/09/2018",14,"Male",100,3.838321871,2017-08-01,NA,417,1.141683778,"ingroupnonbreeder",1
+"KR20M006","Kuruman 20","KRR",11,"27/03/2019",17,"Male",135,69.35182863,2017-08-01,NA,603,1.650924025,"ingroupnonbreeder",1
+"KR20M006",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2017-08-01,NA,769,2.105407255,"Disappeared",2
+"KR20M008","Kuruman 20","KRR",8,"03/08/2017",10,"Male",48,1.34743409,2017-08-01,NA,0,0,"ingroupnonbreeder",1
+"KR20M008","Kuruman 20","KRR",9,"10/05/2018",13,"Male",98,124.3583704,2017-08-01,NA,282,0.772073922,"ingroupnonbreeder",1
+"KR20M008","Kuruman 20","KRR",10,"26/09/2018",14,"Male",113,3.838321871,2017-08-01,NA,421,1.152635181,"ingroupnonbreeder",1
+"KR20M008","Kuruman 20","KRR",11,"27/03/2019",17,"Male",147,69.35182863,2017-08-01,NA,603,1.650924025,"ingroupnonbreeder",1
+"KR20M008",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2017-08-01,NA,769,2.105407255,"Disappeared",2
+"KR20M010","Kuruman 20","KRR",9,"13/05/2018",13,"Male",69,124.3583704,2018-05-09,NA,0,0,"ingroupnonbreeder",1
+"KR20M010","Kuruman 20","KRR",10,"23/09/2018",14,"Male",100,3.838321871,2018-05-09,NA,137,0.375085558,"ingroupnonbreeder",1
+"KR20M010","Kuruman 20","KRR",11,"25/03/2019",17,"Male",128,69.35182863,2018-05-09,NA,320,0.876112252,"ingroupnonbreeder",1
+"KR20M010",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-05-09,NA,488,1.336071184,"Disappeared",2
+"KR20M014","Kuruman 20","KRR",10,"22/09/2018",14,"Male",55,3.838321871,2018-09-21,NA,0,0,"ingroupnonbreeder",1
+"KR20M014","Kuruman 20","KRR",11,"26/03/2019",17,"Male",96,69.35182863,2018-09-21,NA,186,0.509240246,"ingroupnonbreeder",1
+"KR20M014","Kuruman 20","KRR",13,"07/04/2020",19,"Male",143,135.605622,2018-09-21,NA,564,1.544147844,"ingroupnonbreeder",1
+"KR20M014","Kuruman 20","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-09-21,99,614,1.681040383,"ingroupnonbreeder",99
+"KR20M016","Kuruman 20","KRR",11,"27/03/2019",17,"Male",65,69.35182863,2019-03-25,NA,0,0,"ingroupnonbreeder",1
+"KR20M016",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2019-03-25,NA,168,0.459958932,"Disappeared",2
+"KR20M017","Kuruman 20","KRR",11,"28/03/2019",17,"Male",63,69.35182863,2019-03-25,NA,0,0,"ingroupnonbreeder",1
+"KR20M017",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2019-03-25,NA,168,0.459958932,"Disappeared",2
+"KR20M019","Kuruman 20","KRR",11,"28/03/2019",17,"Male",25,69.35182863,2019-03-25,NA,0,0,"ingroupnonbreeder",1
+"KR20M019","Kuruman 20","KRR",13,"06/04/2020",19,"Male",102,135.605622,2019-03-25,NA,378,1.034907598,"ingroupnonbreeder",1
+"KR20M019","Kuruman 20","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-25,99,429,1.174537988,"ingroupnonbreeder",99
+"KR20M024","Kuruman 20","KRR",13,"08/04/2020",19,"Male",60,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20M024","Kuruman 20","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR20M027","Kuruman 20","KRR",13,"08/04/2020",19,"Male",83,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20M027","Kuruman 20","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR20M028","Kuruman 20","KRR",13,"09/04/2020",19,"Male",86,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20M028","Kuruman 20","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR20M030","Kuruman 20","KRR",13,"10/04/2020",19,"Male",21,135.605622,2020-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR20M030","Kuruman 20","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR20M031","Kuruman 20","KRR",13,"11/04/2020",19,"Male",21,135.605622,2020-04-06,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR20M031","Kuruman 20","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-06,99,51,0.13963039,"ingroupnonbreeder",99
+"KR26M001","Kuruman 26","KRR",7,"31/01/2017",5,"Male",62,133.174221,2017-01-30,NA,0,0,"ingroupnonbreeder",1
+"KR26M001","Kuruman 26","KRR",8,"07/08/2017",9,"Male",109,1.34743409,2017-01-30,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR26M001","Kuruman 26","KRR",9,"01/04/2018",15,"Male",150,121.7158381,2017-01-30,NA,426,1.166324435,"ingroupnonbreeder",1
+"KR26M001",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-01-30,NA,592,1.620807666,"Disappeared",2
+"KR26M003","Kuruman 26","KRR",7,"31/01/2017",5,"Male",58,133.174221,2017-01-30,NA,0,0,"ingroupnonbreeder",1
+"KR26M003","Kuruman 26","KRR",8,"07/08/2017",9,"Male",98,1.34743409,2017-01-30,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR26M003","Kuruman 26","KRR",9,"31/03/2018",15,"Male",150,121.7158381,2017-01-30,NA,425,1.163586585,"ingroupnonbreeder",1
+"KR26M003",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-01-30,NA,592,1.620807666,"Disappeared",2
+"KR26M006","Kuruman 26","KRR",8,"08/08/2017",9,"Male",80,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR26M006","Kuruman 26","KRR",9,"30/03/2018",15,"Male",129,121.7158381,2017-08-07,NA,235,0.643394935,"ingroupnonbreeder",1
+"KR26M006",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-08-07,NA,403,1.103353867,"Disappeared",2
+"KR26M008","Kuruman 26","KRR",9,"30/03/2018",15,"Male",79,121.7158381,2018-03-29,NA,0,0,"ingroupnonbreeder",1
+"KR26M008","Kuruman 26","KRR",10,"07/11/2018",9,"Male",99,17.16380656,2018-03-29,NA,223,0.610540726,"ingroupnonbreeder",1
+"KR26M008",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2018-03-29,NA,345,0.944558522,"Disappeared",2
+"KR26M009","Kuruman 26","KRR",9,"30/03/2018",15,"Male",81,121.7158381,2018-03-29,NA,0,0,"ingroupnonbreeder",1
+"KR26M009",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2018-03-29,NA,169,0.462696783,"Disappeared",2
+"KR26M010","Kuruman 26","KRR",9,"30/03/2018",15,"Male",90,121.7158381,2018-03-29,NA,0,0,"ingroupnonbreeder",1
+"KR26M010",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2018-03-29,NA,169,0.462696783,"Disappeared",2
+"KR26M014","Kuruman 26","KRR",10,"06/11/2018",9,"Male",58,17.16380656,2018-11-06,NA,0,0,"ingroupnonbreeder",1
+"KR26M014","Kuruman 26","KRR",12,"18/10/2019",13,"Male",126,5.217065306,2018-11-06,NA,346,0.947296372,"ingroupnonbreeder",1
+"KR26M014",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2018-11-06,NA,485,1.327857632,"Disappeared",2
+"KR26M015","Kuruman 26","KRR",10,"07/11/2018",9,"Male",74,17.16380656,2018-11-06,NA,0,0,"ingroupnonbreeder",1
+"KR26M015","Kuruman 26","KRR",12,"17/10/2019",13,"Male",137,5.217065306,2018-11-06,NA,345,0.944558522,"ingroupnonbreeder",1
+"KR26M015",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2018-11-06,NA,485,1.327857632,"Disappeared",2
+"KR26M016","Kuruman 26","KRR",10,"07/11/2018",9,"Male",60,17.16380656,2018-11-06,NA,0,0,"ingroupnonbreeder",1
+"KR26M016",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2018-11-06,NA,123,0.336755647,"Disappeared",2
+"KR26M017","Kuruman 26","KRR",12,"17/10/2019",13,"Male",93,5.217065306,2019-10-17,NA,0,0,"ingroupnonbreeder",1
+"KR26M017","Kuruman 26","KRR",13,"04/05/2020",11,"Male",124,64.81177172,2019-10-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR26M017","Kuruman 26","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-17,99,223,0.610540726,"ingroupnonbreeder",99
+"KR26M018","Kuruman 26","KRR",12,"18/10/2019",13,"Male",82,5.217065306,2019-10-17,NA,0,0,"ingroupnonbreeder",1
+"KR26M018","Kuruman 26","KRR",13,"04/05/2020",11,"Male",106,64.81177172,2019-10-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR26M018","Kuruman 26","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-17,99,223,0.610540726,"ingroupnonbreeder",99
+"KR26M019","Kuruman 26","KRR",12,"18/10/2019",13,"Male",78,5.217065306,2019-10-17,NA,0,0,"ingroupnonbreeder",1
+"KR26M019","Kuruman 26","KRR",13,"04/05/2020",11,"Male",86,64.81177172,2019-10-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR26M019","Kuruman 26","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-17,99,223,0.610540726,"ingroupnonbreeder",99
+"KR26M020","Kuruman 26","KRR",12,"19/10/2019",13,"Male",27,5.217065306,2019-10-17,NA,0,0,"ingroupnonbreeder",1
+"KR26M020","Kuruman 26","KRR",13,"04/05/2020",11,"Male",66,64.81177172,2019-10-17,NA,200,0.547570157,"ingroupnonbreeder",1
+"KR26M020","Kuruman 26","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-17,99,223,0.610540726,"ingroupnonbreeder",99
+"KR27M001","Kuruman 27","KRR",6,"25/07/2016",3,"Male",61,25.29445336,2016-07-25,NA,0,0,"ingroupnonbreeder",1
+"KR27M001","Kuruman 27","KRR",7,"05/02/2017",11,"Male",106,209.6293089,2016-07-25,NA,195,0.533880903,"ingroupnonbreeder",1
+"KR27M001","Kuruman 27","KRR",8,"07/08/2017",12,"Male",123,1.34743409,2016-07-25,NA,378,1.034907598,"ingroupnonbreeder",1
+"KR27M001",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2016-07-25,NA,600,1.642710472,"Disappeared",2
+"KR27M004","Kuruman 27","KRR",7,"06/02/2017",11,"Male",28,209.6293089,2017-02-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M004","Kuruman 27","KRR",8,"09/08/2017",12,"Male",85,1.34743409,2017-02-05,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR27M004","Kuruman 27","KRR",9,"05/04/2018",16,"Male",NA,171.3225646,2017-02-05,NA,424,1.160848734,"ingroupnonbreeder",1
+"KR27M004","Kuruman 7","KRR",9,"20/04/2018",2,"Male",128,171.3225646,2017-02-05,NA,439,1.201916496,"Disappeared",2
+"KR27M005","Kuruman 27","KRR",7,"06/02/2017",11,"Male",59,209.6293089,2017-02-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M005","Kuruman 27","KRR",8,"11/08/2017",12,"Male",112,1.34743409,2017-02-05,NA,187,0.511978097,"ingroupnonbreeder",1
+"KR27M005","Kuruman 27","KRR",9,"10/04/2018",16,"Male",166,171.3225646,2017-02-05,NA,429,1.174537988,"ingroupnonbreeder",1
+"KR27M005","Kuruman 41","KRR",9,"09/05/2018",1,"Male",152,124.3583704,2017-02-05,NA,458,1.253935661,"Disappeared",2
+"KR27M006","Kuruman 27","KRR",7,"07/02/2017",11,"Male",34,209.6293089,2017-02-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M006","Kuruman 27","KRR",8,"09/08/2017",12,"Male",89,1.34743409,2017-02-05,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR27M006","Kuruman 27","KRR",9,"09/04/2018",16,"Male",148,171.3225646,2017-02-05,NA,428,1.171800137,"ingroupnonbreeder",1
+"KR27M006",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-02-05,NA,586,1.604380561,"Disappeared",2
+"KR27M007","Kuruman 27","KRR",7,"07/02/2017",11,"Male",21,209.6293089,2017-02-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M007",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-02-05,NA,176,0.481861739,"Disappeared",2
+"KR27M009","Kuruman 27","KRR",8,"10/08/2017",12,"Male",69,1.34743409,2017-08-07,NA,0,0,"ingroupnonbreeder",1
+"KR27M009","Kuruman 27","KRR",9,"07/04/2018",16,"Male",110,171.3225646,2017-08-07,NA,243,0.665297741,"ingroupnonbreeder",1
+"KR27M009","Kuruman 27","KRR",12,"21/09/2019",6,"Male",165,0.397720048,2017-08-07,NA,775,2.12183436,"ingroupnonbreeder",1
+"KR27M009","Kuruman 27","KRR",13,"06/05/2020",8,"Male",149,64.81177172,2017-08-07,NA,1003,2.746064339,"ingroupnonbreeder",1
+"KR27M009","Kuruman 27","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-08-07,99,1024,2.803559206,"ingroupnonbreeder",99
+"KR27M014","Kuruman 27","KRR",9,"07/04/2018",16,"Male",49,171.3225646,2018-04-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M014","Kuruman 27","KRR",10,"25/11/2018",8,"Male",131,17.16380656,2018-04-05,NA,234,0.640657084,"ingroupnonbreeder",1
+"KR27M014",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2018-04-05,NA,338,0.925393566,"Disappeared",2
+"KR27M015","Kuruman 27","KRR",9,"09/04/2018",16,"Male",71,171.3225646,2018-04-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M015","Kuruman 27","KRR",10,"28/11/2018",8,"Male",126,17.16380656,2018-04-05,NA,237,0.648870637,"ingroupnonbreeder",1
+"KR27M015",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2018-04-05,NA,338,0.925393566,"Disappeared",2
+"KR27M016","Kuruman 27","KRR",9,"05/04/2018",16,"Male",77,171.3225646,2018-04-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M016",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2018-04-05,NA,162,0.443531828,"Disappeared",2
+"KR27M017","Kuruman 27","KRR",9,"10/04/2018",16,"Male",29,171.3225646,2018-04-05,NA,5,0.013689254,"ingroupnonbreeder",1
+"KR27M017","Kuruman 27","KRR",10,"28/11/2018",8,"Male",114,17.16380656,2018-04-05,NA,237,0.648870637,"ingroupnonbreeder",1
+"KR27M017",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2018-04-05,NA,338,0.925393566,"Disappeared",2
+"KR27M019","Kuruman 27","KRR",13,"05/05/2020",8,"Male",78,64.81177172,2020-05-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M019","Kuruman 27","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-05-05,99,22,0.060232717,"ingroupnonbreeder",99
+"KR27M020","Kuruman 27","KRR",13,"06/05/2020",8,"Male",90,64.81177172,2020-05-05,NA,0,0,"ingroupnonbreeder",1
+"KR27M020","Kuruman 27","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-05-05,99,22,0.060232717,"ingroupnonbreeder",99
+"KR28M002","Kuruman 28","KRR",8,"19/10/2017",6,"Male",64,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR28M002",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-10-19,NA,149,0.407939767,"Disappeared",2
+"KR28M004","Kuruman 28","KRR",8,"23/10/2017",6,"Male",20,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR28M004",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-10-19,NA,149,0.407939767,"Disappeared",2
+"KR28M005","Kuruman 28","KRR",9,"21/04/2018",8,"Male",66,171.3225646,2018-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR28M005","Kuruman 28","KRR",10,"15/09/2018",9,"Male",105,3.838321871,2018-04-20,NA,148,0.405201916,"ingroupnonbreeder",1
+"KR28M005","Kuruman 28","KRR",11,"19/03/2019",11,"Male",141,69.35182863,2018-04-20,NA,333,0.911704312,"ingroupnonbreeder",1
+"KR28M005",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-04-20,NA,507,1.388090349,"Disappeared",2
+"KR28M007","Kuruman 28","KRR",9,"21/04/2018",8,"Male",35,171.3225646,2018-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR28M007","Kuruman 28","KRR",10,"15/09/2018",9,"Male",89,3.838321871,2018-04-20,NA,148,0.405201916,"ingroupnonbreeder",1
+"KR28M007","Kuruman 28","KRR",11,"19/03/2019",11,"Male",127,69.35182863,2018-04-20,NA,333,0.911704312,"ingroupnonbreeder",1
+"KR28M007",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-04-20,NA,507,1.388090349,"Disappeared",2
+"KR28M008","Kuruman 28","KRR",9,"23/04/2018",8,"Male",37,171.3225646,2018-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR28M008","Kuruman 28","KRR",10,"15/09/2018",9,"Male",81,3.838321871,2018-04-20,NA,148,0.405201916,"ingroupnonbreeder",1
+"KR28M008","Kuruman 28","KRR",11,"19/03/2019",11,"Male",126,69.35182863,2018-04-20,NA,333,0.911704312,"ingroupnonbreeder",1
+"KR28M008",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-04-20,NA,507,1.388090349,"Disappeared",2
+"KR28M010","Kuruman 28","KRR",10,"16/09/2018",9,"Male",50,3.838321871,2018-09-15,NA,0,0,"ingroupnonbreeder",1
+"KR28M010","Kuruman 28","KRR",11,"19/03/2019",11,"Male",116,69.35182863,2018-09-15,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR28M010","Kuruman 28","KRR",12,"16/09/2019",8,"Male",131,0.397720048,2018-09-15,NA,366,1.002053388,"ingroupnonbreeder",1
+"KR28M010","Kuruman 28","KRR",13,"17/03/2020",13,"Male",174,165.6746387,2018-09-15,NA,549,1.503080082,"ingroupnonbreeder",1
+"KR28M010","Kuruman 28","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-09-15,99,620,1.697467488,"ingroupnonbreeder",99
+"KR28M011","Kuruman 28","KRR",11,"20/03/2019",11,"Male",25,69.35182863,2019-03-19,NA,0,0,"ingroupnonbreeder",1
+"KR28M011",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2019-03-19,NA,174,0.476386037,"Disappeared",2
+"KR28M012","Kuruman 28","KRR",11,"20/03/2019",11,"Male",33,69.35182863,2019-03-19,NA,0,0,"ingroupnonbreeder",1
+"KR28M012","Kuruman 28","KRR",12,"16/09/2019",8,"Male",86,0.397720048,2019-03-19,NA,181,0.495550992,"ingroupnonbreeder",1
+"KR28M012","Kuruman 28","KRR",13,"19/03/2020",13,"Male",122,165.6746387,2019-03-19,NA,366,1.002053388,"ingroupnonbreeder",1
+"KR28M012","Kuruman 28","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-19,99,435,1.190965092,"ingroupnonbreeder",99
+"KR28M016","Kuruman 28","KRR",13,"18/03/2020",13,"Male",79,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR28M016","Kuruman 28","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR30M001","Kuruman 30","KRR",8,"20/10/2017",3,"Male",30,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR30M001","Kuruman 30","KRR",9,"14/04/2018",3,"Male",75,171.3225646,2017-10-19,NA,177,0.484599589,"ingroupnonbreeder",1
+"KR30M001","Kuruman 30","KRR",10,"14/09/2018",3,"Male",96,3.838321871,2017-10-19,NA,330,0.90349076,"ingroupnonbreeder",1
+"KR30M001","Kuruman 30","KRR",13,"27/04/2020",10,"Male",111,135.605622,2017-10-19,NA,921,2.521560575,"ingroupnonbreeder",1
+"KR30M001","Kuruman 30","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-10-19,99,951,2.603696099,"ingroupnonbreeder",99
+"KR30M004","Kuruman 30","KRR",13,"27/04/2020",10,"Male",81,135.605622,2020-04-27,NA,0,0,"ingroupnonbreeder",1
+"KR30M004","Kuruman 30","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-27,99,30,0.082135524,"ingroupnonbreeder",99
+"KR30M007","Kuruman 30","KRR",13,"28/04/2020",10,"Male",38,135.605622,2020-04-27,NA,0,0,"ingroupnonbreeder",1
+"KR30M007","Kuruman 30","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-27,99,30,0.082135524,"ingroupnonbreeder",99
+"KR30M008","Kuruman 30","KRR",13,"28/04/2020",10,"Male",19,135.605622,2020-04-27,NA,0,0,"ingroupnonbreeder",1
+"KR30M008","Kuruman 30","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-27,99,30,0.082135524,"ingroupnonbreeder",99
+"KR31M002","Kuruman 31","KRR",7,"15/05/2017",3,"Male",92,75.0055436,2017-05-15,NA,0,0,"ingroupnonbreeder",1
+"KR31M002","Kuruman 31","KRR",8,"22/10/2017",6,"Male",114,16.33745678,2017-05-15,NA,160,0.438056126,"ingroupnonbreeder",1
+"KR31M002","Kuruman 31","KRR",9,"01/04/2018",7,"Male",130,121.7158381,2017-05-15,NA,321,0.878850103,"ingroupnonbreeder",1
+"KR31M002",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-05-15,NA,487,1.333333333,"Disappeared",2
+"KR31M003","Kuruman 31","KRR",8,"19/10/2017",6,"Male",66,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR31M003","Kuruman 31","KRR",9,"29/03/2018",7,"Male",103,121.7158381,2017-10-19,NA,161,0.440793977,"ingroupnonbreeder",1
+"KR31M003","Kuruman 45","KRR",12,"30/09/2019",2,"Male",170,0.274765418,2017-10-19,NA,711,1.94661191,"Disappeared",2
+"KR31M010","Kuruman 31","KRR",12,"24/11/2019",13,"Male",62,9.848668221,2019-11-23,NA,0,0,"ingroupnonbreeder",1
+"KR31M010","Kuruman 31","KRR",13,"22/04/2020",17,"Male",104,135.605622,2019-11-23,NA,151,0.413415469,"ingroupnonbreeder",1
+"KR31M010","Kuruman 31","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-11-23,99,186,0.509240246,"ingroupnonbreeder",99
+"KR31M013","Kuruman 31","KRR",12,"25/11/2019",13,"Male",32,9.848668221,2019-11-23,NA,0,0,"ingroupnonbreeder",1
+"KR31M013","Kuruman 31","KRR",13,"21/04/2020",17,"Male",80,135.605622,2019-11-23,NA,150,0.410677618,"ingroupnonbreeder",1
+"KR31M013","Kuruman 31","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-11-23,99,186,0.509240246,"ingroupnonbreeder",99
+"KR31M015","Kuruman 31","KRR",12,"25/11/2019",13,"Male",56,9.848668221,2019-11-23,NA,0,0,"ingroupnonbreeder",1
+"KR31M015","Kuruman 31","KRR",13,"20/04/2020",17,"Male",89,135.605622,2019-11-23,NA,149,0.407939767,"ingroupnonbreeder",1
+"KR31M015","Kuruman 31","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-11-23,99,186,0.509240246,"ingroupnonbreeder",99
+"KR31M021","Kuruman 31","KRR",13,"23/04/2020",17,"Male",24,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR31M021","Kuruman 31","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"KR34M001","Kuruman 34","KRR",8,"09/10/2017",4,"Male",26,16.33745678,2017-10-09,NA,0,0,"ingroupnonbreeder",1
+"KR34M001","Kuruman 34","KRR",11,"06/04/2019",7,"Male",85,89.01727301,2017-10-09,NA,544,1.489390828,"ingroupnonbreeder",1
+"KR34M001","Kuruman 34","KRR",12,"11/09/2019",8,"Male",83,0.397720048,2017-10-09,NA,702,1.921971253,"ingroupnonbreeder",1
+"KR34M001","Kuruman 34","KRR",13,"01/04/2020",8,"Male",98,165.6746387,2017-10-09,NA,905,2.477754962,"ingroupnonbreeder",1
+"KR34M001","Kuruman 34","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-10-09,99,961,2.631074606,"ingroupnonbreeder",99
+"KR34M002","Kuruman 34","KRR",8,"09/10/2017",4,"Male",27,16.33745678,2017-10-09,NA,0,0,"ingroupnonbreeder",1
+"KR34M002","Kuruman 34","KRR",11,"07/04/2019",7,"Male",96,89.01727301,2017-10-09,NA,545,1.492128679,"ingroupnonbreeder",1
+"KR34M002","Kuruman 34","KRR",12,"09/09/2019",8,"Male",86,0.397720048,2017-10-09,NA,700,1.916495551,"ingroupnonbreeder",1
+"KR34M002","Kuruman 34","KRR",13,"02/04/2020",8,"Male",100,165.6746387,2017-10-09,NA,906,2.480492813,"ingroupnonbreeder",1
+"KR34M002","Kuruman 34","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-10-09,99,961,2.631074606,"ingroupnonbreeder",99
+"KR34M003","Kuruman 34","KRR",11,"06/04/2019",7,"Male",60,89.01727301,2019-04-06,NA,0,0,"ingroupnonbreeder",1
+"KR34M003","Kuruman 34","KRR",12,"09/09/2019",8,"Male",118,0.397720048,2019-04-06,NA,156,0.427104723,"ingroupnonbreeder",1
+"KR34M003","Kuruman 34","KRR",13,"01/04/2020",8,"Male",81,165.6746387,2019-04-06,NA,361,0.988364134,"ingroupnonbreeder",1
+"KR34M003","Kuruman 34","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-04-06,99,417,1.141683778,"ingroupnonbreeder",99
+"KR35M002","Kuruman 35","KRR",11,"05/04/2019",5,"Male",65,89.01727301,2019-04-04,NA,0,0,"ingroupnonbreeder",1
+"KR35M002","Kuruman 35","KRR",12,"06/10/2019",7,"Male",94,5.217065306,2019-04-04,NA,185,0.506502396,"ingroupnonbreeder",1
+"KR35M002","Kuruman 35","KRR",13,"14/04/2020",9,"Male",107,135.605622,2019-04-04,NA,376,1.029431896,"ingroupnonbreeder",1
+"KR35M002","Kuruman 35","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-04-04,99,419,1.14715948,"ingroupnonbreeder",99
+"KR35M005","Kuruman 35","KRR",12,"07/10/2019",7,"Male",27,5.217065306,2019-10-06,NA,0,0,"ingroupnonbreeder",1
+"KR35M005","Kuruman 35","KRR",13,"13/04/2020",9,"Male",81,135.605622,2019-10-06,NA,190,0.52019165,"ingroupnonbreeder",1
+"KR35M005","Kuruman 35","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-06,99,234,0.640657084,"ingroupnonbreeder",99
+"KR35M007","Kuruman 35","KRR",13,"13/04/2020",9,"Male",54,135.605622,2020-04-13,NA,0,0,"ingroupnonbreeder",1
+"KR35M007","Kuruman 35","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-13,99,44,0.120465435,"ingroupnonbreeder",99
+"KR35M008","Kuruman 35","KRR",13,"14/04/2020",9,"Male",55,135.605622,2020-04-13,NA,0,0,"ingroupnonbreeder",1
+"KR35M008","Kuruman 35","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-13,99,44,0.120465435,"ingroupnonbreeder",99
+"KR36M002","Kuruman 36","KRR",7,"08/05/2017",14,"Male",74,75.0055436,2017-05-08,NA,0,0,"ingroupnonbreeder",1
+"KR36M002","Kuruman 36","KRR",8,"10/10/2017",14,"Male",98,16.33745678,2017-05-08,NA,155,0.424366872,"ingroupnonbreeder",1
+"KR36M002",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-05-08,NA,313,0.856947296,"Disappeared",2
+"KR36M005","Kuruman 36","KRR",7,"08/05/2017",14,"Male",35,75.0055436,2017-05-08,NA,0,0,"ingroupnonbreeder",1
+"KR36M005","Kuruman 36","KRR",8,"09/10/2017",14,"Male",89,16.33745678,2017-05-08,NA,154,0.421629021,"ingroupnonbreeder",1
+"KR36M005",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-05-08,NA,313,0.856947296,"Disappeared",2
+"KR36M007","Kuruman 36","KRR",7,"09/05/2017",14,"Male",38,75.0055436,2017-05-08,NA,0,0,"ingroupnonbreeder",1
+"KR36M007","Kuruman 36","KRR",8,"09/10/2017",14,"Male",92,16.33745678,2017-05-08,NA,154,0.421629021,"ingroupnonbreeder",1
+"KR36M007","Kuruman 36","KRR",9,"17/04/2018",9,"Male",155,171.3225646,2017-05-08,NA,344,0.941820671,"ingroupnonbreeder",1
+"KR36M007","Kuruman 35","KRR",11,"04/04/2019",5,"Male",135,89.01727301,2017-05-08,NA,696,1.905544148,"Disappeared",2
+"KR36M011","Kuruman 36","KRR",7,"10/05/2017",14,"Male",41,75.0055436,2017-05-08,NA,0,0,"ingroupnonbreeder",1
+"KR36M011",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-05-08,NA,84,0.229979466,"Disappeared",2
+"KR36M014","Kuruman 36","KRR",9,"19/04/2018",9,"Male",53,171.3225646,2018-04-17,NA,0,0,"ingroupnonbreeder",1
+"KR36M014","Kuruman 36","KRR",10,"14/10/2018",12,"Male",107,11.76823613,2018-04-17,NA,180,0.492813142,"ingroupnonbreeder",1
+"KR36M014","Kuruman 36","KRR",11,"15/04/2019",15,"Male",175,89.01727301,2018-04-17,NA,363,0.993839836,"ingroupnonbreeder",1
+"KR36M014",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-04-17,NA,510,1.396303901,"Disappeared",2
+"KR36M016","Kuruman 36","KRR",10,"13/10/2018",12,"Male",85,11.76823613,2018-10-13,NA,0,0,"ingroupnonbreeder",1
+"KR36M016","Kuruman 36","KRR",11,"17/04/2019",15,"Male",156,89.01727301,2018-10-13,NA,186,0.509240246,"ingroupnonbreeder",1
+"KR36M016","Kuruman 36","KRR",13,"11/05/2020",8,"Male",154,64.81177172,2018-10-13,NA,576,1.577002053,"ingroupnonbreeder",1
+"KR36M016","Kuruman 36","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-10-13,99,592,1.620807666,"ingroupnonbreeder",99
+"KR36M017","Kuruman 36","KRR",10,"13/10/2018",12,"Male",71,11.76823613,2018-10-13,NA,0,0,"ingroupnonbreeder",1
+"KR36M017","Kuruman 36","KRR",11,"15/04/2019",15,"Male",152,89.01727301,2018-10-13,NA,184,0.503764545,"ingroupnonbreeder",1
+"KR36M017",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-10-13,NA,331,0.906228611,"Disappeared",2
+"KR36M021","Kuruman 36","KRR",11,"15/04/2019",15,"Male",63,89.01727301,2019-04-15,NA,0,0,"ingroupnonbreeder",1
+"KR36M021",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2019-04-15,NA,147,0.402464066,"Disappeared",2
+"KR36M022","Kuruman 36","KRR",11,"16/04/2019",15,"Male",73,89.01727301,2019-04-15,NA,0,0,"ingroupnonbreeder",1
+"KR36M022","Kuruman 36","KRR",13,"11/05/2020",8,"Male",107,64.81177172,2019-04-15,NA,392,1.073237509,"ingroupnonbreeder",1
+"KR36M022","Kuruman 36","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-04-15,99,408,1.117043121,"ingroupnonbreeder",99
+"KR38M001","Kuruman 38","KRR",8,"21/10/2017",4,"Male",13,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR38M001",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-10-19,NA,149,0.407939767,"Disappeared",2
+"KR38M002","Kuruman 38","KRR",8,"21/10/2017",4,"Male",13,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR38M002",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-10-19,NA,149,0.407939767,"Disappeared",2
+"KR38M003","Kuruman 38","KRR",8,"21/10/2017",4,"Male",14,16.33745678,2017-10-19,NA,0,0,"ingroupnonbreeder",1
+"KR38M003",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-10-19,NA,149,0.407939767,"Disappeared",2
+"KR38M004","Kuruman 38","KRR",11,"17/04/2019",3,"Male",50,89.01727301,2019-04-17,NA,0,0,"ingroupnonbreeder",1
+"KR38M004",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2019-04-17,NA,145,0.396988364,"Disappeared",2
+"KR39M001","Kuruman 39","KRR",10,"28/11/2018",5,"Male",48,17.16380656,2018-11-27,NA,0,0,"ingroupnonbreeder",1
+"KR39M001","Kuruman 39","KRR",11,"19/03/2019",5,"Male",63,69.35182863,2018-11-27,NA,112,0.306639288,"ingroupnonbreeder",1
+"KR39M001","Kuruman 39","KRR",12,"17/09/2019",6,"Male",90,0.397720048,2018-11-27,NA,294,0.804928131,"ingroupnonbreeder",1
+"KR39M001","Kuruman 39","KRR",13,"16/03/2020",6,"Male",113,165.6746387,2018-11-27,NA,475,1.300479124,"ingroupnonbreeder",1
+"KR39M001","Kuruman 39","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2018-11-27,99,547,1.497604381,"ingroupnonbreeder",99
+"KR39M002","Kuruman 39","KRR",10,"27/11/2018",5,"Male",51,17.16380656,2018-11-27,NA,0,0,"ingroupnonbreeder",1
+"KR39M002","Kuruman 39","KRR",11,"20/03/2019",5,"Male",75,69.35182863,2018-11-27,NA,113,0.309377139,"ingroupnonbreeder",1
+"KR39M002","Kuruman 39","KRR",12,"17/09/2019",6,"Male",102,0.397720048,2018-11-27,NA,294,0.804928131,"ingroupnonbreeder",1
+"KR39M002",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2018-11-27,NA,464,1.270362765,"Disappeared",2
+"KR39M003","Kuruman 39","KRR",12,"17/09/2019",6,"Male",26,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR39M003","Kuruman 39","KRR",13,"17/03/2020",6,"Male",56,165.6746387,2019-09-16,NA,183,0.501026694,"ingroupnonbreeder",1
+"KR39M003","Kuruman 39","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-09-16,99,254,0.6954141,"ingroupnonbreeder",99
+"KR39M004","Kuruman 39","KRR",12,"17/09/2019",6,"Male",29,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR39M004","Kuruman 39","KRR",13,"17/03/2020",6,"Male",72,165.6746387,2019-09-16,NA,183,0.501026694,"ingroupnonbreeder",1
+"KR39M004","Kuruman 39","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-09-16,99,254,0.6954141,"ingroupnonbreeder",99
+"KR39M005","Kuruman 39","KRR",13,"19/03/2020",6,"Male",20,165.6746387,2020-03-16,NA,0,0,"ingroupnonbreeder",1
+"KR39M005","Kuruman 39","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-03-16,99,72,0.197125257,"ingroupnonbreeder",99
+"KR42M003","Kuruman 42","KRR",11,"13/03/2019",6,"Male",15,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR42M003","Kuruman 42","KRR",12,"07/10/2019",7,"Male",72,5.217065306,2019-03-12,NA,209,0.572210815,"ingroupnonbreeder",1
+"KR42M003","Kuruman 42","KRR",13,"11/03/2020",7,"Male",93,165.6746387,2019-03-12,NA,365,0.999315537,"ingroupnonbreeder",1
+"KR42M003","Kuruman 42","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR42M004","Kuruman 42","KRR",11,"13/03/2019",6,"Male",12,69.35182863,2019-03-12,NA,0,0,"ingroupnonbreeder",1
+"KR42M004","Kuruman 42","KRR",12,"06/10/2019",7,"Male",69,5.217065306,2019-03-12,NA,208,0.569472964,"ingroupnonbreeder",1
+"KR42M004","Kuruman 42","KRR",13,"10/03/2020",7,"Male",94,165.6746387,2019-03-12,NA,364,0.996577687,"ingroupnonbreeder",1
+"KR42M004","Kuruman 42","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-12,99,442,1.210130048,"ingroupnonbreeder",99
+"KR43M001","Kuruman 43","KRR",10,"24/11/2018",5,"Male",37,17.16380656,2018-11-22,NA,0,0,"ingroupnonbreeder",1
+"KR43M001","Kuruman 43","KRR",11,"20/03/2019",5,"Male",63,69.35182863,2018-11-22,NA,118,0.323066393,"ingroupnonbreeder",1
+"KR43M001",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-11-22,NA,291,0.796714579,"Disappeared",2
+"KR43M005","Kuruman 43","KRR",12,"19/09/2019",7,"Male",35,0.397720048,2019-09-16,NA,0,0,"ingroupnonbreeder",1
+"KR43M005","Kuruman 43","KRR",13,"17/03/2020",10,"Male",82,165.6746387,2019-09-16,NA,183,0.501026694,"ingroupnonbreeder",1
+"KR43M005","Kuruman 43","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-09-16,99,254,0.6954141,"ingroupnonbreeder",99
+"KR45M002","Kuruman 45","KRR",13,"24/03/2020",3,"Male",98,165.6746387,2020-03-23,NA,0,0,"ingroupnonbreeder",1
+"KR45M002","Kuruman 45","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-03-23,99,65,0.177960301,"ingroupnonbreeder",99
+"KR49M004","Kuruman 49","KRR",12,"28/10/2019",17,"Male",63,5.217065306,2019-10-28,NA,0,0,"ingroupnonbreeder",1
+"KR49M004","Kuruman 49","KRR",13,"20/05/2020",13,"Male",90,64.81177172,2019-10-28,NA,205,0.561259411,"ingroupnonbreeder",1
+"KR49M004","Kuruman 49","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-28,99,212,0.580424367,"ingroupnonbreeder",99
+"KR49M015","Kuruman 49","KRR",12,"29/10/2019",17,"Male",28,5.217065306,2019-10-28,NA,0,0,"ingroupnonbreeder",1
+"KR49M015",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2019-10-28,NA,129,0.353182752,"Disappeared",2
+"KR49M019","Kuruman 49","KRR",13,"20/05/2020",13,"Male",57,64.81177172,2020-05-19,NA,0,0,"ingroupnonbreeder",1
+"KR49M019","Kuruman 49","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-05-19,99,8,0.021902806,"ingroupnonbreeder",99
+"KR49M020","Kuruman 49","KRR",13,"20/05/2020",13,"Male",69,64.81177172,2020-05-19,NA,0,0,"ingroupnonbreeder",1
+"KR49M020","Kuruman 49","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-05-19,99,8,0.021902806,"ingroupnonbreeder",99
+"KR53M003","Kuruman 53","KRR",13,"23/04/2020",5,"Male",60,135.605622,2020-04-22,NA,0,0,"ingroupnonbreeder",1
+"KR53M003","Kuruman 53","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-22,99,35,0.095824778,"ingroupnonbreeder",99
+"KR53M004","Kuruman 53","KRR",13,"23/04/2020",5,"Male",50,135.605622,2020-04-22,NA,0,0,"ingroupnonbreeder",1
+"KR53M004","Kuruman 53","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-22,99,35,0.095824778,"ingroupnonbreeder",99
+"KR7M016","Kuruman 7","KRR",1,"06/12/2013",17,"Male",63,87.00237235,2013-12-03,NA,0,0,"ingroupnonbreeder",1
+"KR7M016","Kuruman 7","KRR",2,"08/08/2014",6,"Male",99,4.644637189,2013-12-03,NA,248,0.678986995,"ingroupnonbreeder",1
+"KR7M016","Kuruman 7","KRR",3,"03/03/2015",5,"Male",112,108.703723,2013-12-03,NA,455,1.245722108,"ingroupnonbreeder",1
+"KR7M016","Kuruman 8","KRR",7,"06/02/2017",12,"Male",NA,209.6293089,2013-12-03,NA,1161,3.178644764,"Disappeared",2
+"KR7M018","Kuruman 7","KRR",10,"14/11/2018",4,"Male",35,17.16380656,2018-11-13,NA,0,0,"ingroupnonbreeder",1
+"KR7M018","Kuruman 7","KRR",11,"09/03/2019",6,"Male",67,69.35182863,2018-11-13,NA,116,0.317590691,"ingroupnonbreeder",1
+"KR7M018","Kuruman 7","KRR",12,"30/09/2019",11,"Male",110,0.274765418,2018-11-13,NA,321,0.878850103,"ingroupnonbreeder",1
+"KR7M018",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2018-11-13,NA,478,1.308692676,"Disappeared",2
+"KR7M021","Kuruman 7","KRR",11,"10/03/2019",6,"Male",51,69.35182863,2019-03-09,NA,0,0,"ingroupnonbreeder",1
+"KR7M021","Kuruman 7","KRR",12,"01/10/2019",11,"Male",97,0.274765418,2019-03-09,NA,206,0.563997262,"ingroupnonbreeder",1
+"KR7M021",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2019-03-09,NA,362,0.991101985,"Disappeared",2
+"KR7M022","Kuruman 7","KRR",12,"30/09/2019",11,"Male",47,0.274765418,2019-09-30,NA,0,0,"ingroupnonbreeder",1
+"KR7M022","Kuruman 7","KRR",13,"20/05/2020",6,"Male",95,64.81177172,2019-09-30,NA,233,0.637919233,"ingroupnonbreeder",1
+"KR7M022","Kuruman 7","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-09-30,99,240,0.657084189,"ingroupnonbreeder",99
+"KR7M025","Kuruman 7","KRR",12,"02/10/2019",11,"Male",27,0.274765418,2019-09-30,NA,0,0,"ingroupnonbreeder",1
+"KR7M025",NA,"KRR",NA,"05/03/2020",NA,"Male",NA,NA,2019-09-30,NA,157,0.429842574,"Disappeared",2
+"KR7M027","Kuruman 7","KRR",13,"20/05/2020",6,"Male",74,64.81177172,2020-05-20,NA,0,0,"ingroupnonbreeder",1
+"KR7M027","Kuruman 7","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-05-20,99,7,0.019164956,"ingroupnonbreeder",99
+"KR8M010","Kuruman 8","KRR",7,"07/02/2017",12,"Male",66,209.6293089,2017-02-06,NA,0,0,"ingroupnonbreeder",1
+"KR8M010","Kuruman 8","KRR",8,"14/08/2017",11,"Male",101,1.34743409,2017-02-06,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR8M010",NA,"KRR",NA,"17/03/2018",NA,"Male",NA,NA,2017-02-06,NA,404,1.106091718,"Disappeared",2
+"KR8M013","Kuruman 8","KRR",7,"08/02/2017",12,"Male",90,209.6293089,2017-02-06,NA,0,0,"ingroupnonbreeder",1
+"KR8M013","Kuruman 8","KRR",8,"16/08/2017",11,"Male",143,1.34743409,2017-02-06,NA,191,0.5229295,"ingroupnonbreeder",1
+"KR8M013","Kuruman 8","KRR",9,"02/05/2018",16,"Male",175,171.3225646,2017-02-06,NA,450,1.232032854,"ingroupnonbreeder",1
+"KR8M013","Kuruman 8","KRR",10,"05/11/2018",16,"Male",180,17.16380656,2017-02-06,NA,637,1.744010951,"ingroupnonbreeder",1
+"KR8M013","Kuruman 8","KRR",11,"10/03/2019",15,"Male",198,69.35182863,2017-02-06,NA,762,2.0862423,"ingroupnonbreeder",1
+"KR8M013","Kuruman 8","KRR",12,"16/10/2019",15,"Male",190,5.217065306,2017-02-06,NA,982,2.688569473,"ingroupnonbreeder",1
+"KR8M013","Kuruman 8","KRR",13,"21/04/2020",22,"Male",189,135.605622,2017-02-06,NA,1170,3.203285421,"ingroupnonbreeder",1
+"KR8M013","Kuruman 8","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2017-02-06,99,1206,3.301848049,"ingroupnonbreeder",99
+"KR8M015","Kuruman 8","KRR",7,"08/02/2017",12,"Male",14,209.6293089,2017-02-06,NA,0,0,"ingroupnonbreeder",1
+"KR8M015",NA,"KRR",NA,"31/07/2017",NA,"Male",NA,NA,2017-02-06,NA,175,0.479123888,"Disappeared",2
+"KR8M018","Kuruman 8","KRR",8,"15/08/2017",11,"Male",50,1.34743409,2017-08-14,NA,0,0,"ingroupnonbreeder",1
+"KR8M018","Kuruman 8","KRR",9,"02/05/2018",16,"Male",121,171.3225646,2017-08-14,NA,261,0.714579055,"ingroupnonbreeder",1
+"KR8M018","Kuruman 8","KRR",10,"09/11/2018",16,"Male",128,17.16380656,2017-08-14,NA,452,1.237508556,"ingroupnonbreeder",1
+"KR8M018",NA,"KRR",NA,"09/03/2019",NA,"Male",NA,NA,2017-08-14,NA,572,1.56605065,"Disappeared",2
+"KR8M019","Kuruman 8","KRR",8,"15/08/2017",11,"Male",72,1.34743409,2017-08-14,NA,0,0,"ingroupnonbreeder",1
+"KR8M019","Kuruman 8","KRR",9,"01/05/2018",16,"Male",122,171.3225646,2017-08-14,NA,260,0.711841205,"ingroupnonbreeder",1
+"KR8M019",NA,"KRR",NA,"14/09/2018",NA,"Male",NA,NA,2017-08-14,NA,396,1.084188912,"Disappeared",2
+"KR8M020","Kuruman 8","KRR",9,"30/04/2018",16,"Male",45,171.3225646,2018-04-30,NA,0,0,"ingroupnonbreeder",1
+"KR8M020","Kuruman 8","KRR",10,"07/11/2018",16,"Male",96,17.16380656,2018-04-30,NA,191,0.5229295,"ingroupnonbreeder",1
+"KR8M020","Kuruman 8","KRR",11,"10/03/2019",15,"Male",119,69.35182863,2018-04-30,NA,314,0.859685147,"ingroupnonbreeder",1
+"KR8M020",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-04-30,NA,497,1.360711841,"Disappeared",2
+"KR8M022","Kuruman 8","KRR",9,"02/05/2018",16,"Male",75,171.3225646,2018-04-30,NA,0,0,"ingroupnonbreeder",1
+"KR8M022","Kuruman 8","KRR",10,"05/11/2018",16,"Male",108,17.16380656,2018-04-30,NA,189,0.517453799,"ingroupnonbreeder",1
+"KR8M022","Kuruman 8","KRR",11,"10/03/2019",15,"Male",137,69.35182863,2018-04-30,NA,314,0.859685147,"ingroupnonbreeder",1
+"KR8M022",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-04-30,NA,497,1.360711841,"Disappeared",2
+"KR8M026","Kuruman 8","KRR",9,"02/05/2018",16,"Male",64,171.3225646,2018-04-30,NA,0,0,"ingroupnonbreeder",1
+"KR8M026","Kuruman 8","KRR",10,"07/11/2018",16,"Male",124,17.16380656,2018-04-30,NA,191,0.5229295,"ingroupnonbreeder",1
+"KR8M026","Kuruman 8","KRR",11,"10/03/2019",15,"Male",143,69.35182863,2018-04-30,NA,314,0.859685147,"ingroupnonbreeder",1
+"KR8M026",NA,"KRR",NA,"09/09/2019",NA,"Male",NA,NA,2018-04-30,NA,497,1.360711841,"Disappeared",2
+"KR8M032","Kuruman 8","KRR",11,"10/03/2019",15,"Male",47,69.35182863,2019-03-09,NA,0,0,"ingroupnonbreeder",1
+"KR8M032","Kuruman 8","KRR",12,"15/10/2019",15,"Male",106,5.217065306,2019-03-09,NA,220,0.602327173,"ingroupnonbreeder",1
+"KR8M032","Kuruman 8","KRR",13,"21/04/2020",22,"Male",125,135.605622,2019-03-09,NA,409,1.119780972,"ingroupnonbreeder",1
+"KR8M032","Kuruman 8","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-03-09,99,445,1.2183436,"ingroupnonbreeder",99
+"KR8M034","Kuruman 8","KRR",12,"16/10/2019",15,"Male",67,5.217065306,2019-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR8M034","Kuruman 8","KRR",13,"20/04/2020",22,"Male",107,135.605622,2019-10-15,NA,188,0.514715948,"ingroupnonbreeder",1
+"KR8M034","Kuruman 8","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-15,99,225,0.616016427,"ingroupnonbreeder",99
+"KR8M035","Kuruman 8","KRR",12,"16/10/2019",15,"Male",80,5.217065306,2019-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR8M035","Kuruman 8","KRR",13,"20/04/2020",22,"Male",120,135.605622,2019-10-15,NA,188,0.514715948,"ingroupnonbreeder",1
+"KR8M035","Kuruman 8","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-15,99,225,0.616016427,"ingroupnonbreeder",99
+"KR8M037","Kuruman 8","KRR",12,"16/10/2019",15,"Male",54,5.217065306,2019-10-15,NA,0,0,"ingroupnonbreeder",1
+"KR8M037","Kuruman 8","KRR",13,"20/04/2020",22,"Male",100,135.605622,2019-10-15,NA,188,0.514715948,"ingroupnonbreeder",1
+"KR8M037","Kuruman 8","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2019-10-15,99,225,0.616016427,"ingroupnonbreeder",99
+"KR8M044","Kuruman 8","KRR",13,"21/04/2020",22,"Male",22,135.605622,2020-04-20,NA,0,0,"ingroupnonbreeder",1
+"KR8M044","Kuruman 8","KRR",NA,"27/05/2020",NA,"Male",NA,64.81177172,2020-04-20,99,37,0.101300479,"ingroupnonbreeder",99
+"L10M007","Lonely 10","Lonely",7,"23/06/2017",8,"Male",32,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L10M007","Lonely 10","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L11M027","Lonely 11","Lonely",7,"30/05/2017",6,"Male",77,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L11M027","Lonely 11","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L11M028","Lonely 11","Lonely",7,"30/05/2017",6,"Male",72,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L11M028","Lonely 11","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L11M029","Lonely 11","Lonely",7,"30/05/2017",6,"Male",75,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L11M029","Lonely 11","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L13M013","Lonely 13","Lonely",2,"04/03/2014",10,"Male",37,263.0608928,2014-03-01,NA,0,0,"ingroupnonbreeder",1
+"L13M013",NA,"Lonely",NA,"16/09/2014",10,"Male",NA,NA,2014-03-01,NA,199,0.544832307,"Disappeared",2
+"L13M018","Lonely 13","Lonely",3,"18/09/2014",8,"Male",16,6.702013991,2014-09-16,NA,0,0,"ingroupnonbreeder",1
+"L13M018",NA,"Lonely",NA,"29/01/2015",8,"Male",NA,NA,2014-09-16,NA,135,0.369609856,"Disappeared",2
+"L13M019","Lonely 13","Lonely",3,"19/09/2014",8,"Male",16,6.702013991,2014-09-16,NA,0,0,"ingroupnonbreeder",1
+"L13M019",NA,"Lonely",NA,"29/01/2015",8,"Male",NA,NA,2014-09-16,NA,135,0.369609856,"Disappeared",2
+"L13M022","Lonely 13","Lonely",4,"27/03/2015",8,"Male",33,108.703723,2015-03-26,NA,0,0,"ingroupnonbreeder",1
+"L13M022","Lonely 13","Lonely",5,"23/02/2016",12,"Male",112,111.7311443,2015-03-26,NA,334,0.914442163,"ingroupnonbreeder",1
+"L13M022",NA,"Lonely",NA,"09/09/2016",12,"Male",NA,NA,2015-03-26,NA,533,1.45927447,"Disappeared",2
+"L13M023","Lonely 13","Lonely",4,"27/03/2015",8,"Male",31,108.703723,2015-03-26,NA,0,0,"ingroupnonbreeder",1
+"L13M023","Lonely 13","Lonely",5,"23/02/2016",12,"Male",113,111.7311443,2015-03-26,NA,334,0.914442163,"ingroupnonbreeder",1
+"L13M023","Lonely 11","Lonely",7,"30/05/2017",6,"Male",134,75.0055436,2015-03-26,NA,796,2.179329227,"Disappeared",2
+"L13M024","Lonely 13","Lonely",5,"22/02/2016",12,"Male",39,111.7311443,2016-02-22,NA,0,0,"ingroupnonbreeder",1
+"L13M024",NA,"Lonely",NA,"09/09/2016",12,"Male",NA,NA,2016-02-22,NA,200,0.547570157,"Disappeared",2
+"L13M026","Lonely 13","Lonely",5,"23/02/2016",12,"Male",84,111.7311443,2016-02-22,NA,0,0,"ingroupnonbreeder",1
+"L13M026","Lonely 23","Lonely",7,"04/07/2017",7,"Male",153,2.493346736,2016-02-22,NA,498,1.363449692,"Disappeared",2
+"L13M027","Lonely 13","Lonely",5,"23/02/2016",12,"Male",81,111.7311443,2016-02-22,NA,0,0,"ingroupnonbreeder",1
+"L13M027",NA,"Lonely",NA,"09/09/2016",12,"Male",NA,NA,2016-02-22,NA,200,0.547570157,"Disappeared",2
+"L13M028","Lonely 13","Lonely",5,"24/02/2016",12,"Male",37,111.7311443,2016-02-22,NA,0,0,"ingroupnonbreeder",1
+"L13M028","Lonely 13","Lonely",6,"10/09/2016",8,"Male",105,4.678070845,2016-02-22,NA,201,0.550308008,"ingroupnonbreeder",1
+"L13M028","Lonely 13","Lonely",7,"05/06/2017",10,"Male",123,52.75207139,2016-02-22,NA,469,1.284052019,"ingroupnonbreeder",1
+"L13M028","Lonely 13","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-02-22,99,527,1.442847365,"ingroupnonbreeder",99
+"L13M031","Lonely 13","Lonely",6,"10/09/2016",8,"Male",94,4.678070845,2016-09-10,NA,0,0,"ingroupnonbreeder",1
+"L13M031","Lonely 13","Lonely",7,"05/06/2017",10,"Male",121,52.75207139,2016-09-10,NA,268,0.733744011,"ingroupnonbreeder",1
+"L13M031","Lonely 13","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-10,99,326,0.892539357,"ingroupnonbreeder",99
+"L13M034","Lonely 13","Lonely",7,"06/06/2017",10,"Male",78,52.75207139,2017-06-05,NA,0,0,"ingroupnonbreeder",1
+"L13M034","Lonely 13","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-05,99,58,0.158795346,"ingroupnonbreeder",99
+"L13M036","Lonely 13","Lonely",7,"07/06/2017",10,"Male",79,52.75207139,2017-06-05,NA,0,0,"ingroupnonbreeder",1
+"L13M036","Lonely 13","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-05,99,58,0.158795346,"ingroupnonbreeder",99
+"L14M002","Lonely 14","Lonely",2,"02/03/2014",13,"Male",47,263.0608928,2014-03-01,NA,0,0,"ingroupnonbreeder",1
+"L14M002","Lonely 14","Lonely",3,"16/09/2014",8,"Male",105,6.702013991,2014-03-01,NA,199,0.544832307,"ingroupnonbreeder",1
+"L14M002","Lonely 62","Lonely",4,"31/01/2015",2,"Male",123,72.65603459,2014-03-01,NA,336,0.919917864,"Disappeared",2
+"L14M003","Lonely 14","Lonely",2,"02/03/2014",13,"Male",44,263.0608928,2014-03-01,NA,0,0,"ingroupnonbreeder",1
+"L14M003",NA,"Lonely",NA,"16/09/2014",13,"Male",NA,NA,2014-03-01,NA,199,0.544832307,"Disappeared",2
+"L14M007","Lonely 14","Lonely",2,"03/03/2014",13,"Male",95,263.0608928,2014-03-01,NA,0,0,"ingroupnonbreeder",1
+"L14M007",NA,"Lonely",NA,"16/09/2014",13,"Male",NA,NA,2014-03-01,NA,199,0.544832307,"Disappeared",2
+"L14M012","Lonely 14","Lonely",2,"03/03/2014",13,"Male",51,263.0608928,2014-03-01,NA,0,0,"ingroupnonbreeder",1
+"L14M012","Lonely 14","Lonely",3,"17/09/2014",8,"Male",115,6.702013991,2014-03-01,NA,200,0.547570157,"ingroupnonbreeder",1
+"L14M012",NA,"Lonely",NA,"29/01/2015",8,"Male",NA,NA,2014-03-01,NA,334,0.914442163,"Disappeared",2
+"L14M022","Lonely 14","Lonely",5,"08/02/2016",12,"Male",73,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L14M022","Lonely 14","Lonely",6,"09/09/2016",9,"Male",120,4.678070845,2016-02-08,NA,214,0.585900068,"ingroupnonbreeder",1
+"L14M022","Lonely 14","Lonely",7,"31/05/2017",13,"Male",148,75.0055436,2016-02-08,NA,478,1.308692676,"ingroupnonbreeder",1
+"L14M022","Lonely 14","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-02-08,99,541,1.481177276,"ingroupnonbreeder",99
+"L14M024","Lonely 14","Lonely",5,"10/02/2016",12,"Male",42,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L14M024","Lonely 14","Lonely",6,"10/09/2016",9,"Male",98,4.678070845,2016-02-08,NA,215,0.588637919,"ingroupnonbreeder",1
+"L14M024","Lonely 14","Lonely",7,"30/05/2017",13,"Male",126,75.0055436,2016-02-08,NA,477,1.305954825,"ingroupnonbreeder",1
+"L14M024","Lonely 14","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-02-08,99,541,1.481177276,"ingroupnonbreeder",99
+"L14M026","Lonely 14","Lonely",5,"11/02/2016",12,"Male",45,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L14M026","Lonely 14","Lonely",6,"10/09/2016",9,"Male",105,4.678070845,2016-02-08,NA,215,0.588637919,"ingroupnonbreeder",1
+"L14M026","Lonely 14","Lonely",7,"30/05/2017",13,"Male",138,75.0055436,2016-02-08,NA,477,1.305954825,"ingroupnonbreeder",1
+"L14M026","Lonely 14","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-02-08,99,541,1.481177276,"ingroupnonbreeder",99
+"L14M028","Lonely 14","Lonely",6,"10/09/2016",9,"Male",65,4.678070845,2016-09-09,NA,0,0,"ingroupnonbreeder",1
+"L14M028","Lonely 14","Lonely",7,"30/05/2017",13,"Male",114,75.0055436,2016-09-09,NA,263,0.720054757,"ingroupnonbreeder",1
+"L14M028","Lonely 14","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-09,99,327,0.895277207,"ingroupnonbreeder",99
+"L14M029","Lonely 14","Lonely",7,"30/05/2017",13,"Male",68,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L14M029","Lonely 14","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L14M032","Lonely 14","Lonely",7,"01/06/2017",13,"Male",29,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L14M032","Lonely 14","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L15M004","Lonely 15","Lonely",5,"26/02/2016",7,"Male",40,111.7311443,2016-02-24,NA,0,0,"ingroupnonbreeder",1
+"L15M004","Lonely 15","Lonely",6,"09/09/2016",8,"Male",89,4.678070845,2016-02-24,NA,198,0.542094456,"ingroupnonbreeder",1
+"L15M004","Lonely 15","Lonely",7,"05/06/2017",10,"Male",118,52.75207139,2016-02-24,NA,467,1.278576318,"ingroupnonbreeder",1
+"L15M004","Lonely 15","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-02-24,99,525,1.437371663,"ingroupnonbreeder",99
+"L15M007","Lonely 15","Lonely",5,"27/02/2016",7,"Male",38,111.7311443,2016-02-24,NA,0,0,"ingroupnonbreeder",1
+"L15M007","Lonely 15","Lonely",6,"09/09/2016",8,"Male",82,4.678070845,2016-02-24,NA,198,0.542094456,"ingroupnonbreeder",1
+"L15M007","Lonely 15","Lonely",7,"05/06/2017",10,"Male",91,52.75207139,2016-02-24,NA,467,1.278576318,"ingroupnonbreeder",1
+"L15M007","Lonely 15","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-02-24,99,525,1.437371663,"ingroupnonbreeder",99
+"L15M010","Lonely 15","Lonely",7,"05/06/2017",10,"Male",46,52.75207139,2017-06-05,NA,0,0,"ingroupnonbreeder",1
+"L15M010","Lonely 15","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-05,99,58,0.158795346,"ingroupnonbreeder",99
+"L15M011","Lonely 15","Lonely",7,"05/06/2017",10,"Male",57,52.75207139,2017-06-05,NA,0,0,"ingroupnonbreeder",1
+"L15M011","Lonely 15","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-05,99,58,0.158795346,"ingroupnonbreeder",99
+"L16M003","Lonely 16","Lonely",3,"11/10/2014",8,"Male",21,12.20183183,2014-10-09,NA,0,0,"ingroupnonbreeder",1
+"L16M003",NA,"Lonely",NA,"29/01/2015",8,"Male",NA,NA,2014-10-09,NA,112,0.306639288,"Disappeared",2
+"L16M005","Lonely 16","Lonely",3,"11/10/2014",8,"Male",18,12.20183183,2014-10-09,NA,0,0,"ingroupnonbreeder",1
+"L16M005",NA,"Lonely",NA,"29/01/2015",8,"Male",NA,NA,2014-10-09,NA,112,0.306639288,"Disappeared",2
+"L16M011","Lonely 16","Lonely",6,"16/09/2016",9,"Male",36,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L16M011","Lonely 16","Lonely",7,"27/06/2017",12,"Male",96,52.75207139,2016-09-16,NA,284,0.777549624,"ingroupnonbreeder",1
+"L16M011","Lonely 16","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L16M012","Lonely 16","Lonely",6,"17/09/2016",9,"Male",30,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L16M012","Lonely 16","Lonely",7,"27/06/2017",12,"Male",90,52.75207139,2016-09-16,NA,284,0.777549624,"ingroupnonbreeder",1
+"L16M012","Lonely 16","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L16M014","Lonely 16","Lonely",6,"17/09/2016",9,"Male",73,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L16M014","Lonely 16","Lonely",7,"28/06/2017",12,"Male",99,52.75207139,2016-09-16,NA,285,0.780287474,"ingroupnonbreeder",1
+"L16M014","Lonely 16","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L16M015","Lonely 16","Lonely",7,"27/06/2017",12,"Male",46,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L16M015","Lonely 16","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L16M017","Lonely 16","Lonely",7,"28/06/2017",12,"Male",42,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L16M017","Lonely 16","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L16M018","Lonely 16","Lonely",7,"29/06/2017",12,"Male",55,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L16M018","Lonely 16","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L18M005","Lonely 18","Lonely",2,"14/03/2014",14,"Male",87,189.4909852,2014-03-11,NA,0,0,"ingroupnonbreeder",1
+"L18M005",NA,"Lonely",NA,"16/09/2014",14,"Male",NA,NA,2014-03-11,NA,189,0.517453799,"Disappeared",2
+"L18M012","Lonely 18","Lonely",2,"16/03/2014",14,"Male",56,189.4909852,2014-03-11,NA,5,0.013689254,"ingroupnonbreeder",1
+"L18M012","Lonely 18","Lonely",3,"01/10/2014",9,"Male",83,5.448128916,2014-03-11,NA,204,0.558521561,"ingroupnonbreeder",1
+"L18M012",NA,"Lonely",NA,"29/01/2015",9,"Male",NA,NA,2014-03-11,NA,324,0.887063655,"Disappeared",2
+"L18M017","Lonely 18","Lonely",7,"27/06/2017",7,"Male",50,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L18M017","Lonely 18","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L18M018","Lonely 18","Lonely",7,"28/06/2017",7,"Male",57,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L18M018","Lonely 18","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L18M019","Lonely 18","Lonely",7,"29/06/2017",7,"Male",79,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L18M019","Lonely 18","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L20M007","Lonely 20","Lonely",6,"07/10/2016",11,"Male",59,7.862713041,2016-10-06,NA,0,0,"ingroupnonbreeder",1
+"L20M007","Lonely 20","Lonely",7,"20/07/2017",10,"Male",115,2.493346736,2016-10-06,NA,287,0.785763176,"ingroupnonbreeder",1
+"L20M007","Lonely 20","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-10-06,99,300,0.821355236,"ingroupnonbreeder",99
+"L20M008","Lonely 20","Lonely",6,"07/10/2016",11,"Male",67,7.862713041,2016-10-06,NA,0,0,"ingroupnonbreeder",1
+"L20M008","Lonely 20","Lonely",7,"21/07/2017",10,"Male",113,2.493346736,2016-10-06,NA,288,0.788501027,"ingroupnonbreeder",1
+"L20M008","Lonely 20","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-10-06,99,300,0.821355236,"ingroupnonbreeder",99
+"L20M009","Lonely 20","Lonely",6,"08/10/2016",11,"Male",60,7.862713041,2016-10-06,NA,0,0,"ingroupnonbreeder",1
+"L20M009","Lonely 20","Lonely",7,"20/07/2017",10,"Male",115,2.493346736,2016-10-06,NA,287,0.785763176,"ingroupnonbreeder",1
+"L20M009","Lonely 20","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-10-06,99,300,0.821355236,"ingroupnonbreeder",99
+"L20M012","Lonely 20","Lonely",7,"20/07/2017",10,"Male",70,2.493346736,2017-07-20,NA,0,0,"ingroupnonbreeder",1
+"L20M012","Lonely 20","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-20,99,13,0.03559206,"ingroupnonbreeder",99
+"L20M013","Lonely 20","Lonely",7,"21/07/2017",10,"Male",89,2.493346736,2017-07-20,NA,0,0,"ingroupnonbreeder",1
+"L20M013","Lonely 20","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-20,99,13,0.03559206,"ingroupnonbreeder",99
+"L23M001","Lonely 23","Lonely",7,"04/07/2017",7,"Male",79,2.493346736,2017-07-04,NA,0,0,"ingroupnonbreeder",1
+"L23M001","Lonely 23","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-04,99,29,0.079397673,"ingroupnonbreeder",99
+"L23M002","Lonely 23","Lonely",7,"04/07/2017",7,"Male",86,2.493346736,2017-07-04,NA,0,0,"ingroupnonbreeder",1
+"L23M002","Lonely 23","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-04,99,29,0.079397673,"ingroupnonbreeder",99
+"L23M003","Lonely 23","Lonely",7,"05/07/2017",7,"Male",60,2.493346736,2017-07-04,NA,0,0,"ingroupnonbreeder",1
+"L23M003","Lonely 23","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-04,99,29,0.079397673,"ingroupnonbreeder",99
+"L23M005","Lonely 23","Lonely",7,"07/07/2017",7,"Male",17,2.493346736,2017-07-04,NA,0,0,"ingroupnonbreeder",1
+"L23M005","Lonely 23","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-04,99,29,0.079397673,"ingroupnonbreeder",99
+"L25M003","Lonely 25","Lonely",7,"22/06/2017",6,"Male",63,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L25M003","Lonely 25","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L25M004","Lonely 25","Lonely",7,"22/06/2017",6,"Male",64,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L25M004","Lonely 25","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L25M005","Lonely 25","Lonely",7,"23/06/2017",6,"Male",43,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L25M005","Lonely 25","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L26M006","Lonely 26","Lonely",6,"07/10/2016",10,"Male",75,7.862713041,2016-10-06,NA,0,0,"ingroupnonbreeder",1
+"L26M006","Lonely 26","Lonely",7,"14/07/2017",10,"Male",116,2.493346736,2016-10-06,NA,281,0.769336071,"ingroupnonbreeder",1
+"L26M006","Lonely 26","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-10-06,99,300,0.821355236,"ingroupnonbreeder",99
+"L26M009","Lonely 26","Lonely",6,"08/10/2016",10,"Male",33,7.862713041,2016-10-06,NA,0,0,"ingroupnonbreeder",1
+"L26M009","Lonely 26","Lonely",7,"14/07/2017",10,"Male",95,2.493346736,2016-10-06,NA,281,0.769336071,"ingroupnonbreeder",1
+"L26M009","Lonely 26","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-10-06,99,300,0.821355236,"ingroupnonbreeder",99
+"L26M011","Lonely 26","Lonely",7,"13/07/2017",10,"Male",72,2.493346736,2017-07-13,NA,0,0,"ingroupnonbreeder",1
+"L26M011","Lonely 26","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-13,99,20,0.054757016,"ingroupnonbreeder",99
+"L26M012","Lonely 26","Lonely",7,"13/07/2017",10,"Male",86,2.493346736,2017-07-13,NA,0,0,"ingroupnonbreeder",1
+"L26M012","Lonely 26","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-13,99,20,0.054757016,"ingroupnonbreeder",99
+"L26M014","Lonely 26","Lonely",7,"15/07/2017",10,"Male",68,2.493346736,2017-07-13,NA,0,0,"ingroupnonbreeder",1
+"L26M014","Lonely 26","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-13,99,20,0.054757016,"ingroupnonbreeder",99
+"L40M007","Lonely 40","Lonely",6,"22/09/2016",10,"Male",88,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L40M007","Lonely 40","Lonely",7,"21/06/2017",12,"Male",122,52.75207139,2016-09-22,NA,272,0.744695414,"ingroupnonbreeder",1
+"L40M007","Lonely 40","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L40M011","Lonely 40","Lonely",6,"22/09/2016",10,"Male",41,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L40M011","Lonely 40","Lonely",7,"21/06/2017",12,"Male",108,52.75207139,2016-09-22,NA,272,0.744695414,"ingroupnonbreeder",1
+"L40M011","Lonely 40","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L40M015","Lonely 40","Lonely",7,"21/06/2017",12,"Male",36,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L40M015","Lonely 40","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L40M017","Lonely 40","Lonely",7,"22/06/2017",12,"Male",43,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L40M017","Lonely 40","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L40M018","Lonely 40","Lonely",7,"22/06/2017",12,"Male",40,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L40M018","Lonely 40","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L43M002","Lonely 43","Lonely",2,"17/03/2014",4,"Male",41,189.4909852,2014-03-15,NA,0,0,"ingroupnonbreeder",1
+"L43M002","Lonely 40","Lonely",6,"23/09/2016",10,"Male",157,4.678070845,2014-03-15,NA,923,2.527036277,"Disappeared",2
+"L43M004","Lonely 43","Lonely",2,"18/03/2014",4,"Male",43,189.4909852,2014-03-15,NA,0,0,"ingroupnonbreeder",1
+"L43M004",NA,"Lonely",NA,"16/09/2014",4,"Male",NA,NA,2014-03-15,NA,185,0.506502396,"Disappeared",2
+"L46M007","Lonely 46","Lonely",2,"03/04/2014",7,"Male",64,189.4909852,2014-03-31,NA,0,0,"ingroupnonbreeder",1
+"L46M007",NA,"Lonely",NA,"16/09/2014",7,"Male",NA,NA,2014-03-31,NA,169,0.462696783,"Disappeared",2
+"L46M016","Lonely 46","Lonely",6,"16/09/2016",10,"Male",64,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L46M016","Lonely 46","Lonely",7,"27/06/2017",12,"Male",106,52.75207139,2016-09-16,NA,284,0.777549624,"ingroupnonbreeder",1
+"L46M016","Lonely 46","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L46M018","Lonely 46","Lonely",6,"16/09/2016",10,"Male",90,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L46M018","Lonely 46","Lonely",7,"27/06/2017",12,"Male",127,52.75207139,2016-09-16,NA,284,0.777549624,"ingroupnonbreeder",1
+"L46M018","Lonely 46","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L46M019","Lonely 46","Lonely",6,"16/09/2016",10,"Male",43,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L46M019","Lonely 46","Lonely",7,"28/06/2017",12,"Male",105,52.75207139,2016-09-16,NA,285,0.780287474,"ingroupnonbreeder",1
+"L46M019","Lonely 46","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-16,99,320,0.876112252,"ingroupnonbreeder",99
+"L46M021","Lonely 46","Lonely",7,"28/06/2017",12,"Male",41,52.75207139,2017-06-27,NA,0,0,"ingroupnonbreeder",1
+"L46M021","Lonely 46","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-27,99,36,0.098562628,"ingroupnonbreeder",99
+"L48M002","Lonely 48","Lonely",6,"22/09/2016",6,"Male",73,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L48M002","Lonely 48","Lonely",7,"22/06/2017",11,"Male",130,52.75207139,2016-09-22,NA,273,0.747433265,"ingroupnonbreeder",1
+"L48M002","Lonely 48","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L48M003","Lonely 48","Lonely",6,"22/09/2016",6,"Male",95,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L48M003","Lonely 48","Lonely",7,"22/06/2017",11,"Male",128,52.75207139,2016-09-22,NA,273,0.747433265,"ingroupnonbreeder",1
+"L48M003","Lonely 48","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L48M004","Lonely 48","Lonely",6,"22/09/2016",6,"Male",79,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L48M004","Lonely 48","Lonely",7,"22/06/2017",11,"Male",111,52.75207139,2016-09-22,NA,273,0.747433265,"ingroupnonbreeder",1
+"L48M004","Lonely 48","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L48M005","Lonely 48","Lonely",6,"23/09/2016",6,"Male",46,4.678070845,2016-09-22,NA,0,0,"ingroupnonbreeder",1
+"L48M005","Lonely 48","Lonely",7,"23/06/2017",11,"Male",77,52.75207139,2016-09-22,NA,274,0.750171116,"ingroupnonbreeder",1
+"L48M005","Lonely 48","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-09-22,99,314,0.859685147,"ingroupnonbreeder",99
+"L48M009","Lonely 48","Lonely",7,"22/06/2017",11,"Male",49,52.75207139,2017-06-21,NA,0,0,"ingroupnonbreeder",1
+"L48M009","Lonely 48","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-21,99,42,0.114989733,"ingroupnonbreeder",99
+"L49M003","Lonely 49","Lonely",6,"16/09/2016",10,"Male",88,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L49M003",NA,"Lonely",NA,"30/05/2017",10,"Male",NA,NA,2016-09-16,NA,256,0.700889802,"Disappeared",2
+"L49M004","Lonely 49","Lonely",6,"16/09/2016",10,"Male",53,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L49M004",NA,"Lonely",NA,"30/05/2017",10,"Male",NA,NA,2016-09-16,NA,256,0.700889802,"Disappeared",2
+"L49M006","Lonely 49","Lonely",6,"17/09/2016",10,"Male",82,4.678070845,2016-09-16,NA,0,0,"ingroupnonbreeder",1
+"L49M006",NA,"Lonely",NA,"30/05/2017",10,"Male",NA,NA,2016-09-16,NA,256,0.700889802,"Disappeared",2
+"L54M002","Lonely 54","Lonely",7,"30/05/2017",5,"Male",64,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L54M002","Lonely 54","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L54M004","Lonely 54","Lonely",7,"31/05/2017",5,"Male",60,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L54M004","Lonely 54","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L54M005","Lonely 54","Lonely",7,"01/06/2017",5,"Male",33,75.0055436,2017-05-30,NA,0,0,"ingroupnonbreeder",1
+"L54M005","Lonely 54","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-05-30,99,64,0.17522245,"ingroupnonbreeder",99
+"L62M003","Lonely 62","Lonely",5,"10/02/2016",6,"Male",36,111.7311443,2016-02-08,NA,0,0,"ingroupnonbreeder",1
+"L62M003","Lonely 62","Lonely",6,"10/09/2016",6,"Male",104,4.678070845,2016-02-08,NA,215,0.588637919,"ingroupnonbreeder",1
+"L62M003","Lonely 62","Lonely",7,"06/06/2017",6,"Male",143,52.75207139,2016-02-08,NA,484,1.325119781,"ingroupnonbreeder",1
+"L62M003","Lonely 62","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2016-02-08,99,541,1.481177276,"ingroupnonbreeder",99
+"L62M006","Lonely 62","Lonely",7,"05/06/2017",6,"Male",80,52.75207139,2017-06-05,NA,0,0,"ingroupnonbreeder",1
+"L62M006","Lonely 62","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-06-05,99,58,0.158795346,"ingroupnonbreeder",99
+"L65M001","Lonely 65","Lonely",7,"13/07/2017",3,"Male",64,2.493346736,2017-07-13,NA,0,0,"ingroupnonbreeder",1
+"L65M001","Lonely 65","Lonely",NA,"02/08/2017",NA,"Male",NA,1.34743409,2017-07-13,99,20,0.054757016,"ingroupnonbreeder",99
