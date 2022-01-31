@@ -20,6 +20,6 @@ Comparing the body condition of single females vs size-matched in-group non-bree
 
 Analysing the effect of group size on the recruitment rate of offspring across the duration of our study (longitudinal analysis). We also created new pairs experimental by introducing unrelated adult males to a portion of dispersed single females. Later in the script, we compare the rates of recruitment in these nascent pairs against that in established groups (experimental analysis). The idea of this latter step was to exiplicitly, test whether the absence of additional group members reduces the reproductive output of breeding females. 
 
-## v) Sex differences in the timing of natal philopatry
+## v) The timing of natal dispersal (the duration of philopatry)
 
 Fitting a two-state Markov models to estimate the timing of natal dispersal/duration of philopatry for male and female non-breeders. The model is restricted to individuals first captured within their first year of life, so that timing can be approximately related to age. 
