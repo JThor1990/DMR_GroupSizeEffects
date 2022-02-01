@@ -4,8 +4,8 @@
 # iv- "Within-group recruitment rate" 
 #
 # R script
-# Authors: Jack Thorley, Hanna Bensch, Markus Zottl
-# Contact: jackthorley1@gmail.com
+# Authors: Jack Thorley, Hanna Bensch, Markus Zöttl
+# Contact: jack.thorley1@gmail.com
 #----------------------------------------------------------------
 
 library(glmmTMB) ; library(tidyverse)
@@ -13,8 +13,8 @@ library(glmmTMB) ; library(tidyverse)
 # In this script we explore the within-group recruitment rate in a longitudinal analysis of groups, and following experimental pairings. 
 
 # load in the recruitment datasets 
-longitudinal <- read.csv("FieldMR_Recruitment_Longitudinal.csv", header = TRUE)  # "FieldMR_Recruitment_Longitudinal.csv"
-experimental <- read.csv("FieldMR_Recruitment_Experimental.csv", header = TRUE)  # "FieldMR_Recruitment_Experimental.csv"
+longitudinal <- read.csv("FieldMR_Recruitment_Longitudinal.csv", header = TRUE) 
+experimental <- read.csv("FieldMR_Recruitment_Experimental.csv", header = TRUE)  
 
 # Model within-group recruitment in the longitudinal data
 #------------------------------------------------------------
@@ -30,7 +30,6 @@ longitudinal$Rainfall5.s <- as.numeric(scale(longitudinal$Rainfall5)) # 5) geome
 longitudinal$Rainfall6.s <- as.numeric(scale(longitudinal$Rainfall6)) # 6) Arithmetic mean rainfall in the year before the start 
 
 # fit a poisson and negative binomial to a baseline model first to see what is going on
-
 mod1 <- glmmTMB(WithinGroupRecruits ~ GroupSize.s + QueenWeight.s + offset(log(TimeToNextCap))
                 + (1|GroupID), 
                 family = "poisson", 
@@ -73,7 +72,8 @@ summary(mod1.2)
 AIC(mod1.1, mod1.2, mod1.3, mod1.4, mod1.5, mod1.6)
 # total rainfall in the preceding year is apparently 'best' (most correlated) rainfall metric
 
-newdat <- data.frame(GroupSize.s = (seq(2, 26, 0.5) - mean(longitudinal$GroupSizeAtFirstCapture))/sd(longitudinal$GroupSizeAtFirstCapture),   QueenWeight.s = 0, TimeToNextCap = 180, NewRecruits = 0, Rainfall2.s = 9, GroupID = NA)
+newdat <- data.frame(GroupSize.s = (seq(2, 26, 0.5) - mean(longitudinal$GroupSizeAtFirstCapture))/sd(longitudinal$GroupSizeAtFirstCapture),
+                     QueenWeight.s = 0, TimeToNextCap = 180, NewRecruits = 0, Rainfall2.s = 9, GroupID = NA)
 
 preds <- predict(mod1,newdat, re.form=NA, se.fit = TRUE) 
 newdat$pred <- exp(preds$fit)
@@ -103,7 +103,7 @@ summary(update(mod1.2, ~.-GroupSize.s + AvgGroupSizeWoutRecruits)) # doesn't mak
 # Experimental investigation of recruitment
 #--------------------------------------------
 
-# Compare the two 'tratments'. Note that here the only real treatment was the experimental creation of pairs in the field. 
+# Compare the two 'treatments'. Note that here the only real treatment was the experimental creation of pairs in the field. 
 # The 'established group' refers to established groups that were captured and recaptured over a similar time interval to the newly created pairs, creating a time-matched comparison. 
 
 mean(experimental$TimeToNextCap[experimental$Treatment == "EstablishedGroup"])

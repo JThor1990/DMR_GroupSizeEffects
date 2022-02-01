@@ -1,11 +1,11 @@
 #----------------------------------------------------------------
 # No obvious benefit of group size in wild Damaraland mole-rats Fukomys damarensis
 #
-# ii- "Early life growth and aduly body mass" 
+# ii- "Early life growth and adult body mass" 
 #
 # R script
-# Authors: Jack Thorley, Hanna Bensch, Markus Zottl
-# Contact: jackthorley1@gmail.com
+# Authors: Jack Thorley, Hanna Bensch, Markus Zöttl
+# Contact: jack.thorley1@gmail.com
 #----------------------------------------------------------------
 
 library(tidyverse) ; library(nlme) ; library(MASS) ; library(multcomp) 
@@ -244,10 +244,10 @@ par(mfrow=c(1,2))
   text(30, -0.05, "Females", cex = 1.1)
 
 
-  # Plot age-related variation in body mass growth by deriving the rate of change from early life 
-  # pup mass at birth is on average 10g, so we can forecast the rate of change in mass from this point at different group sizes
+# Plot age-related variation in body mass growth by deriving the rate of change from early life 
+# pup mass at birth is on average 10g, so we can forecast the rate of change in mass from this point at different group sizes
   
-   # get the male prediction first (at group sizes of 4, 12, and 20)
+# get the male prediction first (at group sizes of 4, 12, and 20)
 timevals <- seq(0, 730, 1)
 
 pframe.malemass <- expand.grid(weight = 10, timediff = timevals, 
@@ -494,7 +494,8 @@ summary(vonbert.female2.teeth)
   
 
 # Body mass graphs indicate that adults in larger groups are of lower asymptotic mass. 
-  # Just to check this trend in a more conventional manner we will visuliase the adult mass of all individuals that were first caught at less than 80g or 100g (~ 1 year of age in either sex)
+# Just to check this trend in a more conventional manner we will visuliase the adult mass of all individuals 
+  # that were first caught at less than 80g or 100g (~ 1 year of age in either sex)
   
 malesunder1yr <- malebodymass %>% 
     mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y")), 
@@ -510,7 +511,7 @@ malesunder1yr <- malebodymass %>%
 # now get the weights of all these individuals at least 1 year beyond that first weight (guarenteeing they are an adult by then) 
 # do in two stages
   
-massover1yr <-   malebodymass %>% 
+massover1yr <- malebodymass %>% 
   dplyr::select(-DateofRecapture, -weight2, -GroupSizeRecapture, -QueenID, -timediff, -rateofbodymassgrowth, -GroupSize.s) %>% 
   right_join(malesunder1yr, by = "AnimalID") %>%
   mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y"))) %>% 
@@ -728,11 +729,11 @@ p3 <- ggeffects::ggpredict(mod2, terms = "avgGroupSize.1yr.s")
 
 plot4 <- plot(p3) + 
   theme_bw() + 
-  theme(axis.text.x = element_text(size = 12), 
-        axis.text.y = element_text(size = 12), 
+  theme(axis.text = element_text(size = 12), 
         axis.title = element_text(size = 12), 
         legend.position = "none") + 
   ylab("Body Mass, g") + 
   xlab("Average group size in first year of life") 
+plot4
 
 #####-----------------  END   ------------------####

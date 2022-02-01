@@ -4,15 +4,14 @@
 # v- "Analysing the timing of natal dispersal (natal philopatry) for both sexes 
 #
 # R script
-# Authors: Jack Thorley, Hanna Bensch, Markus Zottl
-# Contact: jackthorley1@gmail.com
+# Authors: Jack Thorley, Hanna Bensch, Markus Zöttl
+# Contact: jack.thorley1@gmail.com
 #----------------------------------------------------------------
 
 library(tidyverse) ;  library(msm) ; library(msmtools)
 
 
 # call in the data
-setwd("C:/Users/jackt/OneDrive/Desktop/Damaraland mole-rat Field Papers/Data sets/")
 femalephilopatry.df <- read.csv("FieldMR_Femalephilopatry.csv", header = TRUE)
 malephilopatry.df <- read.csv("FieldMR_Malephilopatry.csv", header = TRUE)
 

@@ -12,7 +12,7 @@ Using multi-state Markov models to estimate 'survivorship' of females in one of 
 
 Modelling the effect of group size on skeletal (via teeth width) and body mass growth, as well as additional confirmatory analyses of adult mass.
 
-## iII) The body condition of single females
+## iii) The body condition of single females
 
 Comparing the body condition of single females vs size-matched in-group non-breeders, through allometric scaling relationships of body mass on skeletal size. 
 

@@ -1,26 +1,34 @@
 #----------------------------------------------------------------
 # No obvious benefit of group size in wild Damaraland mole-rats Fukomys damarensis
 #
-# i- "Status-related survivoship in females" 
+# i- "Status-related survivorship in females" 
 #
 # R script
-# Authors: Jack Thorley, Hanna Bensch, Markus Zottl
-# Contact: jackthorley1@gmail.com
+# Authors: Jack Thorley, Hanna Bensch, Markus Zöttl
+# Contact: jack.thorley1@gmail.com
 #----------------------------------------------------------------
 
 library(tidyverse) ;  library(msm) ; library(msmtools)
 
 # In this script we explore the life history trajectories of females across all captures.  
-# We  focus on all females (irrespective of when they were first captured), and build a single multi-state model in order to investigate differences in 'survivorship' the between three states: non-breeders in their group, single females, and breeding females. 
+# We  focus on all females (irrespective of when they were first captured), and build a single multi-state model in order to investigate 
+# differences in 'survivorship' the between three states: non-breeders in their group, single females, and breeding females. 
 # Technically, because we cannot know that individuals who disappear are dead, we are really estimating disappearance. 
 
 # read in the appropriate data set (will need to set your own working directory here)
 females <- read.csv("FieldMR_Fates_AllFemales.csv", header = TRUE) # Females(first captured < 80g)
 
 # first need to incorporate the plotting windows 
-trappingwindows.krr <- data.frame(TrappingWindow = 1:13, PeriodStart = as.Date(c("2013-11-17", "2014-07-27", "2015-02-10", "2015-09-16", "2016-02-04", "2016-07-25", "2017-01-16", "2017-07-31", "2018-03-17", "2018-09-14", "2019-03-09", "2019-09-09", "2020-03-05")), PeriodEnd = as.Date(c( "2014-05-21","2014-11-24", "2015-04-14", "2015-10-22", "2016-06-06", "2016-09-12", "2017-05-30", "2017-10-26", "2018-05-30", "2018-12-04", "2019-04-24", "2019-11-30", "2020-05-27")))
+trappingwindows.krr <- data.frame(TrappingWindow = 1:13, PeriodStart = as.Date(c("2013-11-17", "2014-07-27", "2015-02-10", "2015-09-16", "2016-02-04", "2016-07-25",
+                                                                                 "2017-01-16", "2017-07-31", "2018-03-17", "2018-09-14", "2019-03-09", "2019-09-09",
+                                                                                 "2020-03-05")), 
+                                                        PeriodEnd = as.Date(c( "2014-05-21","2014-11-24", "2015-04-14", "2015-10-22", "2016-06-06", "2016-09-12", 
+                                                                               "2017-05-30", "2017-10-26", "2018-05-30", "2018-12-04", "2019-04-24", "2019-11-30", 
+                                                                               "2020-05-27")))
 
-trappingwindows.lonely <- data.frame(TrappingWindow = 1:7, PeriodStart = as.Date(c("2013-09-23", "2014-03-01", "2014-09-16", "2015-01-29", "2016-02-08", "2016-09-09", "2017-05-30")), PeriodEnd = as.Date(c("2013-10-06", "2014-07-03", "2014-10-27", "2015-04-02", "2016-05-12", "2016-10-13", "2017-08-02")))
+trappingwindows.lonely <- data.frame(TrappingWindow = 1:7, PeriodStart = as.Date(c("2013-09-23", "2014-03-01", "2014-09-16", "2015-01-29", "2016-02-08", "2016-09-09", 
+                                                                                   "2017-05-30")),
+                                                          PeriodEnd = as.Date(c("2013-10-06", "2014-07-03", "2014-10-27", "2015-04-02", "2016-05-12", "2016-10-13", "2017-08-02")))
 
 # The plot for young females from "KRR"
 females$CaptureStart <- as.Date(strptime(females$CaptureStart, format = "%d/%m/%Y"))
@@ -56,13 +64,15 @@ female.fates <- ggplot(females, aes(x = CaptureStart, y = id, group = id, fill =
   ylab('Animal ID') +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, vjust = 0.6), 
-        axis.text.y = element_blank()) + 
+        axis.text.y = element_blank(),
+        axis.ticks.y = element_blank()) + 
   geom_rect(data=trappingwindows.krr, inherit.aes=FALSE,
             aes(xmin=PeriodStart,xmax=PeriodEnd,ymin=0,ymax=364), alpha = 0.2, fill = "lightblue")  + 
   geom_rect(data=trappingwindows.lonely, inherit.aes=FALSE,
             aes(xmin=PeriodStart,xmax=PeriodEnd,ymin=0,ymax=364), alpha = 0.2, fill = "lightgreen")  + 
   geom_point(size  = 4, alpha = 0.6) + 
-  scale_shape_manual(values = c(21, 21, 21, 21, 21), labels = c("Female nonbreeder", "Single female (dispersed)", "Inherited breeding position", "Breeder", "Dead/Disappeared")) +
+  scale_shape_manual(values = c(21, 21, 21, 21, 21), 
+                     labels = c("Female nonbreeder", "Single female (dispersed)", "Inherited breeding position", "Breeder", "Dead/Disappeared")) +
   scale_fill_manual(values  = c(colpal[3], "darkorange", "dodgerblue", colpal[1], "red"), guide = FALSE) + 
   scale_colour_manual(values = c("black", "black", "black", "black")) + 
   guides(shape = guide_legend(override.aes = list(fill = c(colpal[3], "darkorange", "dodgerblue", colpal[1], "red")))) +
@@ -101,7 +111,7 @@ females <- females %>%
                            statecode == "Dead" ~ 4))
 females$state[which(!is.na(females$censor))] <- 99
 
-# In a souple of places they go from breeder to single individual, and breeder to female non-breeder
+# In a couple of places they go from breeder to single individual, and breeder to female non-breeder
 statetable.msm(state, AnimalID, data = females)
 
 #  set up the q matrix for the transitions 
@@ -188,7 +198,8 @@ survivalprobabilities <- data.frame(pmatrix.msm(females.msm, t = 1, ci = "normal
 df <- data.frame(estimate = survivalprobabilities[1], lower = survivalprobabilities[2], upper = survivalprobabilities[3], 
                  class = c("nonbreeder", "single", "breeder"), num = 1:3)
 
-plot(estimate ~ num, data = df, las = 1, type  = "n", xlim = c(0, 4), ylim= c(0, 0.5), xaxt = "n", xlab = NA, ylab = "Annual probability of disappearing", bty = "l",  cex.lab = 1.1, cex.axis = 1.1)
+plot(estimate ~ num, data = df, las = 1, type  = "n", xlim = c(0, 4), ylim= c(0, 0.5), xaxt = "n", xlab = NA, 
+     ylab = "Annual probability of disappearing", bty = "l",  cex.lab = 1.1, cex.axis = 1.1)
 for(i in 1:3){
   lines(c(i, i), c(df$lower[i], df$upper[i]), lwd = 2, col = c(colpal[3], "darkorange", colpal[1])[i])
 }
