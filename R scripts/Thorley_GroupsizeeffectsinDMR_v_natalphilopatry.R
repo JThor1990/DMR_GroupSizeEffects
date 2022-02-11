@@ -198,3 +198,11 @@ axis(1, at = seq(0, 5, 0.5), labels = NA)
 axis(2, at = seq(0, 100, 10), labels = NA)
 legend("topright", legend = c("Female", "Male"), lwd = c(2,2), bty = "n", col = c("#1F9E89FF", "black"))
 
+# mean sojourn times for males and females in their natal group
+sojourn.msm(philopatry.msm.2, covariates = list(Sex = "Female", 
+                              Rainfall.s = 0, 
+                              ScaledWeight = 0))
+
+sojourn.msm(philopatry.msm.2, covariates = list(Sex = "Male", 
+                                                Rainfall.s = 0, 
+                                                ScaledWeight = 0))
