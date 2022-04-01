@@ -1,4 +1,4 @@
-# "Small group size does not impair reproduction and survival in social Damaraland mole-rats"
+# "Damaraland mole rats are not obligate cooperative breeders"
 
 The files in this repository provide the R code necessary to replicate all of the analyses in the paper. All the data were collected from a population of mole-rats living around the Kuruman River Reserve, Northern Cape, South Africa. 
 
