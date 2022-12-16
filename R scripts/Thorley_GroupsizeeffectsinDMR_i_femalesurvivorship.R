@@ -1,11 +1,11 @@
 #----------------------------------------------------------------
-# No obvious benefit of group size in wild Damaraland mole-rats Fukomys damarensis
+# Damaraland mole-rat breeders do not rely on helpers for reproduction or survival
 #
 # i- "Status-related survivorship in females" 
 #
 # R script
 # Authors: Jack Thorley, Hanna Bensch, Markus Zöttl
-# Contact: jack.thorley1@gmail.com
+# Contact: jack.thorley1@gmail.com; jbt27@cam.ac.uk
 #----------------------------------------------------------------
 
 library(tidyverse) ;  library(msm) ; library(msmtools)
