@@ -1,10 +1,10 @@
 #----------------------------------------------------------------
 # Damaraland mole-rat breeders do not rely on helpers for reproduction or survival
 #
-# i- "Status-related survivorship in females" 
+# i- "State-related survivorship in females" 
 #
 # R script
-# Authors: Jack Thorley, Hanna Bensch, Markus Zöttl
+# Authors: Jack Thorley, Hanna Bensch
 # Contact: jack.thorley1@gmail.com; jbt27@cam.ac.uk
 #----------------------------------------------------------------
 
