@@ -24,6 +24,6 @@ Analysing the effect of group size on the recruitment rate of offspring across t
 
 Fitting a two-state Markov models to estimate the timing of natal dispersal/duration of philopatry for male and female non-breeders. The model is restricted to individuals first captured within their first year of life, so that timing can be approximately related to age. 
 
-## vi) Comparison of the soil properties and climate characteristics 
+## vi) Comparison of the soil properties and climate characteristics across DMR study populations
 
-The purpose of these scripts are to show that the conditions at our field site are very similar to those at other locations where Damaraland mole-rats have been studied.  Data from the recent past shows that our field site is more arid than either Tswalu or Dordabis, and that soil properties are alike (and as such the energetic costs of burrowing through the soil are likely to be similar). 
+The purpose of these scripts are to show that the conditions at our field site in the Southern Kalahari are very similar to those at other locations where Damaraland mole-rats have been studied.  Data from the recent past shows that our field site is more arid than either Tswalu, South Africa or Dordabis, Namibia, and that soil properties are also alike (and as such the energetic costs of burrowing through the soil are likely to be similar at each site). 
