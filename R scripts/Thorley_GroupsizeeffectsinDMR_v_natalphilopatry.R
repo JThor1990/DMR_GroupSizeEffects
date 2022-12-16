@@ -1,11 +1,11 @@
 #----------------------------------------------------------------
-# Small group size does not impair reproduction and survival in social Damaraland mole-rats
+# Damaraland mole-rat breeders do not rely on helpers for reproduction or survival
 #
 # v- "Analysing the timing of natal dispersal (natal philopatry) for both sexes 
 #
 # R script
-# Authors: Jack Thorley, Hanna Bensch, Markus Zöttl
-# Contact: jack.thorley1@gmail.com
+# Authors: Jack Thorley, Hanna Bensch
+# Contact: jack.thorley1@gmail.com; jbt27@cam.ac.uk
 #----------------------------------------------------------------
 
 library(tidyverse) ;  library(msm) ; library(msmtools)
