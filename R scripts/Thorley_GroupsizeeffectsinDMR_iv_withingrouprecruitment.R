@@ -29,6 +29,15 @@ longitudinal$Rainfall4.s <- as.numeric(scale(longitudinal$Rainfall4)) # 4) sum w
 longitudinal$Rainfall5.s <- as.numeric(scale(longitudinal$Rainfall5)) # 5) geometric mean monthly in the trapping interval
 longitudinal$Rainfall6.s <- as.numeric(scale(longitudinal$Rainfall6)) # 6) Arithmetic mean rainfall in the year before the start 
 
+# check for collinearity (http://highstat.com/Books/BGS/GAMM/RCodeP2/HighstatLibV6.R)
+# Need to assess each rainfall term separately
+#corvif(longitudinal[,c("GroupSize.s", "QueenWeight.s", "Rainfall1.s")])
+#corvif(longitudinal[,c("GroupSize.s", "QueenWeight.s", "Rainfall2.s")])
+#corvif(longitudinal[,c("GroupSize.s", "QueenWeight.s", "Rainfall3.s")])
+#corvif(longitudinal[,c("GroupSize.s", "QueenWeight.s", "Rainfall4.s")])
+#corvif(longitudinal[,c("GroupSize.s", "QueenWeight.s", "Rainfall5.s")])
+#corvif(longitudinal[,c("GroupSize.s", "QueenWeight.s", "Rainfall6.s")]) # Max GVIF = 1.04
+
 # fit a poisson and negative binomial to a baseline model first to see what is going on
 mod1 <- glmmTMB(WithinGroupRecruits ~ GroupSize.s + QueenWeight.s + offset(log(TimeToNextCap))
                 + (1|GroupID), 
