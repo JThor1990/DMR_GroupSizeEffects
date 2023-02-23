@@ -165,21 +165,25 @@ plot.survfit.msm(females.msm, from = 3, las = 1,  interp = "midpoint", lwd = 3,
 # now repeat but where we shade in the confidence intervals (make them a polygon)
 # For this we need to tweak the underlying plotting function in msm "plot.survfit.msm", 
 # which is now wrapped into a function called plot.survfit.msm2 in the github folder
+
 source("plotsurvfitmsm2.R")  # call in the source code for the function from the library
+# If interested then it's also possible to plot the inverse, the probability of disappearance, using source("plotsurvfitmsm3.R") 
 
 par(mfrow = c(2,2))
 plot.survfit.msm2(females.msm, from = 1, las = 1, interp = "midpoint", lwd = 3, 
                  col =  colpal[3], col.surv = adjustcolor("black", alpha.f = 0.5), 
-                 cex.lab = 1.1, cex.axis = 1.1, ci = "normal", col.ci = colpal[3], 
-                 legend.pos = c(10, 1), xlab = "Time, years",
+                 legend.pos = c(10,1), # off the axes
+                 cex.lab = 1.1, cex.axis = 1.1, ci = "normal", col.ci = colpal[3],
+                 xlab = "Time, years",
                  col.poly = colpal[3], alpha.poly = 0.1) # the added arguments at on this line
 legend(3.7, 0.95, legend = c("Fitted", "Empirical"), lty = c(1,2), lwd = c(2,2), col = c(colpal[3], "black"), bty = "n")
 text(2, 0.1, labels = "In-group non-breeding\n females")
 
 plot.survfit.msm2(females.msm, from = 2, las = 1,  interp = "midpoint", lwd = 3, 
                  col =  "darkorange", col.surv = adjustcolor("black", alpha.f = 0.5),
+                 legend.pos = c(10,1), # off the axes
                  cex.lab = 1.1, cex.axis = 1.1,  ci = "normal", col.ci = "darkorange", 
-                 legend.pos = c(10, 1), xlab = "Time, years",
+                 xlab = "Time, years",
                  col.poly = "darkorange", alpha.poly = 0.1)  
 legend(3.7, 0.95, legend = c("Fitted", "Empirical"), lty = c(1,2), lwd = c(2,2), col = c("darkorange", "black"), bty = "n")
 text(2, 0.1, labels = "Single females")
@@ -222,3 +226,4 @@ pmatrix.msm(females.msm2, t = 1, ci = "normal") # Transition intensities over a 
 summary(females.msm2)
 
 #####-----------------  END   ------------------####
+
