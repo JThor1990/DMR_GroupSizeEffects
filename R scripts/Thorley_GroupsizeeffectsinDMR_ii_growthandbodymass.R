@@ -16,6 +16,14 @@ library(tidyverse) ; library(nlme) ; library(MASS) ; library(multcomp)
 bodymass <- read.csv("FieldMR_Growth_BodyMass.csv", header = TRUE)   
 teethwidth <- read.csv("FieldMR_Growth_Teethwidth.csv", header = TRUE) 
 
+#-------------------------
+## Note: to run the below models assuming incomplete captures missed a single individual run the following sections of code and repeat all the previous code above 
+
+#bodymass <- mutate(bodymass, GroupSize = ifelse(CompleteCapture == 1, GroupSize, GroupSize + 1))
+#teethwidth <- mutate(teethwidth, GroupSize = ifelse(CompleteCapture == 1, GroupSize, GroupSize + 1))
+
+#---------------------------------------------------
+
 # separate by sex (body mass)
 malebodymass <- filter(bodymass, Sex == "Male")
 femalebodymass <- filter(bodymass, Sex == "Female")
@@ -70,7 +78,6 @@ femaleteeth %>%
 mean(femaleteeth$GroupSize) ; sd(femaleteeth$GroupSize)
 mean(maleteeth$GroupSize) ; sd(maleteeth$GroupSize)
 
-
 ## MODEL GROWTH #-------------------------------------------------------------------------------------------------------
  # Using an interval equation for the von bertalanffy function from Schoener and Shoener 1978 Copeia
 
@@ -97,41 +104,44 @@ summary(vonbert.female)   # A = 118.85480 ; k = 0.00415
 
 summary(nls(weight2 ~ A - (A - weight)*exp(-k*timediff),
             data= malebodymass,
-            start=c(A=170,k=0.004))) # A = 168, k = 0.002375
+            start=c(A=140,k=0.002))) # A = 168, k = 0.002375
 
 vonbert.male <- nlme(weight2 ~ A - (A - weight)*exp(-k*timediff),
                      fixed=A+k~1, 
                      random= list(AnimalID = pdDiag(A + k ~ 1)),
                      data= malebodymass,
-                     start=c(A=170,k=0.01), 
-                     na.action = na.omit)
-summary(vonbert.male)   # A = 149.9768; k = 0.0035  
+                     start=c(A=150,k=0.01), 
+                     na.action = na.omit, 
+                     control = nlmeControl(maxIter = 2000, pnlsTol = 0.01, tolerance = 1e-3))
+summary(vonbert.male)   # A = 140.9768; k = 0.0035  
 
 
-# Now include group size and rainfall into the models
-# First standardise group size and rainfall
+# Now include group size into the models
+# First standardise group size
 mean(femalebodymass$GroupSize) ; sd(femalebodymass$GroupSize) # 10.88 # 6.47
 mean(malebodymass$GroupSize) ; sd(malebodymass$GroupSize) # 12.57 # 6.01
 
 femalebodymass$GroupSize.s <- as.numeric(scale(femalebodymass$GroupSize))
 malebodymass$GroupSize.s <- as.numeric(scale(malebodymass$GroupSize))
 
-# Female model 2 (with group size and rainfall
+# Female model 2 (with group size)
 vonbert.female2 <- nlme(weight2 ~ (A + AGS*GroupSize.s) - ((A + AGS*GroupSize.s) - weight)*exp(-(k + kGS*GroupSize.s)*timediff),
                         fixed=A+k + AGS + kGS ~1, 
                         random= list(AnimalID = pdDiag(A + k ~ 1)),
                         data= femalebodymass,
-                        start=c(A=118,k=0.02, AGS = 0, kGS = 0), 
-                        na.action= na.omit)
+                        start=c(A=118,k=0.003, AGS = 0, kGS = 0), 
+                        na.action= na.omit, 
+                        control = nlmeControl(maxIter = 2000, pnlsTol = 0.01, tolerance = 1e-3))
 summary(vonbert.female2)   
 
-# Male model 2 (with group size and rainfall
+# Male model 2 (with group size)
 vonbert.male2 <- nlme(weight2 ~ (A + AGS*GroupSize.s) - ((A + AGS*GroupSize.s) - weight)*exp(-(k + kGS*GroupSize.s )*timediff),
                           fixed=A+k + AGS + kGS ~1, 
                           random= list(AnimalID = pdDiag(A + k ~ 1)),
                           data= malebodymass,
-                          start=c(A=150,k=0.02, AGS = -10, kGS = 0), 
-                          na.action= na.omit)
+                          start=c(A=150,k=0.002, AGS = -10, kGS = 0), 
+                          na.action= na.omit, 
+                      control = nlmeControl(maxIter = 2000, pnlsTol = 0.01, tolerance = 1e-3))
 summary(vonbert.male2)   
 
 AIC(vonbert.female, vonbert.female2) %>% 
@@ -339,7 +349,18 @@ legend(0, 145, legend = c("small", "medium", "large"), lty = c(3,2,1), lwd = 2, 
 
 # first run a basic nls to get an idea of starting parameters for the teeth width models
 # female teeth width - baseline
+summary(nls(TeethWidth2 ~ A - (A - TeethWidth)*exp(-k*timediff),
+            data= femaleteeth,
+            start=c(A=7,k=0.005))) # A = 6.7586405, k = 0.0033687
 
+vonbert.female.teeth <- nlme(TeethWidth2 ~ A - (A - TeethWidth)*exp(-k*timediff),
+                           fixed=A+k~1, random= list(AnimalID = pdDiag(A + k ~ 1)),
+                           data= femaleteeth,
+                           start=c(A=6,k=0.005), 
+                           na.action = na.omit)
+summary(vonbert.female.teeth)   # A = 6.481952; k = 0.004272 
+
+# male teeth width ~ baseline
 summary(nls(TeethWidth2 ~ A - (A - TeethWidth)*exp(-k*timediff),
             data= maleteeth,
             start=c(A=7,k=0.005))) # A = 6.7586405, k = 0.0033687
@@ -364,7 +385,7 @@ vonbert.female2.teeth <- nlme(TeethWidth2 ~ (A + AGS*GroupSize.s) - ((A + AGS*Gr
                               fixed=A+k + AGS + kGS ~1, 
                               random= list(AnimalID = pdDiag(A + k ~ 1)),
                               data= femaleteeth,
-                              start=c(A=6,k=0.01, AGS = -0.5, kGS = 0), 
+                              start=c(A=6,k=0.005, AGS = 0, kGS = 0), 
                               na.action= na.omit, 
                               control = nlmeControl(pnlsTol = 0.01, tolerance = 1e-3))
 summary(vonbert.female2.teeth)   # A = 5.753846, k = 0.005339, AGS = -0.112547, kGS = 0.000307 
@@ -374,7 +395,7 @@ vonbert.male2.teeth <- nlme(TeethWidth2 ~ (A + AGS*GroupSize.s) - ((A + AGS*Grou
                             fixed=A+k + AGS + kGS ~1, 
                             random= list(AnimalID = pdDiag(A  + k~ 1)),
                             data= maleteeth,
-                            start=c(A=6.75,k=0.005, AGS = -0.5, kGS = 0), 
+                            start=c(A=6.75,k=0.005, AGS = 0, kGS = 0), 
                             na.action= na.omit)
 summary(vonbert.male2.teeth)   # A = 6.478592; k = 0.004281, AGS = -0.047176, kGS = 0.000065
 
@@ -490,6 +511,8 @@ summary(vonbert.female2.teeth)
   text(2.5, -0.0015, "Females", cex = 1.2)
 
 
+
+  
 #------------------------------------------------------------------------------------------  
   
 
@@ -498,8 +521,8 @@ summary(vonbert.female2.teeth)
   # that were first caught at less than 80g or 100g (~ 1 year of age in either sex)
   
 malesunder1yr <- malebodymass %>% 
-    mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y")), 
-           DateofRecapture = as.Date(strptime(DateofRecapture, format = "%d/%m/%Y"))) %>% 
+    mutate(DateofCapture = as.Date(DateofCapture), 
+           DateofRecapture = as.Date(DateofRecapture)) %>% 
     arrange(AnimalID, DateofCapture) %>% 
     group_by(AnimalID) %>% 
     slice(1) %>% 
@@ -514,14 +537,14 @@ malesunder1yr <- malebodymass %>%
 massover1yr <- malebodymass %>% 
   dplyr::select(-DateofRecapture, -weight2, -GroupSizeRecapture, -QueenID, -timediff, -rateofbodymassgrowth, -GroupSize.s) %>% 
   right_join(malesunder1yr, by = "AnimalID") %>%
-  mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y"))) %>% 
+  mutate(DateofCapture = as.Date(DateofCapture)) %>% 
   mutate(timesincefirstcapture = as.numeric(difftime(DateofCapture, FirstCapture, units = c("days")))) %>% 
   filter(timesincefirstcapture > 365) %>% 
   bind_rows(malebodymass %>% 
   dplyr::select(-DateofCapture, -weight, -GroupSize, -QueenID, -timediff, -rateofbodymassgrowth, -GroupSize.s) %>% 
   rename(DateofCapture = DateofRecapture, weight = weight2, GroupSize = GroupSizeRecapture) %>% 
   right_join(malesunder1yr, by = "AnimalID") %>%
-  mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y"))) %>% 
+  mutate(DateofCapture = as.Date(DateofCapture)) %>% 
   mutate(timesincefirstcapture = as.numeric(difftime(DateofCapture, FirstCapture, units = c("days")))) %>% 
   filter(timesincefirstcapture > 365)) %>% 
   distinct()
@@ -543,8 +566,8 @@ text(c(1, 2, 3), c(202, 202, 202), c(47, 56, 49), cex = 0.9)
 #####
 
 femalesunder1yr <- femalebodymass %>% 
-  mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y")), 
-         DateofRecapture = as.Date(strptime(DateofRecapture, format = "%d/%m/%Y"))) %>% 
+  mutate(DateofCapture = as.Date(DateofCapture), 
+         DateofRecapture = as.Date(DateofRecapture)) %>% 
   arrange(AnimalID, DateofCapture) %>% 
   group_by(AnimalID) %>% 
   slice(1) %>% 
@@ -560,14 +583,14 @@ femalesunder1yr <- femalebodymass %>%
 massover1yrfem <-   femalebodymass %>% 
   dplyr::select(-DateofRecapture, -weight2, -GroupSizeRecapture, -QueenID, -timediff, -rateofbodymassgrowth, -GroupSize.s) %>% 
   right_join(femalesunder1yr, by = "AnimalID") %>%
-  mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y"))) %>% 
+  mutate(DateofCapture = as.Date(DateofCapture)) %>% 
   mutate(timesincefirstcapture = as.numeric(difftime(DateofCapture, FirstCapture, units = c("days")))) %>% 
   filter(timesincefirstcapture > 365) %>% 
   bind_rows(femalebodymass %>% 
               dplyr::select(-DateofCapture, -weight, -GroupSize, -QueenID, -timediff, -rateofbodymassgrowth, -GroupSize.s) %>% 
               rename(DateofCapture = DateofRecapture, weight = weight2, GroupSize = GroupSizeRecapture) %>% 
               right_join(femalesunder1yr, by = "AnimalID") %>%
-              mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y"))) %>% 
+              mutate(DateofCapture = as.Date(DateofCapture)) %>% 
               mutate(timesincefirstcapture = as.numeric(difftime(DateofCapture, FirstCapture, units = c("days")))) %>% 
               filter(timesincefirstcapture > 365)) %>% 
   distinct()
@@ -593,7 +616,7 @@ text(c(1, 2, 3), c(172, 172, 172), c(37, 38, 36), cex = 0.9)
 groupsizeunder1year <- femalebodymass %>% 
   dplyr::select(-DateofRecapture, -weight2, -GroupSizeRecapture, -QueenID, -timediff, -rateofbodymassgrowth, -GroupSize.s) %>% 
   right_join(femalesunder1yr, by = "AnimalID") %>%
-  mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y"))) %>% 
+  mutate(DateofCapture = as.Date(DateofCapture)) %>% 
   mutate(timesincefirstcapture = as.numeric(difftime(DateofCapture, FirstCapture, units = c("days")))) %>% 
   filter(weight < 81) %>% 
   group_by(AnimalID) %>% 
@@ -606,7 +629,7 @@ groupsizeunder1year <- femalebodymass %>%
 groupsizeunder1year.males <- malebodymass %>% 
   dplyr::select(-DateofRecapture, -weight2, -GroupSizeRecapture, -QueenID, -timediff, -rateofbodymassgrowth, -GroupSize.s) %>% 
   right_join(malesunder1yr, by = "AnimalID") %>%
-  mutate(DateofCapture = as.Date(strptime(DateofCapture, format = "%d/%m/%Y"))) %>% 
+  mutate(DateofCapture = as.Date(DateofCapture)) %>% 
   mutate(timesincefirstcapture = as.numeric(difftime(DateofCapture, FirstCapture, units = c("days")))) %>% 
   filter(weight < 101) %>% 
   group_by(AnimalID) %>% 
