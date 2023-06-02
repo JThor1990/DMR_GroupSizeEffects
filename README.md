@@ -1,6 +1,6 @@
-# "Damaraland mole rats breeders do not rely on helpers for reproduction or survival"
+# "Damaraland mole rats do not rely on helpers for reproduction or survival"
 
-The files in this repository provide the R code necessary to replicate all of the analyses in the paper. All the data were collected from a population of mole-rats living around the Kuruman River Reserve, Northern Cape, South Africa. 
+The files in this repository provide the R code necessary to replicate all of the analyses in our Evolution Letters Paper (2023) https://doi.org/10.1093/evlett/qrad023. All the data were collected from a population of mole-rats living around the Kuruman River Reserve, Northern Cape, South Africa. 
 
 The R scripts are separated according to analysis:
 
