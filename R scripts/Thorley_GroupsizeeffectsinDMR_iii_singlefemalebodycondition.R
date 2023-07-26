@@ -21,7 +21,7 @@ bodylength <- read.csv("FieldMR_SingleFemaleCondition_BodyLength.csv", header = 
 
 # Step 1) Plot allometric relationship on a ln scale
 
-# body length ~ incisor width
+# body mass ~ incisor width
 plot(log(weight) ~ log(TeethWidth), data = teethwidth, las = 1, ylab = "ln Mass, g", xlab = "ln Incisor Width, mm", col = adjustcolor("grey30", alpha.f = 0.6))
 points(log(weight) ~ log(TeethWidth), data = subset(teethwidth, statecode == "single"), col = adjustcolor("darkorange", alpha.f = 0.5), pch = 16)
 
